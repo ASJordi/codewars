@@ -14,7 +14,5 @@ W
 'src/test/java/easy/TotalPointsTest.java,d\7\d78569b2190fec03053c7148b824ead108956fa7
 P
  src/main/java/easy/Quadrant.java,0\c\0ca7bbffdc2124c6f27f54ee66c31db24298b1e4
-T
-$src/test/java/easy/QuadrantTest.java,4\4\44d488851a0f774e10ce2709f80bec8f60118c4e
 O
 src/main/java/easy/Pillars.java,4\6\460eb63bcc9d8715d1a26e65326ab1c3119eaf56
