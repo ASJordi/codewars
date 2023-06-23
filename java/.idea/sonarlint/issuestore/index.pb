@@ -18,5 +18,3 @@ T
 $src/test/java/easy/QuadrantTest.java,4\4\44d488851a0f774e10ce2709f80bec8f60118c4e
 O
 src/main/java/easy/Pillars.java,4\6\460eb63bcc9d8715d1a26e65326ab1c3119eaf56
-S
-#src/test/java/easy/PillarsTest.java,9\d\9db04dca16b43837e9fc6adfb32deb1e0c94f77b
