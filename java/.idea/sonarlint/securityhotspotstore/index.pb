@@ -16,3 +16,15 @@ P
  src/main/java/easy/Quadrant.java,0\c\0ca7bbffdc2124c6f27f54ee66c31db24298b1e4
 O
 src/main/java/easy/Pillars.java,4\6\460eb63bcc9d8715d1a26e65326ab1c3119eaf56
+S
+#src/test/java/easy/PillarsTest.java,9\d\9db04dca16b43837e9fc6adfb32deb1e0c94f77b
+V
+&src/test/java/easy/TwiceAsOldTest.java,6\5\6575e678010f1098deea0f39269ae4e4f0a1b518
+R
+"src/main/java/easy/TwiceAsOld.java,8\c\8cd985b83213f03e8aa5f91607ca8dcfe619f05f
+T
+$src/test/java/easy/QuadrantTest.java,4\4\44d488851a0f774e10ce2709f80bec8f60118c4e
+c
+3src/test/java/easy/SumOfDifferencesInArrayTest.java,b\9\b9b83ddd1778a78c5d267ca63e279cd8b821f411
+_
+/src/main/java/easy/SumOfDifferencesInArray.java,c\f\cfca6701182336d1a9b9eb174c572dcf22e1f178

@@ -18,7 +18,13 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
     <details>
       <summary>Easy</summary>
       <ol type="1">
-        <li><a href="#">Ejercicio</a></li>
+        <li><a href="/java/src/main/java/easy/Quadrant.java">Quadrants</a></li>
+        <li><a href="/java/src/main/java/easy/QuarterOfTheYear.java">Quarter of the year</a></li>
+        <li><a href="/java/src/main/java/easy/WolvesAndSheep.java">A wolf in sheep's clothing</a></li>
+        <li><a href="/java/src/main/java/easy/TotalPoints.java">Total amount of points</a></li>
+        <li><a href="/java/src/main/java/easy/Pillars.java">Pillars</a></li>
+        <li><a href="/java/src/main/java/easy/TwiceAsOld.java">Twice as old</a></li>
+        <li><a href="/java/src/main/java/easy/SumOfDifferencesInArray.java">Sum of differences in array</a></li>
       </ol>
     </details>
     <details>
