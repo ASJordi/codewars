@@ -6,8 +6,6 @@ X
 (src/main/java/easy/QuarterOfTheYear.java,8\2\82f8f5284af51f30fcf2fa240dbfe172392ab8ba
 V
 &src/main/java/easy/WolvesAndSheep.java,d\4\d4a6b0480bc2d863e087c0a8dc27efb1d145ba91
-S
-#src/main/java/easy/TotalPoints.java,4\5\45d1af58d68cd8320d9663170ed5ad61682a69eb
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 W
