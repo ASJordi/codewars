@@ -25,6 +25,10 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/Pillars.java">Pillars</a></li>
         <li><a href="/java/src/main/java/easy/TwiceAsOld.java">Twice as old</a></li>
         <li><a href="/java/src/main/java/easy/SumOfDifferencesInArray.java">Sum of differences in array</a></li>
+        <li><a href="/java/src/main/java/easy/JustCountSheep.java">If you can't sleep, just count sheep!!</a></li>
+        <li><a href="/java/src/main/java/easy/AreaOrPerimeter.java">Area or Perimeter</a></li>
+        <li><a href="/java/src/main/java/easy/CatYearsDogYears.java">Cat years, Dog years</a></li>
+        <li><a href="/java/src/main/java/easy/ReversedSequence.java">Reversed sequence</a></li>
       </ol>
     </details>
     <details>
