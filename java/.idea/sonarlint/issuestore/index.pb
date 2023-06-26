@@ -18,8 +18,6 @@ S
 #src/test/java/easy/PillarsTest.java,9\d\9db04dca16b43837e9fc6adfb32deb1e0c94f77b
 R
 "src/main/java/easy/TwiceAsOld.java,8\c\8cd985b83213f03e8aa5f91607ca8dcfe619f05f
-V
-&src/test/java/easy/TwiceAsOldTest.java,6\5\6575e678010f1098deea0f39269ae4e4f0a1b518
 _
 /src/main/java/easy/SumOfDifferencesInArray.java,c\f\cfca6701182336d1a9b9eb174c572dcf22e1f178
 c
