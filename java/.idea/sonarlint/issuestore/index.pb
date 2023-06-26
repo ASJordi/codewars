@@ -8,8 +8,6 @@ V
 &src/main/java/easy/WolvesAndSheep.java,d\4\d4a6b0480bc2d863e087c0a8dc27efb1d145ba91
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-W
-'src/test/java/easy/TotalPointsTest.java,d\7\d78569b2190fec03053c7148b824ead108956fa7
 P
  src/main/java/easy/Quadrant.java,0\c\0ca7bbffdc2124c6f27f54ee66c31db24298b1e4
 O
@@ -26,8 +24,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-T
-$src/test/java/easy/QuadrantTest.java,4\4\44d488851a0f774e10ce2709f80bec8f60118c4e
 V
 &src/main/java/easy/JustCountSheep.java,0\1\010f482cc0211b2568503c837d2896799d716189
 Z
