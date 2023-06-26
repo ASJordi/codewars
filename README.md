@@ -31,6 +31,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ReversedSequence.java">Reversed sequence</a></li>
         <li><a href="/java/src/main/java/easy/TheFeastOfManyBeasts.java">The Feast of Many Beasts</a></li>
         <li><a href="/java/src/main/java/easy/MultiplicationTableForNumber.java">Multiplication table for number</a></li>
+        <li><a href="/java/src/main/java/easy/DayOfWeek.java">Return the day</a></li>
       </ol>
     </details>
     <details>
