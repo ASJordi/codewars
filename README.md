@@ -34,6 +34,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/DayOfWeek.java">Return the day</a></li>
         <li><a href="/java/src/main/java/easy/CenturyFromYear.java">Century From Year</a></li>
         <li><a href="/java/src/main/java/easy/SimpleMultiplication.java">Simple multiplication</a></li>
+        <li><a href="/java/src/main/java/easy/SortMyTextbooks.java">Sort My Textbooks</a></li>
       </ol>
     </details>
     <details>
