@@ -6,8 +6,6 @@ X
 (src/main/java/easy/QuarterOfTheYear.java,8\2\82f8f5284af51f30fcf2fa240dbfe172392ab8ba
 V
 &src/main/java/easy/WolvesAndSheep.java,d\4\d4a6b0480bc2d863e087c0a8dc27efb1d145ba91
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 P
  src/main/java/easy/Quadrant.java,0\c\0ca7bbffdc2124c6f27f54ee66c31db24298b1e4
 O
@@ -58,8 +56,6 @@ Q
 !src/main/java/easy/DayOfWeek.java,d\2\d2174e535327d507e14ad2266d9a1e7ffa8fe4c6
 \
 ,src/test/java/easy/CatYearsDogYearsTest.java,2\6\266b532a3895557462aede89d95d46a8dca2a05b
-U
-%src/test/java/easy/DayOfWeekTest.java,6\c\6cded206b992d7ce2cd78443cc355006ac6f457d
 [
 +src/test/java/easy/CenturyFromYearTest.java,4\0\40634b9eac9948b92379fa0215001828ab0d3051
 W
