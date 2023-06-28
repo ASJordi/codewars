@@ -41,6 +41,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SwitchItUp.java">Switch it Up!</a></li>
         <li><a href="/java/src/main/java/easy/FindThePosition.java">Find the position!</a></li>
         <li><a href="/java/src/main/java/easy/WillYouMakeIt.java">Will you make it?</a></li>
+        <li><a href="/java/src/main/java/easy/ArrayPlusArray.java">Array plus array</a></li>
       </ol>
     </details>
     <details>
