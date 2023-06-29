@@ -46,6 +46,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/TrafficLights.java">Traffic light</a></li>
         <li><a href="/java/src/main/java/easy/ReduceButGrow.java">Reduce but Grow</a></li>
         <li><a href="/java/src/main/java/easy/SumMixedArray.java">Sum Mixed Array</a></li>
+        <li><a href="/java/src/main/java/easy/RemoveStringSpaces.java">Remove String Spaces</a></li>
       </ol>
     </details>
     <details>
