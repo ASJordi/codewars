@@ -47,6 +47,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ReduceButGrow.java">Reduce but Grow</a></li>
         <li><a href="/java/src/main/java/easy/SumMixedArray.java">Sum Mixed Array</a></li>
         <li><a href="/java/src/main/java/easy/RemoveStringSpaces.java">Remove String Spaces</a></li>
+        <li><a href="/java/src/main/java/easy/ConvertAStringToAnArray.java">Convert a string to an array</a></li>
       </ol>
     </details>
     <details>
