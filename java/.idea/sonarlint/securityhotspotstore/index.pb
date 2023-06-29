@@ -16,8 +16,6 @@ R
 "src/main/java/easy/TwiceAsOld.java,8\c\8cd985b83213f03e8aa5f91607ca8dcfe619f05f
 c
 3src/test/java/easy/SumOfDifferencesInArrayTest.java,b\9\b9b83ddd1778a78c5d267ca63e279cd8b821f411
-_
-/src/main/java/easy/SumOfDifferencesInArray.java,c\f\cfca6701182336d1a9b9eb174c572dcf22e1f178
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
@@ -64,10 +62,6 @@ W
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 U
 %src/test/java/easy/DayOfWeekTest.java,6\c\6cded206b992d7ce2cd78443cc355006ac6f457d
-`
-0src/test/java/easy/SimpleMultiplicationTest.java,f\4\f4a571ea81c6383cab6109e5cc6c43a17e0cb106
-\
-,src/main/java/easy/SimpleMultiplication.java,f\3\f305cee228d5f84c48a6892e79e9cb5826077ad0
 W
 'src/main/java/easy/SortMyTextbooks.java,6\c\6c8bbfb3e429e01f55c64339a1de813b2c1c65f9
 [
@@ -98,8 +92,6 @@ U
 %src/main/java/easy/WillYouMakeIt.java,c\5\c5e509bf9c9859cc1fc69f475cfb76c185377033
 Z
 *src/test/java/easy/ArrayPlusArrayTest.java,f\5\f5f10f7f970846c3b261837af5a2311d0a128232
-V
-&src/main/java/easy/ArrayPlusArray.java,6\1\61c02f170df46c3c0a81fcfbd6bcc323b2b1fdb2
 \
 ,src/main/java/easy/AllStarCodeChallenge.java,7\8\7884615c992e0a72f9e0ba7994edc8550c6649df
 `
