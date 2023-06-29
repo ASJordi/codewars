@@ -44,6 +44,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ArrayPlusArray.java">Array plus array</a></li>
         <li><a href="/java/src/main/java/easy/AllStarCodeChallenge.java">All Star Code Challenge </a></li>
         <li><a href="/java/src/main/java/easy/TrafficLights.java">Traffic light</a></li>
+        <li><a href="/java/src/main/java/easy/ReduceButGrow.java">Reduce but Grow</a></li>
       </ol>
     </details>
     <details>
