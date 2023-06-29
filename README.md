@@ -49,6 +49,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/RemoveStringSpaces.java">Remove String Spaces</a></li>
         <li><a href="/java/src/main/java/easy/ConvertAStringToAnArray.java">Convert a string to an array</a></li>
         <li><a href="/java/src/main/java/easy/CalculateAverage.java">Calculate average</a></li>
+        <li><a href="/java/src/main/java/easy/StringRepeat.java">String repeat</a></li>
       </ol>
     </details>
     <details>
