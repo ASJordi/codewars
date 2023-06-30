@@ -55,6 +55,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/FakeBinary.java">Fake Binary</a></li>
         <li><a href="/java/src/main/java/easy/AbbreviateATwoWordName.java">Abbreviate a Two Word Name</a></li>
         <li><a href="/java/src/main/java/easy/FindMaximumAndMinimumValuesOfAList.java">Find Maximum and Minimum Values of a List</a></li>
+        <li><a href="/java/src/main/java/easy/SumOfPositive.java">Sum of positive</a></li>
       </ol>
     </details>
     <details>
