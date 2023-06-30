@@ -59,6 +59,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/RemoveExclamationMarks.java">Remove exclamation marks</a></li>
         <li><a href="/java/src/main/java/easy/YouOnlyNeedOne.java">You only need one</a></li>
         <li><a href="/java/src/main/java/easy/BasicMathematicalOperations.java">Basic Mathematical Operations</a></li>
+        <li><a href="/java/src/main/java/easy/NoZerosForHeros.java">No zeros for heros</a></li>
       </ol>
     </details>
     <details>
