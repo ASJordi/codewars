@@ -144,10 +144,6 @@ R
 "src/main/java/easy/FakeBinary.java,2\f\2f63e25ab61d98879a5af92bc15c88c1db951b82
 V
 &src/test/java/easy/FakeBinaryTest.java,9\e\9e29be32a133ae17f80d6eb7ff0419027406ffd5
-^
-.src/main/java/easy/AbbreviateATwoWordName.java,f\1\f108cb5438326e459f80c3a1a2fd724e72be001d
-b
-2src/test/java/easy/AbbreviateATwoWordNameTest.java,5\5\55d4621714b28b616b0afeef4361d28f9a2dd8f9
 n
 >src/test/java/easy/FindMaximumAndMinimumValuesOfAListTest.java,b\1\b17ea7680f1ebf3ee610ee2111b66df4af24f94d
 j
