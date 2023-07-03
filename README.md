@@ -75,6 +75,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/GrasshopperMessiGoals.java">Grasshopper - Messi Goals</a></li>
         <li><a href="/java/src/main/java/easy/GrasshopperDebugSayHello.java">Grasshopper - Debug sayHello</a></li>
         <li><a href="/java/src/main/java/easy/ThirdAngleOfATriangle.java">Third Angle of a Triangle</a></li>
+        <li><a href="/java/src/main/java/easy/PythagoreanTriple.java">Pythagorean Triple</a></li>
       </ol>
     </details>
     <details>
