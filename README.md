@@ -70,6 +70,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/MessiGoalsFunction.java">Grasshopper - Messi goals function</a></li>
         <li><a href="/java/src/main/java/easy/HowGoodAreYouReally.java">How good are you really?</a></li>
         <li><a href="/java/src/main/java/easy/FilteringEvenNumbers.java">Filtering even numbers (Bug Fixes)</a></li>
+        <li><a href="/java/src/main/java/easy/GrasshopperSummation.java">Grasshopper - Summation</a></li>
       </ol>
     </details>
     <details>

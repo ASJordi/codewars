@@ -180,8 +180,6 @@ R
 "src/main/java/easy/DoubleChar.java,a\3\a3ac89a462cb7fe74a5a01fd37e290188048bc2f
 [
 +src/test/java/easy/CountTheMonkeysTest.java,8\2\822cec71a269f2801756920f3533e003d9b7ed51
-W
-'src/main/java/easy/CountTheMonkeys.java,8\5\857fd24bd10e91e7dc25fb4159c943ae2042a8b7
 g
 7src/test/java/easy/RemoveFirstAndLastCharacterTest.java,e\c\ec5e08450b3a4841bf089c3a9e12cb24eb0af01f
 c
