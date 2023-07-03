@@ -7,6 +7,9 @@
     <groupId>org.codewars</groupId>
     <artifactId>java</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>java</name>
 
     <build>
         <plugins>
