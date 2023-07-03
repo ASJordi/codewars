@@ -77,6 +77,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ThirdAngleOfATriangle.java">Third Angle of a Triangle</a></li>
         <li><a href="/java/src/main/java/easy/PythagoreanTriple.java">Pythagorean Triple</a></li>
         <li><a href="/java/src/main/java/easy/GrasshopperGradeBook.java">Grasshopper - Grade book</a></li>
+        <li><a href="/java/src/main/java/easy/AlternatingCase.java">Alternating Case</a></li>
       </ol>
     </details>
     <details>
