@@ -67,6 +67,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SumWithoutHighestAndLowestNumber.java">Sum without highest and lowest number</a></li>
         <li><a href="/java/src/main/java/easy/CountOfPositivesSumOfNegatives.java">Count of positives / sum of negatives</a></li>
         <li><a href="/java/src/main/java/easy/DidSheSayHallo.java">Did she say hallo?</a></li>
+        <li><a href="/java/src/main/java/easy/MessiGoalsFunction.java">Grasshopper - Messi goals function</a></li>
       </ol>
     </details>
     <details>
