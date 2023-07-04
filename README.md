@@ -87,6 +87,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/VowelRemover.java">Vowel remover</a></li>
         <li><a href="/java/src/main/java/easy/WelcomeToTheCity.java">Welcome to the City</a></li>
         <li><a href="/java/src/main/java/easy/AreYouPlayingBanjo.java">Are You Playing Banjo?</a></li>
+        <li><a href="/java/src/main/java/easy/WellOfIdeasEasyVersion.java">Well of Ideas - Easy Version</a></li>
       </ol>
     </details>
     <details>
