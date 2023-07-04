@@ -79,6 +79,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/GrasshopperGradeBook.java">Grasshopper - Grade book</a></li>
         <li><a href="/java/src/main/java/easy/AlternatingCase.java">Alternating Case</a></li>
         <li><a href="/java/src/main/java/easy/ClassicHelloWorld.java">Classic Hello World</a></li>
+        <li><a href="/java/src/main/java/easy/ReversedStrings.java">Reversed Strings</a></li>
       </ol>
     </details>
     <details>
