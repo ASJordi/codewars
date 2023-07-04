@@ -80,6 +80,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/AlternatingCase.java">Alternating Case</a></li>
         <li><a href="/java/src/main/java/easy/ClassicHelloWorld.java">Classic Hello World</a></li>
         <li><a href="/java/src/main/java/easy/ReversedStrings.java">Reversed Strings</a></li>
+        <li><a href="/java/src/main/java/easy/ConvertANumberToAString.java">Convert a Number to a String</a></li>
       </ol>
     </details>
     <details>
