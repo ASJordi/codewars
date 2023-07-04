@@ -85,6 +85,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/GrasshopperPersonalizedMessage.java">Grasshopper - Personalized Message</a></li>
         <li><a href="/java/src/main/java/easy/ReturningStrings.java">Returning Strings</a></li>
         <li><a href="/java/src/main/java/easy/VowelRemover.java">Vowel remover</a></li>
+        <li><a href="/java/src/main/java/easy/WelcomeToTheCity.java">Welcome to the City</a></li>
       </ol>
     </details>
     <details>
