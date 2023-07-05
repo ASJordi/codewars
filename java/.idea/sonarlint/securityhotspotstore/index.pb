@@ -110,8 +110,6 @@ Y
 ,src/main/java/easy/SimpleMultiplication.java,f\3\f305cee228d5f84c48a6892e79e9cb5826077ad0
 _
 /src/main/java/easy/SumOfDifferencesInArray.java,c\f\cfca6701182336d1a9b9eb174c572dcf22e1f178
-V
-&src/main/java/easy/ArrayPlusArray.java,6\1\61c02f170df46c3c0a81fcfbd6bcc323b2b1fdb2
 U
 %src/main/java/easy/SumMixedArray.java,0\e\0ea3a3451e6d94c6db23a9967fd40cfb4eff9163
 ^

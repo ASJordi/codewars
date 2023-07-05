@@ -95,6 +95,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SentenceSmash.java">Sentence Smash</a></li>
         <li><a href="/java/src/main/java/easy/DNAToRNAConversion.java">DNA to RNA Conversion</a></li>
         <li><a href="/java/src/main/java/easy/AStrangeTripToTheMarket.java">A Strange Trip to the Market</a></li>
+        <li><a href="/java/src/main/java/easy/RemoveTheTime.java">Remove the time</a></li>
       </ol>
     </details>
     <details>
