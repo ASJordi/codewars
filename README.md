@@ -92,6 +92,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SortAndStar.java">Sort and Star</a></li>
         <li><a href="/java/src/main/java/easy/CorrectTheMistakesOfTheCharacterRecognitionSoftware.java">Correct the mistakes of the character recognition software</a></li>
         <li><a href="/java/src/main/java/easy/ConvertABooleanToAString.java">Convert a Boolean to a String</a></li>
+        <li><a href="/java/src/main/java/easy/SentenceSmash.java">Sentence Smash</a></li>
       </ol>
     </details>
     <details>
