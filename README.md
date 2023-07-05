@@ -89,6 +89,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/AreYouPlayingBanjo.java">Are You Playing Banjo?</a></li>
         <li><a href="/java/src/main/java/easy/WellOfIdeasEasyVersion.java">Well of Ideas - Easy Version</a></li>
         <li><a href="/java/src/main/java/easy/TheWideMouthedFrog.java">The Wide-Mouthed frog!</a></li>
+        <li><a href="/java/src/main/java/easy/SortAndStar.java">Sort and Star</a></li>
       </ol>
     </details>
     <details>
