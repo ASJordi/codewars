@@ -94,6 +94,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ConvertABooleanToAString.java">Convert a Boolean to a String</a></li>
         <li><a href="/java/src/main/java/easy/SentenceSmash.java">Sentence Smash</a></li>
         <li><a href="/java/src/main/java/easy/DNAToRNAConversion.java">DNA to RNA Conversion</a></li>
+        <li><a href="/java/src/main/java/easy/AStrangeTripToTheMarket.java">A Strange Trip to the Market</a></li>
       </ol>
     </details>
     <details>
