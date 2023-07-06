@@ -98,6 +98,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/RemoveTheTime.java">Remove the time</a></li>
         <li><a href="/java/src/main/java/easy/ArrayMean.java">Grasshopper - Array Mean</a></li>
         <li><a href="/java/src/main/java/easy/SquareNSum.java">Square(n) Sum</a></li>
+        <li><a href="/java/src/main/java/easy/LarioAndMuigiPipeProblem.java">Lario and Muigi Pipe Problem</a></li>
       </ol>
     </details>
     <details>
