@@ -102,6 +102,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/DuckDuckGoose.java">Duck Duck Goose</a></li>
         <li><a href="/java/src/main/java/easy/RemovingElements.java">Removing Elements</a></li>
         <li><a href="/java/src/main/java/easy/VolumeOfACuboid.java">Volume of a Cuboid</a></li>
+        <li><a href="/java/src/main/java/easy/SurfaceAreaAndVolumeOfABox.java">Surface Area and Volume of a Box</a></li>
       </ol>
     </details>
     <details>
