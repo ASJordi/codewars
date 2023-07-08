@@ -109,6 +109,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/BlueAndRedMarbles.java">Blue and red marbles</a></li>
         <li><a href="/java/src/main/java/easy/AreaOfASquare.java">Area of a Square</a></li>
         <li><a href="/java/src/main/java/easy/SquashTheBugsNotThedogs.java">Squash the bugs, not the dogs!</a></li>
+        <li><a href="/java/src/main/java/easy/SumSmallNumbers.java">A + B</a></li>
       </ol>
     </details>
     <details>
