@@ -26,8 +26,6 @@ Z
 *src/test/java/easy/JustCountSheepTest.java,b\d\bdaa20c38bcef3dfd3ff5effa2e98ceaf0d95b57
 W
 'src/main/java/easy/AreaOrPerimeter.java,9\3\93898489da4108f8b4c57d83601c21b6e1d7ae99
-[
-+src/test/java/easy/AreaOrPerimeterTest.java,d\a\da4f86b705c437278668fc8ef0f1ace391aa5af1
 X
 (src/main/java/easy/CatYearsDogYears.java,b\1\b1e6aea2052e84a3cec6de8059a7547a30124014
 S
@@ -52,8 +50,6 @@ h
 8src/test/java/easy/MultiplicationTableForNumberTest.java,a\d\ad41d33c41b9f9b9667bf08f4ecb1625b27fb3cd
 Q
 !src/main/java/easy/DayOfWeek.java,d\2\d2174e535327d507e14ad2266d9a1e7ffa8fe4c6
-\
-,src/test/java/easy/CatYearsDogYearsTest.java,2\6\266b532a3895557462aede89d95d46a8dca2a05b
 [
 +src/test/java/easy/CenturyFromYearTest.java,4\0\40634b9eac9948b92379fa0215001828ab0d3051
 W
@@ -68,8 +64,6 @@ W
 +src/test/java/easy/SortMyTextbooksTest.java,2\9\29f5d8b8faae8cfff30653fe0f5c09a90230081c
 T
 $src/main/java/easy/InvertValues.java,e\0\e0c37663c2bbda2324a1d0e07e2c8f23e072ffbf
-X
-(src/test/java/easy/InvertValuesTest.java,a\3\a3fe4a60dbe052f694f8ac17ecaaaec524856de9
 ^
 .src/main/java/easy/WillThereBeEnoughSpace.java,8\c\8c4b185ec2e8374ccaf44ea849404371f1e38bfe
 b
@@ -120,8 +114,6 @@ _
 /src/main/java/easy/ConvertAStringToAnArray.java,d\6\d60a3e5d00d61bae9d089d742b3b49318121ce26
 c
 3src/test/java/easy/ConvertAStringToAnArrayTest.java,5\b\5bebf18c1c5e7baed28bfff86a8af8c071639447
-\
-,src/test/java/easy/CalculateAverageTest.java,d\d\dd2258d4de8aba542d9316be895642aad3745476
 X
 (src/main/java/easy/CalculateAverage.java,a\7\a77b21e904c2939ca7372e969990a5d85024f604
 X
@@ -362,5 +354,3 @@ Y
 -src/test/java/easy/BlueAndRedMarblesTest.java,3\3\33e7f5d852d25086ee7949f72aece19505866a62
 U
 %src/main/java/easy/AreaOfASquare.java,e\e\ee83cf56e3e13abff34aa452cb80e79f6a661d33
-Y
-)src/test/java/easy/AreaOfASquareTest.java,7\f\7f1a0aa866bb61d7bd68ad880f7d6202496f732b
