@@ -112,6 +112,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SumSmallNumbers.java">A + B</a></li>
         <li><a href="/java/src/main/java/easy/Multiply.java">Multiply</a></li>
         <li><a href="/java/src/main/java/easy/Swapper.java">Swap Values</a></li>
+        <li><a href="/java/src/main/java/easy/HowDoICompareNumbers.java">How do I compare numbers?</a></li>
       </ol>
     </details>
     <details>
