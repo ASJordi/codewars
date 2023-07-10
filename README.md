@@ -114,6 +114,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/Swapper.java">Swap Values</a></li>
         <li><a href="/java/src/main/java/easy/HowDoICompareNumbers.java">How do I compare numbers?</a></li>
         <li><a href="/java/src/main/java/easy/IsItADigit.java">is it a digit?</a></li>
+        <li><a href="/java/src/main/java/easy/SimpleValidationOfAUsernameWithRegex.java">Simple validation of a username with regex</a></li>
       </ol>
     </details>
     <details>
