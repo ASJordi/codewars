@@ -354,3 +354,33 @@ Y
 -src/test/java/easy/BlueAndRedMarblesTest.java,3\3\33e7f5d852d25086ee7949f72aece19505866a62
 U
 %src/main/java/easy/AreaOfASquare.java,e\e\ee83cf56e3e13abff34aa452cb80e79f6a661d33
+c
+3src/test/java/easy/SquashTheBugsNotThedogsTest.java,5\f\5f17e4bf1a6e8a92901a20e4ca4a75878e9f574e
+_
+/src/main/java/easy/SquashTheBugsNotThedogs.java,c\7\c7b84a0f21c9567fd8bbc7dcd1cb6790fd7dad62
+[
++src/test/java/easy/SumSmallNumbersTest.java,1\4\1424e3249ed28bc8793e03b7cc0792572f9adb85
+W
+'src/main/java/easy/SumSmallNumbers.java,1\1\11ccf6c3a9405389d502f3792d9bfc852489179d
+X
+(src/test/java/easy/InvertValuesTest.java,a\3\a3fe4a60dbe052f694f8ac17ecaaaec524856de9
+\
+,src/test/java/easy/CatYearsDogYearsTest.java,2\6\266b532a3895557462aede89d95d46a8dca2a05b
+\
+,src/test/java/easy/CalculateAverageTest.java,d\d\dd2258d4de8aba542d9316be895642aad3745476
+Y
+)src/test/java/easy/AreaOfASquareTest.java,7\f\7f1a0aa866bb61d7bd68ad880f7d6202496f732b
+[
++src/test/java/easy/AreaOrPerimeterTest.java,d\a\da4f86b705c437278668fc8ef0f1ace391aa5af1
+T
+$src/test/java/easy/MultiplyTest.java,6\2\628907f3f574ff4b984f2a6beca588a7e3720b7e
+P
+ src/main/java/easy/Multiply.java,5\7\57409437150e77b6e63880d4ae75a5d045aedde3
+S
+#src/test/java/easy/SwapperTest.java,2\b\2bf89e345454a92df3102b572976efce3a64731c
+O
+src/main/java/easy/Swapper.java,6\3\63b08e1edb1fc8d13e4ef84b8e799c3525ea1f31
+`
+0src/test/java/easy/HowDoICompareNumbersTest.java,7\e\7ec570bd543378cbdf512fd2fa1542431f07418e
+\
+,src/main/java/easy/HowDoICompareNumbers.java,c\6\c62529e90ee263e9fbdb49ac2788f35ff2e2a566
