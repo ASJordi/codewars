@@ -124,6 +124,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/Ship.java">Object Oriented Piracy</a></li>
         <li><a href="/java/src/main/java/easy/Ghost.java">Color Ghost</a></li>
         <li><a href="/java/src/main/java/easy/God.java">Basic subclasses - Adam and Eve</a></li>
+        <li><a href="/java/src/main/java/easy/Cube.java">Playing with cubes I</a></li>
       </ol>
     </details>
     <details>
