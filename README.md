@@ -120,6 +120,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/CheckForFactor.java">Check for factor</a></li>
         <li><a href="/java/src/main/java/easy/DutyFree.java">Duty Free</a></li>
         <li><a href="/java/src/main/java/easy/PowersOfTwo.java">Powers of 2</a></li>
+        <li><a href="/java/src/main/java/easy/IsYourPeriodLate.java">Is your period late?</a></li>
       </ol>
     </details>
     <details>
