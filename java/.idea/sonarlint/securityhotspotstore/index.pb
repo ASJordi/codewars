@@ -372,8 +372,6 @@ P
 ,src/test/java/easy/CalculateAverageTest.java,d\d\dd2258d4de8aba542d9316be895642aad3745476
 Y
 )src/test/java/easy/AreaOfASquareTest.java,7\f\7f1a0aa866bb61d7bd68ad880f7d6202496f732b
-[
-+src/test/java/easy/AreaOrPerimeterTest.java,d\a\da4f86b705c437278668fc8ef0f1ace391aa5af1
 T
 $src/test/java/easy/MultiplyTest.java,6\2\628907f3f574ff4b984f2a6beca588a7e3720b7e
 S
