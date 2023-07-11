@@ -127,6 +127,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/Cube.java">Playing with cubes I</a></li>
         <li><a href="/java/src/main/java/easy/HQ.java">HQ9+</a></li>
         <li><a href="/java/src/main/java/easy/DifferenceOfVolumesOfCuboids.java">Difference of Volumes of Cuboids</a></li>
+        <li><a href="/java/src/main/java/easy/ReplaceAllVowelToExclamationMarkInTheSentence.java">Replace all vowel to exclamation mark in the sentence</a></li>
       </ol>
     </details>
     <details>
