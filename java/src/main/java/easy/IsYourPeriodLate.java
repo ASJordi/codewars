@@ -8,7 +8,7 @@ public class IsYourPeriodLate {
     public static boolean periodIsLate(LocalDate last, LocalDate today, int cycleLength) {
 
         return ChronoUnit.DAYS.between(last, today) > cycleLength;
-        
+
     }
 
 }
