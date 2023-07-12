@@ -134,6 +134,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ReturnNegative.java">Return Negative</a></li>
         <li><a href="/java/src/main/java/easy/SchoolPaperwork.java">School Paperwork</a></li>
         <li><a href="/java/src/main/java/easy/Cockroach.java">Cockroach</a></li>
+        <li><a href="/java/src/main/java/easy/FormattingDecimalPlaces.java">Formatting decimal places</a></li>
       </ol>
     </details>
     <details>
