@@ -410,3 +410,37 @@ W
 'src/test/java/easy/PowersOfTwoTest.java,e\a\eaba4efd93b32cc2946edc9b44b34db524bc7756
 S
 #src/main/java/easy/PowersOfTwo.java,1\1\117d6298000f88656693a67cf35aeff2d0fdf1dd
+\
+,src/test/java/easy/IsYourPeriodLateTest.java,8\e\8eb259d1f786c2bafce8e935a2b78018b13bc72b
+X
+(src/main/java/easy/IsYourPeriodLate.java,4\3\436f456338499246fa7528036296dd329af4d1ed
+P
+ src/test/java/easy/ShipTest.java,7\2\72639aa449a075f57083b865bce2b54b52f4b455
+L
+src/main/java/easy/Ship.java,1\8\1812b91254ca8844b39a9a5b9d53e9ce1c9e4bd9
+[
++src/test/java/easy/AreaOrPerimeterTest.java,d\a\da4f86b705c437278668fc8ef0f1ace391aa5af1
+Q
+!src/test/java/easy/GhostTest.java,1\2\120af3bd827436c86ec5e03a83d078806b172096
+M
+src/main/java/easy/Ghost.java,3\8\384ee172fc1b005cbde2e7958a53b3636a10c420
+K
+src/main/java/easy/God.java,e\a\ea52523608d7fe4505f421a612efbcfd7e140e79
+O
+src/test/java/easy/GodTest.java,3\5\35419c3244e98b147b4516eb2320272d43dcd014
+L
+src/main/java/easy/Cube.java,b\9\b9ace12f8c4a768b4ffbb93c563c70c8f590eb08
+P
+ src/test/java/easy/CubeTest.java,0\f\0fac0ddd69d0c379e19d04785c31d5ecf87a339e
+N
+src/test/java/easy/HQTest.java,7\5\75e509e250346cd0493af9f1843a4b219a978c75
+J
+src/main/java/easy/HQ.java,9\c\9c300f822196ade5ebd3817b2f5f2f291df4d461
+d
+4src/main/java/easy/DifferenceOfVolumesOfCuboids.java,0\1\011bc1ba67a1b63d0531816d5ed88b8db9c66fff
+h
+8src/test/java/easy/DifferenceOfVolumesOfCuboidsTest.java,4\0\4008ccef69f13605333cb1163a5237fbeca9ae62
+y
+Isrc/test/java/easy/ReplaceAllVowelToExclamationMarkInTheSentenceTest.java,8\7\876d7dc5f205023a15ba92ef58ae78360c884416
+u
+Esrc/main/java/easy/ReplaceAllVowelToExclamationMarkInTheSentence.java,4\3\43a78e972b2d63aeeead4824ca83610275478df3
