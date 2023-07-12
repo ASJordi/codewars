@@ -129,6 +129,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/DifferenceOfVolumesOfCuboids.java">Difference of Volumes of Cuboids</a></li>
         <li><a href="/java/src/main/java/easy/ReplaceAllVowelToExclamationMarkInTheSentence.java">Replace all vowel to exclamation mark in the sentence</a></li>
         <li><a href="/java/src/main/java/easy/IsItEven.java">Is it even?</a></li>
+        <li><a href="/java/src/main/java/easy/CalculateBMI.java">Calculate BMI</a></li>
       </ol>
     </details>
     <details>
