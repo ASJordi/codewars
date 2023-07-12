@@ -130,6 +130,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ReplaceAllVowelToExclamationMarkInTheSentence.java">Replace all vowel to exclamation mark in the sentence</a></li>
         <li><a href="/java/src/main/java/easy/IsItEven.java">Is it even?</a></li>
         <li><a href="/java/src/main/java/easy/CalculateBMI.java">Calculate BMI</a></li>
+        <li><a href="/java/src/main/java/easy/LeonardoDicaprioAndOscars.java">Leonardo Dicaprio and Oscars</a></li>
       </ol>
     </details>
     <details>
