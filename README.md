@@ -139,6 +139,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SumOfMultiples.java">Sum of Multiples</a></li>
         <li><a href="/java/src/main/java/easy/SumOfMultiples.java">Rock Paper Scissors!</a></li>
         <li><a href="/java/src/main/java/easy/HelloWorld.java">Hello World</a></li>
+        <li><a href="/java/src/main/java/easy/SquaringAnArgument.java">Squaring an argument</a></li>
       </ol>
     </details>
     <details>
