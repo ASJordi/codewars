@@ -141,6 +141,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/HelloWorld.java">Hello World</a></li>
         <li><a href="/java/src/main/java/easy/SquaringAnArgument.java">Squaring an argument</a></li>
         <li><a href="/java/src/main/java/easy/SleighAuthentication.java">Sleigh Authentication</a></li>
+        <li><a href="/java/src/main/java/easy/KataExampleTwist.java">Kata Example Twist</a></li>
       </ol>
     </details>
     <details>
