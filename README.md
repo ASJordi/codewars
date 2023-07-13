@@ -144,6 +144,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/KataExampleTwist.java">Kata Example Twist</a></li>
         <li><a href="/java/src/main/java/easy/ConvertBooleanValuesToStringsYesOrNo.java">Convert boolean values to strings Yes or No</a></li>
         <li><a href="/java/src/main/java/easy/SumArrays.java">Sum Arrays</a></li>
+        <li><a href="/java/src/main/java/easy/YouCannotCodeUnderPressure.java">You Can't Code Under Pressure</a></li>
       </ol>
     </details>
     <details>
