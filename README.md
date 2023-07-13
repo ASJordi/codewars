@@ -138,6 +138,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ParseNiceIntFromCharProblem.java">Parse nice int from char problem</a></li>
         <li><a href="/java/src/main/java/easy/SumOfMultiples.java">Sum of Multiples</a></li>
         <li><a href="/java/src/main/java/easy/SumOfMultiples.java">Rock Paper Scissors!</a></li>
+        <li><a href="/java/src/main/java/easy/HelloWorld.java">Hello World</a></li>
       </ol>
     </details>
     <details>
