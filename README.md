@@ -146,6 +146,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/SumArrays.java">Sum Arrays</a></li>
         <li><a href="/java/src/main/java/easy/YouCannotCodeUnderPressure.java">You Can't Code Under Pressure</a></li>
         <li><a href="/java/src/main/java/easy/TakeTheFirstNElements.java">Take the First N Elements</a></li>
+        <li><a href="/java/src/main/java/easy/TrueForAll.java">True for All</a></li>
       </ol>
     </details>
     <details>
