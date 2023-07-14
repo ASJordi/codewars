@@ -150,6 +150,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/Plural.java">Plural</a></li>
         <li><a href="/java/src/main/java/easy/OppositesAttract.java">Opposites Attract</a></li>
         <li><a href="/java/src/main/java/easy/CountingSheep.java">Counting sheep</a></li>
+        <li><a href="/java/src/main/java/easy/ConvertNumberToReversedArrayOfDigits.java">Convert number to reversed array of digits</a></li>
       </ol>
     </details>
     <details>
