@@ -155,6 +155,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/GetCharacterFromASCIIValue.java">get character from ASCII Value</a></li>
         <li><a href="/java/src/main/java/easy/WhatIsBetween.java">What is between?</a></li>
         <li><a href="/java/src/main/java/easy/MergingSortedIntegerArrays.java">Merging sorted integer arrays (without duplicates)</a></li>
+        <li><a href="/java/src/main/java/easy/CountByX.java">Count by X</a></li>
       </ol>
     </details>
     <details>
