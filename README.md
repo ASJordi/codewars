@@ -153,6 +153,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/ConvertNumberToReversedArrayOfDigits.java">Convert number to reversed array of digits</a></li>
         <li><a href="/java/src/main/java/easy/FindTheSmallestIntegerInTheArray.java">Find the smallest integer in the array</a></li>
         <li><a href="/java/src/main/java/easy/GetCharacterFromASCIIValue.java">get character from ASCII Value</a></li>
+        <li><a href="/java/src/main/java/easy/WhatIsBetween.java">What is between?</a></li>
       </ol>
     </details>
     <details>
