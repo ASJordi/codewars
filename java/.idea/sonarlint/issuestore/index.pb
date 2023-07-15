@@ -556,3 +556,23 @@ T
 $src/test/java/easy/CountByXTest.java,6\c\6c17f19934b01f3b6021f76a0477f4a923b11efc
 P
  src/main/java/easy/CountByX.java,d\a\da749e162bb264754e4bfbafa1287a7de132f79e
+d
+4src/test/java/easy/TerminalGameMoveFunctionTest.java,0\0\00fb7830588c6df19659caa9bba513b678d0ffca
+`
+0src/main/java/easy/TerminalGameMoveFunction.java,8\7\87fa1d8dd04241947e6fd1949ebde323e601377a
+S
+#src/test/java/easy/WelcomeTest.java,9\2\926dfaf921745a6c8958f9afa3cf6f9a6d142f49
+O
+src/main/java/easy/Welcome.java,1\0\1070babb97663255ff405922c911584c3999f725
+t
+Dsrc/test/java/easy/PrintingArrayElementsWithCommaDelimitersTest.java,b\4\b4be99ab1e6dc5d6c68aa24eb9d23a78087bbb55
+p
+@src/main/java/easy/PrintingArrayElementsWithCommaDelimiters.java,0\3\03aca557c588152d74f8443cc5a917c3ebe51d0d
+
+Osrc/test/java/easy/RemoveNExclamationMarksInTheSentenceFromLeftToRightTest.java,f\e\fed8c8765e20da375d485d5abf8a66ad031609a2
+{
+Ksrc/main/java/easy/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java,b\8\b84a0a9e25f59c33f73622ddc4bf5b316dfda25e
+W
+'src/main/java/easy/MultipleOfIndex.java,2\9\29663fd85458abda6841edf37a798bcef3931abc
+[
++src/test/java/easy/MultipleOfIndexTest.java,a\d\ad04d63b3465bbc1064e41ccec72a5c77bdcdc61
