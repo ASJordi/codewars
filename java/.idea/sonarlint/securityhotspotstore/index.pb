@@ -524,3 +524,35 @@ R
 "src/test/java/easy/PluralTest.java,b\b\bb183df078d2f76645c408e3be22856631211ab3
 N
 src/main/java/easy/Plural.java,4\1\41ebf69141f7689cd0911528970d0431c111484f
+\
+,src/test/java/easy/OppositesAttractTest.java,d\f\df64f971c95d168760de443f783e51550a703e47
+X
+(src/main/java/easy/OppositesAttract.java,e\9\e903ff0c783326d3494bc5f9a748f81c07a330bc
+Y
+)src/test/java/easy/CountingSheepTest.java,5\f\5f139e2ff32471435d4cbaf00c82f53a9b24382b
+U
+%src/main/java/easy/CountingSheep.java,7\0\7085389c48597c8e397768dd66af13eda43b3d85
+p
+@src/test/java/easy/ConvertNumberToReversedArrayOfDigitsTest.java,6\c\6ce60be693186f11646f48960d198146f635ab9b
+l
+<src/main/java/easy/ConvertNumberToReversedArrayOfDigits.java,b\9\b9a037834d3bf0ee4a015e9d9952c2ae1c0e007b
+l
+<src/test/java/easy/FindTheSmallestIntegerInTheArrayTest.java,1\5\15479512c201b6f14a2c3991ff22c3843684c13d
+h
+8src/main/java/easy/FindTheSmallestIntegerInTheArray.java,c\5\c501cabc4618c9d2c9dcfa8afb6408b083ae0393
+f
+6src/test/java/easy/GetCharacterFromASCIIValueTest.java,a\4\a4f8a8898ab96b61b0c56192068725b4f9042c9e
+b
+2src/main/java/easy/GetCharacterFromASCIIValue.java,e\9\e9400dcbacc32d6c0cb109a87a2b876fb6b03a6d
+Y
+)src/test/java/easy/WhatIsBetweenTest.java,9\2\92bcb444c20c81af3eff3ff7b09ad8d3cba694c8
+U
+%src/main/java/easy/WhatIsBetween.java,7\5\75f4adebdf44cd110b43533746a02eb7a43b6426
+f
+6src/test/java/easy/MergingSortedIntegerArraysTest.java,f\e\fe73129277342b8f0c28a21691c0862453e52653
+b
+2src/main/java/easy/MergingSortedIntegerArrays.java,a\1\a115eb5453aeeba03575809ec90c90ac820a2f65
+T
+$src/test/java/easy/CountByXTest.java,6\c\6c17f19934b01f3b6021f76a0477f4a923b11efc
+P
+ src/main/java/easy/CountByX.java,d\a\da749e162bb264754e4bfbafa1287a7de132f79e
