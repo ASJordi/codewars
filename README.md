@@ -159,6 +159,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/easy/TerminalGameMoveFunction.java">Terminal game move function</a></li>
         <li><a href="/java/src/main/java/easy/Welcome.java">Welcome</a></li>
         <li><a href="/java/src/main/java/easy/PrintingArrayElementsWithCommaDelimiters.java">Printing Array elements with Comma delimiters</a></li>
+        <li><a href="/java/src/main/java/easy/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java">Remove n exclamation marks in the sentence from left to right</a></li>
       </ol>
     </details>
     <details>
