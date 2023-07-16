@@ -54,8 +54,6 @@ Q
 +src/test/java/easy/CenturyFromYearTest.java,4\0\40634b9eac9948b92379fa0215001828ab0d3051
 W
 'src/main/java/easy/CenturyFromYear.java,0\5\05036303740a46e9e7808bd23ed1ab13fae9ae27
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 U
 %src/test/java/easy/DayOfWeekTest.java,6\c\6cded206b992d7ce2cd78443cc355006ac6f457d
 W
