@@ -164,6 +164,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/SetAlarm.java">Set Alarm</a></li>
         <li><a href="/java/src/main/java/kyu8/ANeedleInTheHaystack.java">A Needle in the Haystack</a></li>
         <li><a href="/java/src/main/java/kyu8/XOR.java">Exclusive "or" (xor) Logical Operator</a></li>
+        <li><a href="/java/src/main/java/kyu8/FindTheFirstNonConsecutiveNumber.java">Find the first non-consecutive number</a></li>
       </ol>
     </details>
     <details>
