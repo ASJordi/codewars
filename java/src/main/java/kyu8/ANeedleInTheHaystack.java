@@ -15,7 +15,7 @@ public class ANeedleInTheHaystack {
 //        return msg;
 
         return String.format("found the needle at position %d", java.util.Arrays.asList(haystack).indexOf("needle"));
-        
+
     }
 
 }
