@@ -1,9 +1,0 @@
-
-|
-java:S1488	"_Immediately return this expression instead of assigning it to the temporary variable "respond".(ñ¦´¡8‡ğÀ²“1
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Àã†•8ğÀ²“1
-a
-java:S3358	"DExtract this nested ternary operation into an independent statement.(ñ¦´¡8‘ğÀ²“1
-a
-java:S3358	"DExtract this nested ternary operation into an independent statement.(ñ¦´¡8‘ğÀ²“1
