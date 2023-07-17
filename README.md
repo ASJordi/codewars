@@ -162,6 +162,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/RemoveNExclamationMarksInTheSentenceFromLeftToRight.java">Remove n exclamation marks in the sentence from left to right</a></li>
         <li><a href="/java/src/main/java/kyu8/MultipleOfIndex.java">Multiple of index</a></li>
         <li><a href="/java/src/main/java/kyu8/SetAlarm.java">Set Alarm</a></li>
+        <li><a href="/java/src/main/java/kyu8/ANeedleInTheHaystack.java">A Needle in the Haystack</a></li>
       </ol>
     </details>
     <details>
