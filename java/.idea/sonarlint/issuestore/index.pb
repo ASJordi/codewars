@@ -10,3 +10,31 @@ S
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 U
 %src/test/java/kyu8/CockroachTest.java,c\9\c90c8d1468eb9a466caa3f5f5d759f84d4960a7d
+T
+$src/test/java/kyu8/SetAlarmTest.java,c\d\cde6159a2407dfa2e3c9c4e41f7640212441be4e
+P
+ src/main/java/kyu8/SetAlarm.java,2\1\2176058f29fc2aed3d827319d78c36c7d39ef6b2
+`
+0src/test/java/kyu8/ANeedleInTheHaystackTest.java,8\a\8a05f25f5093ff0b1a2e2eb6f5aae0fe8fd34f7c
+\
+,src/main/java/kyu8/ANeedleInTheHaystack.java,8\c\8c890069712e77b8fd16fb0a3585e014b61f7bfe
+O
+src/test/java/kyu8/XORTest.java,5\3\53470df4c2f871b122750867cec92e2e708f23cc
+K
+src/main/java/kyu8/XOR.java,e\a\ea85b03c48b12c395b1d8219192812d616aeae21
+l
+<src/test/java/kyu8/FindTheFirstNonConsecutiveNumberTest.java,2\9\295658ca9c23a139a3625ab0451e56cc51ee1cc3
+h
+8src/main/java/kyu8/FindTheFirstNonConsecutiveNumber.java,7\2\724efa990e3537453d5a7b816d6d929e1ea9ab6f
+Q
+!src/test/java/kyu8/ClockTest.java,1\1\1166217e6cc4080f5f9d5dfde7ec3b3b53e84405
+M
+src/main/java/kyu8/Clock.java,a\3\a3248314ddf458832c6f663c300d095f9ae76e50
+c
+3src/test/java/kyu8/FuelCalculatorTotalCostTest.java,e\c\eca2ba246dbf11e8f065359039fd0d44f8fbd466
+_
+/src/main/java/kyu8/FuelCalculatorTotalCost.java,8\b\8be2afd144f5add9fd9e1713996300708241ed9b
+[
++src/test/java/kyu8/StringTemplatesTest.java,f\5\f5db8d9930c839de32bcefb9d8cd959b79c524e7
+W
+'src/main/java/kyu8/StringTemplates.java,1\4\1444fd925a0a3a9eee89701fdae489f762546271

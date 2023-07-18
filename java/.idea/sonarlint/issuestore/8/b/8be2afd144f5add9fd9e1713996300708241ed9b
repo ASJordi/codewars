@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ş›Ñ8ª¸”©–1
+^
+java:S1854"ARemove this useless assignment to local variable "pricePerLitre".(áè×™8¯¸”©–1
+W
+java:S1854":Remove this useless assignment to local variable "litres".(­ƒ8¯¸”©–1
+H
+java:S1481"+Remove this unused "litres" local variable.(­ƒ8°¸”©–1
+O
+java:S1481"2Remove this unused "pricePerLitre" local variable.(áè×™8°¸”©–1
