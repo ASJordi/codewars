@@ -169,6 +169,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/FuelCalculatorTotalCost.java">Fuel Calculator: Total Cost</a></li>
         <li><a href="/java/src/main/java/kyu8/StringTemplates.java">String Templates</a></li>
         <li><a href="/java/src/main/java/kyu8/ReversedWords.java">Reversed Words</a></li>
+        <li><a href="/java/src/main/java/kyu8/KeepUpTheHoop.java">Keep up the hoop</a></li>
       </ol>
     </details>
     <details>
