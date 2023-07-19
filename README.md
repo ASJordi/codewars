@@ -179,6 +179,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/UnfinishedLoop.java">Unfinished Loop</a></li>
         <li><a href="/java/src/main/java/kyu8/JennysSecretMessage.java">Jenny's secret message</a></li>
         <li><a href="/java/src/main/java/kyu8/PushAnObjectIntoArray.java">Push a hash/an object into array</a></li>
+        <li><a href="/java/src/main/java/kyu8/BasicVariableAssignment.java">Basic variable assignment</a></li>
       </ol>
     </details>
     <details>
