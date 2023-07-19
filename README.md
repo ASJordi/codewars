@@ -185,6 +185,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/UnexpectedParsing.java">Unexpected parsing</a></li>
         <li><a href="/java/src/main/java/kyu8/CountOddNumbersBelowN.java">Count Odd Numbers below n</a></li>
         <li><a href="/java/src/main/java/kyu8/GetNthEvenNumber.java">Get Nth Even Number</a></li>
+        <li><a href="/java/src/main/java/kyu8/StaticElectrickery.java">Static electrickery</a></li>
       </ol>
     </details>
     <details>
