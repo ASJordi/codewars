@@ -174,6 +174,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/IsItANumber.java">Is it a number?</a></li>
         <li><a href="/java/src/main/java/kyu8/StringyStrings.java">Stringy Strings</a></li>
         <li><a href="/java/src/main/java/kyu8/ILoveYouALittleALotPassionatelyNotAtAll.java">I love you, a little , a lot, passionately ... not at all</a></li>
+        <li><a href="/java/src/main/java/kyu8/GetTheMeanOfAnArray.java">Get the mean of an array</a></li>
       </ol>
     </details>
     <details>
