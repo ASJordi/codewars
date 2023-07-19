@@ -183,6 +183,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/DoIGetABonus.java">Do I get a bonus?</a></li>
         <li><a href="/java/src/main/java/kyu8/IsNDivisibleByXAndY.java">Is n divisible by x and y?</a></li>
         <li><a href="/java/src/main/java/kyu8/UnexpectedParsing.java">Unexpected parsing</a></li>
+        <li><a href="/java/src/main/java/kyu8/CountOddNumbersBelowN.java">Count Odd Numbers below n</a></li>
       </ol>
     </details>
     <details>
