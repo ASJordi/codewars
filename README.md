@@ -16,7 +16,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
   <summary>Java</summary>
   <ul>
     <details>
-      <summary>Easy</summary>
+      <summary>8 kyu</summary>
       <ol type="1">
         <li><a href="/java/src/main/java/kyu8/Quadrant.java">Quadrants</a></li>
         <li><a href="/java/src/main/java/kyu8/QuarterOfTheYear.java">Quarter of the year</a></li>
@@ -198,13 +198,13 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       </ol>
     </details>
     <details>
-      <summary>Medium</summary>
+      <summary>7 kyu</summary>
       <ol type="1">
         <li><a href="#">Ejercicio</a></li>
       </ol>
     </details>
     <details>
-      <summary>Hard</summary>
+      <summary>6 kyu</summary>
       <ol type="1">
         <li><a href="#">Ejercicio</a></li>
       </ol>
