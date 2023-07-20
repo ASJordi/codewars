@@ -188,6 +188,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/StaticElectrickery.java">Static electrickery</a></li>
         <li><a href="/java/src/main/java/kyu8/ReplaceAllDots.java">Replace all dots</a></li>
         <li><a href="/java/src/main/java/kyu8/GhostCode.java">Ghost code</a></li>
+        <li><a href="/java/src/main/java/kyu8/HowManyStairsWillSuzukiClimbIn20Years.java">How many stairs will Suzuki climb in 20 years?</a></li>
       </ol>
     </details>
     <details>
