@@ -92,8 +92,6 @@ T
 $src/main/java/kyu8/DoIGetABonus.java,5\3\53c66822d73a53774b178367e0adc95719a26fcb
 _
 /src/test/java/kyu8/IsNDivisibleByXAndYTest.java,2\7\27589f94244c5e5087b7e3e1a35fa5d5709c7462
-[
-+src/main/java/kyu8/IsNDivisibleByXAndY.java,a\9\a9be49f3178ff2313cee71e03e32ede05cc7f5d4
 ]
 -src/test/java/kyu8/UnexpectedParsingTest.java,3\b\3bac5a2c12c298f6a4407b783608930eb113662e
 Y

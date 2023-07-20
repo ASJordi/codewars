@@ -193,6 +193,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/TripleTrouble.java">Triple Trouble</a></li>
         <li><a href="/java/src/main/java/kyu8/MilesPerGallonToKilometersPerLiter.java">Miles per gallon to kilometers per liter</a></li>
         <li><a href="/java/src/main/java/kyu8/ToSquareOrNotToSquare.java">To square(root) or not to square(root)</a></li>
+        <li><a href="/java/src/main/java/kyu8/FindNumbersWhichAreDivisibleByGivenNumber.java">Find numbers which are divisible by given number</a></li>
       </ol>
     </details>
     <details>
