@@ -206,7 +206,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
     <details>
       <summary>6 kyu</summary>
       <ol type="1">
-        <li><a href="#">Ejercicio</a></li>
+        <li><a href="/java/src/main/java/kyu6/SumOfDigitsDigitalRoot.java">Sum of Digits / Digital Root</a></li>
       </ol>
     </details>
   </ul>
