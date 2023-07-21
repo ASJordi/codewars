@@ -200,6 +200,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/HexToDecimal.java">Hex to Decimal</a></li>
         <li><a href="/java/src/main/java/kyu8/ConvertToBinary.java">Convert to Binary</a></li>
         <li><a href="/java/src/main/java/kyu8/SmallestUnusedID.java">Smallest unused ID</a></li>
+        <li><a href="/java/src/main/java/kyu8/WilsonPrime.java">Wilson primes</a></li>
       </ol>
     </details>
     <details>
