@@ -195,6 +195,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/ToSquareOrNotToSquare.java">To square(root) or not to square(root)</a></li>
         <li><a href="/java/src/main/java/kyu8/FindNumbersWhichAreDivisibleByGivenNumber.java">Find numbers which are divisible by given number</a></li>
         <li><a href="/java/src/main/java/kyu8/IndexOfAnElementInAnArray.java">Index of an element in an array</a></li>
+        <li><a href="/java/src/main/java/kyu8/EasyLogs.java">Easy logs</a></li>
       </ol>
     </details>
     <details>
