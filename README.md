@@ -209,6 +209,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DotCalculator.java">Dot Calculator</a></li>
         <li><a href="/java/src/main/java/kyu7/Last.java">Last</a></li>
         <li><a href="/java/src/main/java/kyu7/FunWithListsLength.java">Fun with lists: length</a></li>
+        <li><a href="/java/src/main/java/kyu7/UnluckyDays.java">Unlucky Days</a></li>
       </ol>
     </details>
     <details>
