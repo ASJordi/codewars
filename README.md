@@ -207,6 +207,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       <summary>7 kyu</summary>
       <ol type="1">
         <li><a href="/java/src/main/java/kyu7/DotCalculator.java">Dot Calculator</a></li>
+        <li><a href="/java/src/main/java/kyu7/Last.java">Last</a></li>
       </ol>
     </details>
     <details>
