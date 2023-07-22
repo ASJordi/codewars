@@ -211,6 +211,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/FunWithListsLength.java">Fun with lists: length</a></li>
         <li><a href="/java/src/main/java/kyu7/UnluckyDays.java">Unlucky Days</a></li>
         <li><a href="/java/src/main/java/kyu7/LeapYears.java">Leap Years</a></li>
+        <li><a href="/java/src/main/java/kyu7/AgeIndays.java">Age in days</a></li>
       </ol>
     </details>
     <details>
