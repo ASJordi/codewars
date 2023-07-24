@@ -220,6 +220,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/Ch4113ng3.java">Ch4113ng3</a></li>
         <li><a href="/java/src/main/java/kyu7/RemoveDuplicateWords.java">Remove duplicate words</a></li>
         <li><a href="/java/src/main/java/kyu7/FindTheIndexOfTheSecondOccurrenceOfALetterInAString.java">Find the index of the second occurrence of a letter in a string</a></li>
+        <li><a href="/java/src/main/java/kyu7/SimpleRemoveDuplicates.java">Simple remove duplicates</a></li>
       </ol>
     </details>
     <details>
