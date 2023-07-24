@@ -217,6 +217,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SortTheGiftCode.java">Sort the Gift Code</a></li>
         <li><a href="/java/src/main/java/kyu7/WithoutTheLetterE.java">Without the letter E</a></li>
         <li><a href="/java/src/main/java/kyu7/GetTheMiddleCharacter.java">Get the Middle Character</a></li>
+        <li><a href="/java/src/main/java/kyu7/Ch4113ng3.java">Ch4113ng3</a></li>
       </ol>
     </details>
     <details>
