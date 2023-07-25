@@ -225,6 +225,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/OddEvenStringSort.java">Odd-Even String Sort</a></li>
         <li><a href="/java/src/main/java/kyu7/HowManyArguments.java">How many arguments</a></li>
         <li><a href="/java/src/main/java/kyu7/LengthAndTwoValues.java">Length and two values</a></li>
+        <li><a href="/java/src/main/java/kyu7/Null.java">Null</a></li>
       </ol>
     </details>
     <details>
