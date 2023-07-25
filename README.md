@@ -227,6 +227,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
       <summary>6 kyu</summary>
       <ol type="1">
         <li><a href="/java/src/main/java/kyu6/SumOfDigitsDigitalRoot.java">Sum of Digits / Digital Root</a></li>
+        <li><a href="/java/src/main/java/kyu6/MultiplicationTable.java">Multiplication table</a></li>
       </ol>
     </details>
   </ul>
