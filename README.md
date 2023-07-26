@@ -230,6 +230,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DoubleValueEveryNextCall.java">Double value every next call</a></li>
         <li><a href="/java/src/main/java/kyu7/FourSeven.java">Four/Seven</a></li>
         <li><a href="/java/src/main/java/kyu7/MaxMinArrays.java">Max-min arrays</a></li>
+        <li><a href="/java/src/main/java/kyu7/IsItNegativeZero.java">Is It Negative Zero</a></li>
       </ol>
     </details>
     <details>
