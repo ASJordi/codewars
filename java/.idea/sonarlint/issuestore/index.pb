@@ -286,3 +286,15 @@ Z
 +src/main/java/kyu7/SimpleLetterRemoval.java,7\5\756d0c97022fb3345f44eb54b9caae3490cb55b0
 _
 /src/test/java/kyu7/SimpleLetterRemovalTest.java,0\e\0e89427358eb6829f49f2bf8c989954594f75f9d
+\
+,src/main/java/kyu7/SimpleStringReversal.java,e\9\e99d6512a83c31704371fcc55f2158561636ec67
+`
+0src/test/java/kyu7/SimpleStringReversalTest.java,0\6\0649230e8691e71e1f626890910faaba5daeb2e0
+V
+&src/main/java/kyu7/PredictYourAge.java,f\5\f55631aedd6c34a51a160d92f8f88c33daf03e6d
+Z
+*src/test/java/kyu7/PredictYourAgeTest.java,2\b\2b0a3df2602f6ab93f003f7d6b42f29ab69e797f
+g
+7src/main/java/kyu7/RemoveConsecutiveDuplicateWords.java,c\a\ca5b0a9d08efab519733865794e132bde2e77572
+k
+;src/test/java/kyu7/RemoveConsecutiveDuplicateWordsTest.java,d\d\dd51d8f26753f9224d7b7f4acdfc68106a5b8374
