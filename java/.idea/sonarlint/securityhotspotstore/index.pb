@@ -162,8 +162,6 @@ X
 (src/test/java/kyu8/HexToDecimalTest.java,e\b\eb0971aca6bcff116b379c8422344eec905b4f7a
 T
 $src/main/java/kyu8/HexToDecimal.java,a\b\abbcee29763bd8baca76f85136d1a9db27a5f1b4
-W
-'src/main/java/kyu8/ConvertToBinary.java,4\3\43db38f267b33c772abaea5d5ed355e39f1b4c70
 [
 +src/test/java/kyu8/ConvertToBinaryTest.java,7\2\72d2387bfab914766a3ffefa3cc512c6a3e6015a
 \
