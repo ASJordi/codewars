@@ -238,6 +238,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/RemoveConsecutiveDuplicateWords.java">Remove consecutive duplicate words</a></li>
         <li><a href="/java/src/main/java/kyu7/FixStringCase.java">Fix string case</a></li>
         <li><a href="/java/src/main/java/kyu7/SingleDigit.java">Single digit</a></li>
+        <li><a href="/java/src/main/java/kyu7/ResponsibleDrinking.java">Responsible Drinking</a></li>
       </ol>
     </details>
     <details>
