@@ -241,6 +241,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ResponsibleDrinking.java">Responsible Drinking</a></li>
         <li><a href="/java/src/main/java/kyu7/Fixme1234.java">FIXME: 1, 2, 3, 4</a></li>
         <li><a href="/java/src/main/java/kyu7/AlternateCapitalization.java">Alternate capitalization</a></li>
+        <li><a href="/java/src/main/java/kyu7/MostDigits.java">Most digits</a></li>
       </ol>
     </details>
     <details>
