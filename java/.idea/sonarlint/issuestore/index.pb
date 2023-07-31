@@ -300,8 +300,6 @@ U
 %src/main/java/kyu7/FixStringCase.java,4\1\41037bb7781f90c8112abb2776e9b883f729fe18
 Y
 )src/test/java/kyu7/FixStringCaseTest.java,2\9\29ec0249c8a37c8446f04d278ff2f4e93203c925
-W
-'src/main/java/kyu8/ConvertToBinary.java,4\3\43db38f267b33c772abaea5d5ed355e39f1b4c70
 S
 #src/main/java/kyu7/SingleDigit.java,e\7\e70566fa20d82237f4bf766bbb23e150d469cda9
 W

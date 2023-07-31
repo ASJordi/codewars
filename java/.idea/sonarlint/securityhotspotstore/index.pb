@@ -301,8 +301,6 @@ Y
 U
 %src/main/java/kyu7/FixStringCase.java,4\1\41037bb7781f90c8112abb2776e9b883f729fe18
 W
-'src/main/java/kyu8/ConvertToBinary.java,4\3\43db38f267b33c772abaea5d5ed355e39f1b4c70
-W
 'src/test/java/kyu7/SingleDigitTest.java,3\b\3b8400d822bd02656126614fe49e41724e7f547f
 S
 #src/main/java/kyu7/SingleDigit.java,e\7\e70566fa20d82237f4bf766bbb23e150d469cda9

@@ -246,6 +246,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/Covfefe.java">Covfefe</a></li>
         <li><a href="/java/src/main/java/kyu7/StringMerge.java">String Merge!</a></li>
         <li><a href="/java/src/main/java/kyu7/EliminateTheIntrudersBitManipulation.java">Eliminate the intruders! Bit manipulation</a></li>
+        <li><a href="/java/src/main/java/kyu7/ReverseTheBitsInAnInteger.java">Reverse the bits in an integer</a></li>
       </ol>
     </details>
     <details>
