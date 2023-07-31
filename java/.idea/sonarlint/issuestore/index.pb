@@ -330,3 +330,7 @@ S
 #src/test/java/kyu7/CovfefeTest.java,4\1\41721cb67743909ffa3db401130b99dcb0cc399b
 W
 'src/test/java/kyu7/StringMergeTest.java,2\9\292e619819000c30b1af89bd9014e2cb5af6481c
+O
+src/main/java/kyu7/Covfefe.java,e\1\e1a6cc422959c584d7635b5e52d85fcc2dbf89eb
+S
+#src/main/java/kyu7/StringMerge.java,1\0\10407b0116d86cf39408cea85e1762a3cf720982
