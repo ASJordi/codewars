@@ -253,6 +253,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ConsecutiveLetters.java">Consecutive letters</a></li>
         <li><a href="/java/src/main/java/kyu7/CheckThreeAndTwo.java">Check three and two</a></li>
         <li><a href="/java/src/main/java/kyu7/FormTheMinimum.java">Form The Minimum</a></li>
+        <li><a href="/java/src/main/java/kyu7/SortingTheOddway.java">Sorting the Odd way!</a></li>
       </ol>
     </details>
     <details>
