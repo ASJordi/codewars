@@ -249,6 +249,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ReverseTheBitsInAnInteger.java">Reverse the bits in an integer</a></li>
         <li><a href="/java/src/main/java/kyu7/DeltaBits.java">Delta Bits</a></li>
         <li><a href="/java/src/main/java/kyu7/IsItAEightBitSignedNumber.java">is it a eight bit signed number?</a></li>
+        <li><a href="/java/src/main/java/kyu7/LombokEncapsulation.java">Lombok Encapsulation</a></li>
       </ol>
     </details>
     <details>
