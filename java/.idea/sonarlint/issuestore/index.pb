@@ -260,8 +260,6 @@ X
 (src/test/java/kyu7/LastSurvivorTest.java,b\a\ba7f32f14cc89fe5f58ac09a09e28da07770ea50
 T
 $src/main/java/kyu7/LastSurvivor.java,a\1\a1474f6bda1fa732e0ec7f19ef7486b585aeae6d
-d
-4src/test/java/kyu7/DoubleValueEveryNextCallTest.java,e\6\e64c3f6e5bea6b23eaac85f5095ceb2ca8363a72
 `
 0src/main/java/kyu7/DoubleValueEveryNextCall.java,e\f\ef85dcee29a3a036107da91512884bde6e6718c6
 Q
