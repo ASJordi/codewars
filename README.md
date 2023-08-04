@@ -265,6 +265,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/AlphabetWar.java">Alphabet war</a></li>
         <li><a href="/java/src/main/java/kyu7/InsertDashes.java">Insert dashes</a></li>
         <li><a href="/java/src/main/java/kyu7/ReverseWords.java">Reverse words</a></li>
+        <li><a href="/java/src/main/java/kyu7/CaffeineScript.java">Caffeine Script</a></li>
       </ol>
     </details>
     <details>
