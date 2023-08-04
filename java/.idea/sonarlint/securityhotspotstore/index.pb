@@ -390,3 +390,23 @@ T
 $src/main/java/kyu7/SplitInParts.java,b\9\b99619089a2078626dfc54d45e15735019ec3f19
 X
 (src/test/java/kyu7/SplitInPartsTest.java,e\f\ef70b2d3dd36c8c490907e7ce40ef1bbc9510aaa
+S
+#src/test/java/kyu7/GreetMeTest.java,d\5\d5d9797ee1051dbd7e2a464475b81d5cd3a459f9
+O
+src/main/java/kyu7/GreetMe.java,0\3\03438eb29f0117d7692c25f3a3b56b4ef5e7b9f7
+V
+&src/test/java/kyu7/VowelCountTest.java,6\9\69227da8650035622af1ede9e55d83a506473383
+R
+"src/main/java/kyu7/VowelCount.java,8\e\8e922b970dda734390f90a767a5bd70a1eea93e2
+\
+,src/test/java/kyu7/HighestAndLowestTest.java,d\8\d82c0726977c0cec2c51fb818eb65d9cee7b1301
+X
+(src/main/java/kyu7/HighestAndLowest.java,d\9\d973928c246493dd60e6d74f765ffa24a97bbf20
+W
+'src/test/java/kyu7/AlphabetWarTest.java,7\e\7e3038e05cc38c279685ab5a0f6dc6ad50189743
+S
+#src/main/java/kyu7/AlphabetWar.java,f\7\f72bb4649c5f33f19f2bd3b18a0c070a4c6e41cc
+X
+(src/test/java/kyu7/InsertDashesTest.java,0\2\02606144579bd0c5b37b5097910ccee1f490f61f
+T
+$src/main/java/kyu7/InsertDashes.java,d\2\d2d4bb3adc21937f4a4e3c38901681aed4a1cb4e
