@@ -269,6 +269,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/KeypadHorror.java">Keypad horror</a></li>
         <li><a href="/java/src/main/java/kyu7/Backronym.java">makeBackronym</a></li>
         <li><a href="/java/src/main/java/kyu7/CharacterCounter.java">Character Counter</a></li>
+        <li><a href="/java/src/main/java/kyu7/StringEndsWith.java">String ends with?</a></li>
       </ol>
     </details>
     <details>
