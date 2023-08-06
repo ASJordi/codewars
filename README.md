@@ -272,6 +272,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/StringEndsWith.java">String ends with?</a></li>
         <li><a href="/java/src/main/java/kyu7/ShorterConcatReverseLonger.java">Shorter concat [reverse longer]</a></li>
         <li><a href="/java/src/main/java/kyu7/ScrabbleScore.java">Scrabble Score</a></li>
+        <li><a href="/java/src/main/java/kyu7/ShiftLeft.java">Shift Left</a></li>
       </ol>
     </details>
     <details>
