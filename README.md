@@ -274,6 +274,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ScrabbleScore.java">Scrabble Score</a></li>
         <li><a href="/java/src/main/java/kyu7/ShiftLeft.java">Shift Left</a></li>
         <li><a href="/java/src/main/java/kyu7/BuildASquare.java">Build a square</a></li>
+        <li><a href="/java/src/main/java/kyu7/SimpleStringCharacters.java">Simple string characters</a></li>
       </ol>
     </details>
     <details>
