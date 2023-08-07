@@ -276,6 +276,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/BuildASquare.java">Build a square</a></li>
         <li><a href="/java/src/main/java/kyu7/SimpleStringCharacters.java">Simple string characters</a></li>
         <li><a href="/java/src/main/java/kyu7/PizzaPayments.java">Pizza Payments</a></li>
+        <li><a href="/java/src/main/java/kyu7/IndexedCapitalization.java">Indexed capitalization</a></li>
       </ol>
     </details>
     <details>
