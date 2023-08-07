@@ -442,7 +442,7 @@ Y
 )src/test/java/kyu7/ScrabbleScoreTest.java,c\4\c4772fb80d06ae229c7a870c177e91d4df5b9453
 U
 %src/main/java/kyu7/ScrabbleScore.java,b\d\bdfcd7874f41854f800e3dd720d69d4998199911
-U
-%src/test/java/kyu7/ShiftLeftTest.java,7\c\7c32ceaaeeb19ed06e2d6fe245a70a1153e9cd4a
 Q
 !src/main/java/kyu7/ShiftLeft.java,6\b\6b0b503bae187a7b1a9e08a1b56f2d7b35f92954
+U
+%src/test/java/kyu7/ShiftLeftTest.java,7\c\7c32ceaaeeb19ed06e2d6fe245a70a1153e9cd4a
