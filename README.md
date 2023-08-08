@@ -280,6 +280,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SurviveTheAttack.java">Survive the attack</a></li>
         <li><a href="/java/src/main/java/kyu7/AlphabeticalSequence.java">Alphabetical Sequence</a></li>
         <li><a href="/java/src/main/java/kyu7/HidePasswordFromJdbcUrl.java">Hide password from jdbc url</a></li>
+        <li><a href="/java/src/main/java/kyu7/SumOfNumbersFrom0ToN.java">Sum of numbers from 0 to N</a></li>
       </ol>
     </details>
     <details>
