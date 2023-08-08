@@ -400,8 +400,6 @@ R
 ,src/test/java/kyu7/HighestAndLowestTest.java,d\8\d82c0726977c0cec2c51fb818eb65d9cee7b1301
 X
 (src/main/java/kyu7/HighestAndLowest.java,d\9\d973928c246493dd60e6d74f765ffa24a97bbf20
-W
-'src/test/java/kyu7/AlphabetWarTest.java,7\e\7e3038e05cc38c279685ab5a0f6dc6ad50189743
 S
 #src/main/java/kyu7/AlphabetWar.java,f\7\f72bb4649c5f33f19f2bd3b18a0c070a4c6e41cc
 X

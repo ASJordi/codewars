@@ -278,6 +278,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PizzaPayments.java">Pizza Payments</a></li>
         <li><a href="/java/src/main/java/kyu7/IndexedCapitalization.java">Indexed capitalization</a></li>
         <li><a href="/java/src/main/java/kyu7/SurviveTheAttack.java">Survive the attack</a></li>
+        <li><a href="/java/src/main/java/kyu7/AlphabeticalSequence.java">Alphabetical Sequence</a></li>
       </ol>
     </details>
     <details>
