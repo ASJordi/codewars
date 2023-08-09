@@ -464,3 +464,17 @@ a
 ,src/test/java/kyu7/SurviveTheAttackTest.java,e\0\e0a48ff8f2ec7d48784ef6ea0683f18fcf614aeb
 X
 (src/main/java/kyu7/SurviveTheAttack.java,4\b\4bd0bccb984737891398b021c02098c90aae34c2
+W
+'src/test/java/kyu7/AlphabetWarTest.java,7\e\7e3038e05cc38c279685ab5a0f6dc6ad50189743
+`
+0src/test/java/kyu7/AlphabeticalSequenceTest.java,f\5\f5a9bb5165eeddfea346e284e1694d8a05c44c63
+\
+,src/main/java/kyu7/AlphabeticalSequence.java,c\1\c16d866597ef252a717f1083b957f86f5dabe368
+c
+3src/test/java/kyu7/HidePasswordFromJdbcUrlTest.java,c\8\c864cd7207b257fffed711ed6b5e20dfbb60d3a1
+_
+/src/main/java/kyu7/HidePasswordFromJdbcUrl.java,3\c\3ceb35866ed36b6334f49a9f658f82d72cea1084
+`
+0src/test/java/kyu7/SumOfNumbersFrom0ToNTest.java,9\f\9f8b79ef337e91ed9887797e89cdcda5e72fb82d
+\
+,src/main/java/kyu7/SumOfNumbersFrom0ToN.java,2\8\28cb6d8dfb4674b5422e0e04e67bebb07a9ad9e7
