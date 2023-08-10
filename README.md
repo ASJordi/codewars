@@ -285,6 +285,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/OddOrEven.java">Odd or Even?</a></li>
         <li><a href="/java/src/main/java/kyu7/WordValues.java">Word values</a></li>
         <li><a href="/java/src/main/java/kyu7/CatYearsDogYears.java">Cat Years, Dog Years (2)</a></li>
+        <li><a href="/java/src/main/java/kyu7/Incrementer.java">Incrementer</a></li>
       </ol>
     </details>
     <details>
