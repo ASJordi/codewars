@@ -287,6 +287,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/CatYearsDogYears.java">Cat Years, Dog Years (2)</a></li>
         <li><a href="/java/src/main/java/kyu7/Incrementer.java">Incrementer</a></li>
         <li><a href="/java/src/main/java/kyu7/SumOfCubes.java">Sum of Cubes</a></li>
+        <li><a href="/java/src/main/java/kyu7/HoursToSeconds.java">FIXME: Hours to Seconds</a></li>
       </ol>
     </details>
     <details>
