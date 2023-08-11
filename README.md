@@ -292,6 +292,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DifferenceBetweenYears.java">Difference between years</a></li>
         <li><a href="/java/src/main/java/kyu7/ShortestWord.java">Shortest Word</a></li>
         <li><a href="/java/src/main/java/kyu7/SimpleBeadsCount.java">Simple beads count</a></li>
+        <li><a href="/java/src/main/java/kyu7/TidyNumber.java">Tidy Number</a></li>
       </ol>
     </details>
     <details>
