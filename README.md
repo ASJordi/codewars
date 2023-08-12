@@ -296,6 +296,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SpecialNumber.java">Special Number</a></li>
         <li><a href="/java/src/main/java/kyu7/MeanVsMedian.java">Mean vs. Median</a></li>
         <li><a href="/java/src/main/java/kyu7/NumberOfDecimalDigits.java">Number of Decimal Digits</a></li>
+        <li><a href="/java/src/main/java/kyu7/DebugSumOfDigitsOfANumber.java">Debug Sum of Digits of a Number</a></li>
       </ol>
     </details>
     <details>
