@@ -294,6 +294,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SimpleBeadsCount.java">Simple beads count</a></li>
         <li><a href="/java/src/main/java/kyu7/TidyNumber.java">Tidy Number</a></li>
         <li><a href="/java/src/main/java/kyu7/SpecialNumber.java">Special Number</a></li>
+        <li><a href="/java/src/main/java/kyu7/MeanVsMedian.java">Mean vs. Median</a></li>
       </ol>
     </details>
     <details>
