@@ -299,6 +299,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DebugSumOfDigitsOfANumber.java">Debug Sum of Digits of a Number</a></li>
         <li><a href="/java/src/main/java/kyu7/LetsSplitThisJoint.java">FIXME: Let's split this joint</a></li>
         <li><a href="/java/src/main/java/kyu7/DigitsExplosion.java">Digits explosion</a></li>
+        <li><a href="/java/src/main/java/kyu7/TwoNumbersArePositive.java">Two numbers are positive</a></li>
       </ol>
     </details>
     <details>
