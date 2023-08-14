@@ -302,6 +302,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/TwoNumbersArePositive.java">Two numbers are positive</a></li>
         <li><a href="/java/src/main/java/kyu7/AnagramDetection.java">Anagram Detection</a></li>
         <li><a href="/java/src/main/java/kyu7/RemoveAllExclamationMarksFromTheEndOfWords.java">Remove all exclamation marks from the end of words</a></li>
+        <li><a href="/java/src/main/java/kyu7/MoveAllExclamationMarksToTheEndOfTheSentence.java">Move all exclamation marks to the end of the sentence</a></li>
       </ol>
     </details>
     <details>
