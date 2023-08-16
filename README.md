@@ -309,6 +309,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/FindMinAndMax.java">Find min and max</a></li>
         <li><a href="/java/src/main/java/kyu7/DescribeAList.java">Describe a list</a></li>
         <li><a href="/java/src/main/java/kyu7/AlternateCase.java">Alternate case</a></li>
+        <li><a href="/java/src/main/java/kyu7/SumAListButIgnoreAnyDuplicates.java">Sum a list but ignore any duplicates</a></li>
       </ol>
     </details>
     <details>

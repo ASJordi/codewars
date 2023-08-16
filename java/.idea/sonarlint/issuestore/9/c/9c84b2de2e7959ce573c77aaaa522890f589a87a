@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(¸ ®Âüÿÿÿÿ8Å„ùÒŸ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÔ…I8É„ùÒŸ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(±±åêúÿÿÿÿ8Þ„ùÒŸ1
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(ûå¸¡þÿÿÿÿ8â„ùÒŸ1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ûå¸¡þÿÿÿÿ8ä„ùÒŸ1
