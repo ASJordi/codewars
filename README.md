@@ -319,6 +319,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/MultiplicationTable.java">Multiplication table</a></li>
         <li><a href="/java/src/main/java/kyu6/BreakCamelCase.java">Break camelCase</a></li>
         <li><a href="/java/src/main/java/kyu6/HighestScoringWord.java">Highest Scoring Word</a></li>
+        <li><a href="/java/src/main/java/kyu6/YourOrderPlease.java">Your order, please</a></li>
       </ol>
     </details>
   </ul>
