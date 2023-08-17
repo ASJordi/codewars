@@ -313,6 +313,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/Fibonacci.java">Fibonacci</a></li>
         <li><a href="/java/src/main/java/kyu7/Vaporcode.java">Vaporcode</a></li>
         <li><a href="/java/src/main/java/kyu7/TheOfficeOneOuted.java">The Office I - Outed</a></li>
+        <li><a href="/java/src/main/java/kyu7/RockPaperScissorsLizardSpock.java">Rock Paper Scissors Lizard Spock</a></li>
       </ol>
     </details>
     <details>
