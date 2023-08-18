@@ -202,6 +202,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/SmallestUnusedID.java">Smallest unused ID</a></li>
         <li><a href="/java/src/main/java/kyu8/WilsonPrime.java">Wilson primes</a></li>
         <li><a href="/java/src/main/java/kyu8/CountingCharacters.java">Counting Characters</a></li>
+        <li><a href="/java/src/main/java/kyu8/NameOnBillboard.java">Name on billboard</a></li>
       </ol>
     </details>
     <details>
