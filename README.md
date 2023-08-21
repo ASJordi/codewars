@@ -319,6 +319,11 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/OrderedCountOfCharacters.java">Ordered Count of Characters</a></li>
         <li><a href="/java/src/main/java/kyu7/Song.java">What a "Classy" Song</a></li>
         <li><a href="/java/src/main/java/kyu7/Block.java">Building Blocks</a></li>
+        <li><a href="/java/src/main/java/kyu7/Spacify.java">Spacify</a></li>
+        <li><a href="/java/src/main/java/kyu7/ToLeetSpeak.java">ToLeetSpeak</a></li>
+        <li><a href="/java/src/main/java/kyu7/SmallEnoughBeginner.java">Small enough? - Beginner</a></li>
+        <li><a href="/java/src/main/java/kyu7/GameInput.java">WASD Movement</a></li>
+        <li><a href="/java/src/main/java/kyu7/RegexpBasicsIsItALetter.java">Regexp Basics - is it a letter?</a></li>
       </ol>
     </details>
     <details>
