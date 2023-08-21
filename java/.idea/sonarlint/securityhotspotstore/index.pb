@@ -306,8 +306,6 @@ _
 +src/main/java/kyu7/ResponsibleDrinking.java,7\d\7d2463286ffd1e1e4142003b60035ab4dfdcbd23
 U
 %src/test/java/kyu7/Fixme1234Test.java,7\a\7ae5131d50cd97fa6cf718ca1d88d592db7bba68
-Q
-!src/main/java/kyu7/Fixme1234.java,4\2\42017081a774df4b7e1c4c6a868303aad7f7b319
 c
 3src/test/java/kyu7/AlternateCapitalizationTest.java,7\2\7207538f85a894c5a2f4545fd3648aa16e2d9c62
 _
