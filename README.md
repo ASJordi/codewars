@@ -324,6 +324,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SmallEnoughBeginner.java">Small enough? - Beginner</a></li>
         <li><a href="/java/src/main/java/kyu7/GameInput.java">WASD Movement</a></li>
         <li><a href="/java/src/main/java/kyu7/RegexpBasicsIsItALetter.java">Regexp Basics - is it a letter?</a></li>
+        <li><a href="/java/src/main/java/kyu7/RegexpBasicsIsItAVowel.java">Regexp Basics - is it a vowel?</a></li>
       </ol>
     </details>
     <details>
