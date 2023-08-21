@@ -326,6 +326,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/RegexpBasicsIsItALetter.java">Regexp Basics - is it a letter?</a></li>
         <li><a href="/java/src/main/java/kyu7/RegexpBasicsIsItAVowel.java">Regexp Basics - is it a vowel?</a></li>
         <li><a href="/java/src/main/java/kyu7/HeronsFormula.java">Heron's formula</a></li>
+        <li><a href="/java/src/main/java/kyu7/BumpsInTheRoad.java">Bumps in the Road</a></li>
       </ol>
     </details>
     <details>
