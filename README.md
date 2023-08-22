@@ -329,6 +329,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/BumpsInTheRoad.java">Bumps in the Road</a></li>
         <li><a href="/java/src/main/java/kyu7/Dictionary.java">Interactive Dictionary</a></li>
         <li><a href="/java/src/main/java/kyu7/PaulsMisery.java">Paul's Misery</a></li>
+        <li><a href="/java/src/main/java/kyu7/SelectiveFearOfnumbers.java">Selective fear of numbers</a></li>
       </ol>
     </details>
     <details>
