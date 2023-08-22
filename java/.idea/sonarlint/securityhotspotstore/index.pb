@@ -572,8 +572,6 @@ c
 3src/test/java/kyu7/SimpleEviternityNumbersTest.java,3\9\3921cab35991edd2c507370ef97d51fe7e227b1f
 U
 %src/test/java/kyu7/FactorialTest.java,8\a\8a4db392cb19dc960ca63a100775ed23da2b5f6f
-Q
-!src/main/java/kyu7/Factorial.java,d\3\d315152940230001bb3b965b763e62a5e336feeb
 U
 %src/main/java/kyu7/FindMinAndMax.java,c\3\c33d7f8f09a770f39203dca7944c8dcc82ef9398
 Y
