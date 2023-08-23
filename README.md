@@ -331,6 +331,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PaulsMisery.java">Paul's Misery</a></li>
         <li><a href="/java/src/main/java/kyu7/SelectiveFearOfnumbers.java">Selective fear of numbers</a></li>
         <li><a href="/java/src/main/java/kyu7/WhatIsTheFlag.java">What is the flag?</a></li>
+        <li><a href="/java/src/main/java/kyu7/MathPow.java">Math.pow?</a></li>
       </ol>
     </details>
     <details>
