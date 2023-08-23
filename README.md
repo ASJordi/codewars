@@ -333,6 +333,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/WhatIsTheFlag.java">What is the flag?</a></li>
         <li><a href="/java/src/main/java/kyu7/MathPow.java">Math.pow?</a></li>
         <li><a href="/java/src/main/java/kyu7/PrinterErrors.java">Printer Errors</a></li>
+        <li><a href="/java/src/main/java/kyu7/LuckyNumber.java">Lucky number</a></li>
       </ol>
     </details>
     <details>
