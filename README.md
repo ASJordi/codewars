@@ -335,6 +335,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PrinterErrors.java">Printer Errors</a></li>
         <li><a href="/java/src/main/java/kyu7/LuckyNumber.java">Lucky number</a></li>
         <li><a href="/java/src/main/java/kyu7/SquareEveryDigit.java">Square Every Digit</a></li>
+        <li><a href="/java/src/main/java/kyu7/BasicCalculator.java">Basic Calculator</a></li>
       </ol>
     </details>
     <details>
