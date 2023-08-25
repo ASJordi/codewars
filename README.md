@@ -339,6 +339,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/RegexValidatePinCode.java">Regex validate PIN code</a></li>
         <li><a href="/java/src/main/java/kyu7/ListFiltering.java">List Filtering</a></li>
         <li><a href="/java/src/main/java/kyu7/CompleteThePatternOne.java">Complete The Pattern #1</a></li>
+        <li><a href="/java/src/main/java/kyu7/CompleteThePatternTwo.java">Complete The Pattern #2</a></li>
       </ol>
     </details>
     <details>
