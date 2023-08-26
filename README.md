@@ -341,6 +341,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/CompleteThePatternOne.java">Complete The Pattern #1</a></li>
         <li><a href="/java/src/main/java/kyu7/CompleteThePatternTwo.java">Complete The Pattern #2</a></li>
         <li><a href="/java/src/main/java/kyu7/NumberStarLadder.java">Number-Star ladder</a></li>
+        <li><a href="/java/src/main/java/kyu7/LostNumberInNumberSequence.java">Lost number in number sequence</a></li>
       </ol>
     </details>
     <details>
