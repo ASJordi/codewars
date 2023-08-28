@@ -344,6 +344,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/LostNumberInNumberSequence.java">Lost number in number sequence</a></li>
         <li><a href="/java/src/main/java/kyu7/WhereIsTHB.java">Where is THB?</a></li>
         <li><a href="/java/src/main/java/kyu7/ChangingLetters.java">Changing letters</a></li>
+        <li><a href="/java/src/main/java/kyu7/LunarMathematicsAddition.java">Lunar Mathematics: Addition</a></li>
       </ol>
     </details>
     <details>
