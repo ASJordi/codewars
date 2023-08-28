@@ -346,6 +346,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ChangingLetters.java">Changing letters</a></li>
         <li><a href="/java/src/main/java/kyu7/LunarMathematicsAddition.java">Lunar Mathematics: Addition</a></li>
         <li><a href="/java/src/main/java/kyu7/RowWeights.java">Row Weights</a></li>
+        <li><a href="/java/src/main/java/kyu7/DisariumNumber.java">Disarium Number</a></li>
       </ol>
     </details>
     <details>
