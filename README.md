@@ -349,6 +349,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DisariumNumber.java">Disarium Number</a></li>
         <li><a href="/java/src/main/java/kyu7/SumOfTwoIntegers.java">Sum of Two Integers</a></li>
         <li><a href="/java/src/main/java/kyu7/MovesTen.java">Move 10</a></li>
+        <li><a href="/java/src/main/java/kyu7/RegexpBasicsParsingPrices.java">Regexp basics - parsing prices</a></li>
       </ol>
     </details>
     <details>
