@@ -355,6 +355,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/TwoToOne.java">Two to One</a></li>
         <li><a href="/java/src/main/java/kyu7/CalculateMeanAndConcatenateString.java">Calculate mean and concatenate string</a></li>
         <li><a href="/java/src/main/java/kyu7/ZebulansNightmare.java">Zebulans Nightmare</a></li>
+        <li><a href="/java/src/main/java/kyu7/Quicksum.java">Quicksum</a></li>
       </ol>
     </details>
     <details>
