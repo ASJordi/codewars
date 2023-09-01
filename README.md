@@ -361,6 +361,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SuitcasePacking.java">Suitcase packing</a></li>
         <li><a href="/java/src/main/java/kyu7/UniqueStringCharacters.java">Unique string characters</a></li>
         <li><a href="/java/src/main/java/kyu7/StantonMeasure.java">Stanton measure</a></li>
+        <li><a href="/java/src/main/java/kyu7/PossibilitiesArray.java">Possibilities Array</a></li>
       </ol>
     </details>
     <details>
