@@ -1,6 +1,6 @@
 package kyu7;
 
-public class DecimalDecomposition { //Decimal decomposition
+public class DecimalDecomposition {
 
     public static String decimalDecomposition(int number){
         int mod = 10;

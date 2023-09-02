@@ -364,6 +364,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PossibilitiesArray.java">Possibilities Array</a></li>
         <li><a href="/java/src/main/java/kyu7/HowLongShouldYouCookThisFor.java">How long should you cook this for?</a></li>
         <li><a href="/java/src/main/java/kyu7/DecimalDecomposition.java">Decimal decomposition</a></li>
+        <li><a href="/java/src/main/java/kyu7/HowLongShouldYouCookThisFor.java">How long should you cook this for?</a></li>
       </ol>
     </details>
     <details>
