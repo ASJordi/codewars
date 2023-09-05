@@ -371,6 +371,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/AutomorphicNumber.java">Automorphic Number</a></li>
         <li><a href="/java/src/main/java/kyu7/JumpingNumber.java">Jumping Number</a></li>
         <li><a href="/java/src/main/java/kyu7/FoldingYourWayToTheMoon.java">Folding your way to the moon</a></li>
+        <li><a href="/java/src/main/java/kyu7/ConvertingFromBase10To16.java">Converting from base 10 to 16</a></li>
       </ol>
     </details>
     <details>
