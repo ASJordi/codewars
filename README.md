@@ -368,6 +368,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SumOfNumbers.java">Beginner Series #3 Sum of Numbers</a></li>
         <li><a href="/java/src/main/java/kyu7/BasicsGeneratorsOne.java">Basics - Generators #1</a></li>
         <li><a href="/java/src/main/java/kyu7/MultiplicationGeneratorsTwo.java">Multiplication - Generators #2</a></li>
+        <li><a href="/java/src/main/java/kyu7/AutomorphicNumber.java">Automorphic Number</a></li>
       </ol>
     </details>
     <details>
