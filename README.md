@@ -379,6 +379,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/AlternateSquareSum.java">Alternate Square Sum</a></li>
         <li><a href="/java/src/main/java/kyu7/DescendingOrder.java">Descending Order</a></li>
         <li><a href="/java/src/main/java/kyu7/ExesAndOhs.java">Exes and Ohs</a></li>
+        <li><a href="/java/src/main/java/kyu7/Isograms.java">Isograms</a></li>
       </ol>
     </details>
     <details>
