@@ -376,6 +376,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/VeryEvenNumbers.java">Very Even Numbers</a></li>
         <li><a href="/java/src/main/java/kyu7/LargeSum.java">Large sum</a></li>
         <li><a href="/java/src/main/java/kyu7/DisemvowelTrolls.java">Disemvowel Trolls</a></li>
+        <li><a href="/java/src/main/java/kyu7/AlternateSquareSum.java">Alternate Square Sum</a></li>
       </ol>
     </details>
     <details>
