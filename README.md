@@ -381,6 +381,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ExesAndOhs.java">Exes and Ohs</a></li>
         <li><a href="/java/src/main/java/kyu7/Isograms.java">Isograms</a></li>
         <li><a href="/java/src/main/java/kyu7/FactorialWithException.java">Factorial</a></li>
+        <li><a href="/java/src/main/java/kyu7/OverflowingWithJoy.java">Overflowing with joy</a></li>
       </ol>
     </details>
     <details>
