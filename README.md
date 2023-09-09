@@ -205,6 +205,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/NameOnBillboard.java">Name on billboard</a></li>
         <li><a href="/java/src/main/java/kyu8/AgeRangeCompatibilityEquation.java">Age Range Compatibility Equation</a></li>
         <li><a href="/java/src/main/java/kyu8/FindMultiplesOfANumber.java">Find Multiples of a Number</a></li>
+        <li><a href="/java/src/main/java/kyu8/FindTheIntegral.java">Find the Integral</a></li>
       </ol>
     </details>
     <details>
