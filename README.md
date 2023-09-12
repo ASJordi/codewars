@@ -212,6 +212,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/CompareWithinMargin.java">Compare within margin</a></li>
         <li><a href="/java/src/main/java/kyu8/HowOldWillIBeIn2099.java">How old will I be in 2099?</a></li>
         <li><a href="/java/src/main/java/kyu8/DetermineOffspringSexBasedOnGenesXXAndXYChromosomes.java">Determine offspring sex based on genes XX and XY chromosomes</a></li>
+        <li><a href="/java/src/main/java/kyu8/LocalizeTheBarycenterOfATriangle.java">Localize The Barycenter of a Triangle</a></li>
       </ol>
     </details>
     <details>
