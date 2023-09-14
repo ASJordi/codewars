@@ -399,6 +399,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/JadenCasingStrings.java">Jaden Casing Strings</a></li>
         <li><a href="/java/src/main/java/kyu7/LargestElements.java">Largest Elements</a></li>
         <li><a href="/java/src/main/java/kyu7/BatmanQuotes.java">Batman Quotes</a></li>
+        <li><a href="/java/src/main/java/kyu7/YouAreASquare.java">You're a square!</a></li>
       </ol>
     </details>
     <details>
