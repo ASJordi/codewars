@@ -403,6 +403,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ReturnTheFirstMMultiplesOfN.java">Return the first M multiples of N</a></li>
         <li><a href="/java/src/main/java/kyu7/ReverseANumber.java">Reverse a Number</a></li>
         <li><a href="/java/src/main/java/kyu7/MaxDiffEasy.java">max diff - easy</a></li>
+        <li><a href="/java/src/main/java/kyu7/AreaOfACircle.java">Area of a Circle</a></li>
       </ol>
     </details>
     <details>
