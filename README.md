@@ -407,6 +407,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/FunctionalAddition.java">Functional Addition</a></li>
         <li><a href="/java/src/main/java/kyu7/PowerOfTwo.java">Power of two</a></li>
         <li><a href="/java/src/main/java/kyu7/PowersOfI.java">Powers of i</a></li>
+        <li><a href="/java/src/main/java/kyu7/SmallestValueOfAnArray.java">Smallest value of an array</a></li>
       </ol>
     </details>
     <details>
