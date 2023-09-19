@@ -409,6 +409,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PowersOfI.java">Powers of i</a></li>
         <li><a href="/java/src/main/java/kyu7/SmallestValueOfAnArray.java">Smallest value of an array</a></li>
         <li><a href="/java/src/main/java/kyu7/MoneyMoneyMoney.java">Money, Money, Money</a></li>
+        <li><a href="/java/src/main/java/kyu7/ArithmeticProgression.java">Arithmetic progression</a></li>
       </ol>
     </details>
     <details>
