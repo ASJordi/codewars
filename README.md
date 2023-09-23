@@ -415,6 +415,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/DoubleEveryOther.java">Double Every Other</a></li>
         <li><a href="/java/src/main/java/kyu7/IsNDivisibleBy.java">Is n divisible by</a></li>
         <li><a href="/java/src/main/java/kyu7/HelpTheFruitGuy.java">Help the Fruit Guy</a></li>
+        <li><a href="/java/src/main/java/kyu7/CompleteThePattern4.java">Complete The Pattern #4</a></li>
       </ol>
     </details>
     <details>
