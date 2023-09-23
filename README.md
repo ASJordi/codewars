@@ -417,6 +417,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/HelpTheFruitGuy.java">Help the Fruit Guy</a></li>
         <li><a href="/java/src/main/java/kyu7/CompleteThePattern4.java">Complete The Pattern #4</a></li>
         <li><a href="/java/src/main/java/kyu7/CompoundArray.java">Compound Array</a></li>
+        <li><a href="/java/src/main/java/kyu7/Pandemia.java">Pandemia</a></li>
       </ol>
     </details>
     <details>
