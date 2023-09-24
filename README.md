@@ -435,6 +435,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/ChangeCase.java">Change case</a></li>
         <li><a href="/java/src/main/java/kyu6/RoundAndRound.java">Round and Round</a></li>
         <li><a href="/java/src/main/java/kyu6/PasswordMaker.java">Password Maker</a></li>
+        <li><a href="/java/src/main/java/kyu6/DetermineTheDateByTheDayNumber.java">Determine the date by the day number</a></li>
       </ol>
     </details>
   </ul>
