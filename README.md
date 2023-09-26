@@ -437,6 +437,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/PasswordMaker.java">Password Maker</a></li>
         <li><a href="/java/src/main/java/kyu6/DetermineTheDateByTheDayNumber.java">Determine the date by the day number</a></li>
         <li><a href="/java/src/main/java/kyu6/SumTheNumsSumTheSumsAndSumTheNumsUpToThatSum.java">Sum the nums, sum the sums and sum the nums up to that sum</a></li>
+        <li><a href="/java/src/main/java/kyu6/CountCharactersInYourString.java">Count characters in your string</a></li>
       </ol>
     </details>
   </ul>
