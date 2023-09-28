@@ -421,6 +421,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PartialWordSearching.java">Partial Word Searching</a></li>
         <li><a href="/java/src/main/java/kyu7/SantasNaughtyList.java">Santa's Naughty List</a></li>
         <li><a href="/java/src/main/java/kyu7/ScoringTests.java">Scoring Tests</a></li>
+        <li><a href="/java/src/main/java/kyu7/ComplementaryDNA.java">Complementary DNA</a></li>
       </ol>
     </details>
     <details>
