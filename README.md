@@ -423,6 +423,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ScoringTests.java">Scoring Tests</a></li>
         <li><a href="/java/src/main/java/kyu7/ComplementaryDNA.java">Complementary DNA</a></li>
         <li><a href="/java/src/main/java/kyu7/ConvertTimeToString.java">Convert Time to String</a></li>
+        <li><a href="/java/src/main/java/kyu7/SumOfTheFirstNthTermOfSeries.java">Sum of the first nth term of Series</a></li>
       </ol>
     </details>
     <details>
