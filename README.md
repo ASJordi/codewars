@@ -425,6 +425,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/ConvertTimeToString.java">Convert Time to String</a></li>
         <li><a href="/java/src/main/java/kyu7/SumOfTheFirstNthTermOfSeries.java">Sum of the first nth term of Series</a></li>
         <li><a href="/java/src/main/java/kyu7/Testing123.java">Testing 1-2-3</a></li>
+        <li><a href="/java/src/main/java/kyu7/FromAToZ.java">From A to Z</a></li>
       </ol>
     </details>
     <details>
