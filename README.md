@@ -428,6 +428,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/FromAToZ.java">From A to Z</a></li>
         <li><a href="/java/src/main/java/kyu7/GCDSum.java">GCD sum</a></li>
         <li><a href="/java/src/main/java/kyu7/SpeedLimit.java">Speed Limit</a></li>
+        <li><a href="/java/src/main/java/kyu7/SimpleStringReversalII.java">Simple string reversal II</a></li>
       </ol>
     </details>
     <details>
