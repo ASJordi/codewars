@@ -431,6 +431,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SimpleStringReversalII.java">Simple string reversal II</a></li>
         <li><a href="/java/src/main/java/kyu7/ExcelSheetColumnNumbers.java">Excel sheet column numbers</a></li>
         <li><a href="/java/src/main/java/kyu7/FillTheHardDiskDrive.java">Computer problem series #1: Fill the Hard Disk Drive</a></li>
+        <li><a href="/java/src/main/java/kyu7/Supernatural.java">Supernatural</a></li>
       </ol>
     </details>
     <details>
