@@ -433,6 +433,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/FillTheHardDiskDrive.java">Computer problem series #1: Fill the Hard Disk Drive</a></li>
         <li><a href="/java/src/main/java/kyu7/Supernatural.java">Supernatural</a></li>
         <li><a href="/java/src/main/java/kyu7/YouCantCodeUnderPressure2.java">You Can't Code Under Pressure #2</a></li>
+        <li><a href="/java/src/main/java/kyu7/CountTheDivisorsOfANumber.java">Count the divisors of a number</a></li>
       </ol>
     </details>
     <details>
