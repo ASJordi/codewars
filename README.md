@@ -434,6 +434,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/Supernatural.java">Supernatural</a></li>
         <li><a href="/java/src/main/java/kyu7/YouCantCodeUnderPressure2.java">You Can't Code Under Pressure #2</a></li>
         <li><a href="/java/src/main/java/kyu7/CountTheDivisorsOfANumber.java">Count the divisors of a number</a></li>
+        <li><a href="/java/src/main/java/kyu7/TheAlphabetProduct.java">The alphabet product</a></li>
       </ol>
     </details>
     <details>
