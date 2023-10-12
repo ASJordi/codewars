@@ -437,6 +437,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/TheAlphabetProduct.java">The alphabet product</a></li>
         <li><a href="/java/src/main/java/kyu7/SwappingCards.java">Swapping Cards</a></li>
         <li><a href="/java/src/main/java/kyu7/BasicSequencePractice.java">Basic Sequence Practice</a></li>
+        <li><a href="/java/src/main/java/kyu7/BrokenSequence.java">Broken sequence</a></li>
       </ol>
     </details>
     <details>
