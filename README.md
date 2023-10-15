@@ -440,6 +440,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/BrokenSequence.java">Broken sequence</a></li>
         <li><a href="/java/src/main/java/kyu7/PrisonBreak.java">Prison Break</a></li>
         <li><a href="/java/src/main/java/kyu7/WheresWally.java">Where's Wally</a></li>
+        <li><a href="/java/src/main/java/kyu7/StringInterlacing.java">String interlacing</a></li>
       </ol>
     </details>
     <details>
