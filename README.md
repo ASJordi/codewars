@@ -463,6 +463,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/CountCharactersInYourString.java">Count characters in your string</a></li>
         <li><a href="/java/src/main/java/kyu6/CountingDuplicates.java">Counting Duplicates</a></li>
         <li><a href="/java/src/main/java/kyu6/Interval.java">Interval</a></li>
+        <li><a href="/java/src/main/java/kyu6/BasicCompression.java">Basic Compression</a></li>
       </ol>
     </details>
   </ul>
