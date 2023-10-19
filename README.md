@@ -464,6 +464,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/CountingDuplicates.java">Counting Duplicates</a></li>
         <li><a href="/java/src/main/java/kyu6/Interval.java">Interval</a></li>
         <li><a href="/java/src/main/java/kyu6/BasicCompression.java">Basic Compression</a></li>
+        <li><a href="/java/src/main/java/kyu6/WhoLikesIt.java">Who likes it?</a></li>
       </ol>
     </details>
   </ul>
