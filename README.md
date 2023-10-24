@@ -446,6 +446,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/HerdingCats.java">Herding cats</a></li>
         <li><a href="/java/src/main/java/kyu7/Trigrams.java">Trigrams</a></li>
         <li><a href="/java/src/main/java/kyu7/IsItAHexadecimalNumber.java">Regexp Basics - is it a hexadecimal number?</a></li>
+        <li><a href="/java/src/main/java/kyu7/TheHighestProfitWins.java">The highest profit wins</a></li>
       </ol>
     </details>
     <details>
