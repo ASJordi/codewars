@@ -478,6 +478,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/WhoLikesIt.java">Who likes it?</a></li>
         <li><a href="/java/src/main/java/kyu6/FatFingers.java">Fat Fingers</a></li>
         <li><a href="/java/src/main/java/kyu6/AscendDescendRepeat.java">Ascend, Descend, Repeat?</a></li>
+        <li><a href="/java/src/main/java/kyu6/Meeting.java">Meeting</a></li>
       </ol>
     </details>
   </ul>
