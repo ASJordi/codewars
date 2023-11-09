@@ -485,6 +485,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/MyFriendTime.java">My friend time</a></li>
         <li><a href="/java/src/main/java/kyu6/PhoneScreenOrganizer.java">Phone Screen Organizer</a></li>
         <li><a href="/java/src/main/java/kyu6/SimpleReversedParenthesis.java">Simple reversed parenthesis</a></li>
+        <li><a href="/java/src/main/java/kyu6/WhatsANameIn.java">What's A Name In?</a></li>
       </ol>
     </details>
   </ul>
