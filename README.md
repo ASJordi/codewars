@@ -216,6 +216,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/NeverVisitA.java">Never visit a</a></li>
         <li><a href="/java/src/main/java/kyu8/PointsOfReflection.java">Points of Reflection</a></li>
         <li><a href="/java/src/main/java/kyu8/CollatzConjecture.java">Collatz Conjecture</a></li>
+        <li><a href="/java/src/main/java/kyu8/FindNearestSquareNumber.java">Find Nearest square number</a></li>
       </ol>
     </details>
     <details>
