@@ -220,6 +220,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu8/GetPlanetNameByID.java">Get Planet Name By ID</a></li>
         <li><a href="/java/src/main/java/kyu8/SharkPontoon.java">Shark Pontoon</a></li>
         <li><a href="/java/src/main/java/kyu8/GravityFlip.java">Gravity Flip</a></li>
+        <li><a href="/java/src/main/java/kyu8/UpAndDownTheStringGrows.java">Up and down, the string grows</a></li>
       </ol>
     </details>
     <details>
