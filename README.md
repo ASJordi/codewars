@@ -465,6 +465,8 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/HowManyUrinalsAreFree.java">How many urinals are free?</a></li>
         <li><a href="/java/src/main/java/kyu7/FusionChamberShutdown.java">Fusion Chamber Shutdown</a></li>
         <li><a href="/java/src/main/java/kyu7/NicknameGenerator.java">Nickname Generator</a></li>
+        <li><a href="/java/src/main/java/kyu7/MysteryColorAnalyzerImpl.java">Mystery Colors</a></li>
+        <li><a href="/java/src/main/java/kyu7/BullsAndCows.java">Bulls and Cows</a></li>
       </ol>
     </details>
     <details>
