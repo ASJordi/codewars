@@ -468,6 +468,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/MysteryColorAnalyzerImpl.java">Mystery Colors</a></li>
         <li><a href="/java/src/main/java/kyu7/BullsAndCows.java">Bulls and Cows</a></li>
         <li><a href="/java/src/main/java/kyu7/HarvestFestival.java">Harvest Festival</a></li>
+        <li><a href="/java/src/main/java/kyu7/HowManyConsecutiveNumbersAreNeeded.java">How many consecutive numbers are needed?</a></li>
       </ol>
     </details>
     <details>
