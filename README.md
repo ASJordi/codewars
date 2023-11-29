@@ -472,6 +472,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/LargestPairSumInArray.java">Largest pair sum in array</a></li>
         <li><a href="/java/src/main/java/kyu7/IntegerPrimitiveDataTypes.java">Integer Primitive Data Types</a></li>
         <li><a href="/java/src/main/java/kyu7/PreviousMultipleOfThree.java">Previous multiple of three</a></li>
+        <li><a href="/java/src/main/java/kyu7/RoundUpToTheNextMultipleOf5.java">Round up to the next multiple of 5</a></li>
       </ol>
     </details>
     <details>
