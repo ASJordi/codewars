@@ -474,6 +474,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/PreviousMultipleOfThree.java">Previous multiple of three</a></li>
         <li><a href="/java/src/main/java/kyu7/RoundUpToTheNextMultipleOf5.java">Round up to the next multiple of 5</a></li>
         <li><a href="/java/src/main/java/kyu7/HappyBirthdayDarling.java">Happy Birthday, Darling!</a></li>
+        <li><a href="/java/src/main/java/kyu7/MostValuableCharacter.java">Most valuable character</a></li>
       </ol>
     </details>
     <details>
