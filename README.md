@@ -478,6 +478,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu7/SeeYouNextHappyYear.java">See You Next Happy Year</a></li>
         <li><a href="/java/src/main/java/kyu7/JavaFunctionalProgrammingTheBeginning.java">Java Functional Programming (Part 1: The Beginning)</a></li>
         <li><a href="/java/src/main/java/kyu7/JavaFunctionalProgrammingMultilineFunctions.java">Java Functional Programming (Part 2: Multiline Functions)</a></li>
+        <li><a href="/java/src/main/java/kyu7/JavaFunctionalProgrammingClosuredforBusiness.java">Java Functional Programming (Part 3: Closured for Business)</a></li>
       </ol>
     </details>
     <details>
