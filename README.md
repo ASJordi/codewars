@@ -513,6 +513,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/java/src/main/java/kyu6/CountTheDays.java">Count the days!</a></li>
         <li><a href="/java/src/main/java/kyu6/MinutesToMidnight.java">Minutes to Midnight</a></li>
         <li><a href="/java/src/main/java/kyu6/HowManyWorkingDays.java">How many working days</a></li>
+        <li><a href="/java/src/main/java/kyu6/EverybodyHatesMondays.java">Everybody hates Mondays</a></li>
       </ol>
     </details>
   </ul>
@@ -520,7 +521,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
 
 ## Contribuciones :handshake:
 
-Siéntete libre de revisar mis soluciones y hacer sugerencias para mejoras. También puedes enviar tus propias soluciones a los ejercicios que aún no he completado. Solo asegúrate de seguir las pautas de contribución de Exercism y de incluir los archivos de prueba necesarios para que tu solución sea evaluada.
+Siéntete libre de revisar mis soluciones y hacer sugerencias para mejoras. También puedes enviar tus propias soluciones a los ejercicios que aún no he completado.
 
 ## Contacto :mailbox:
 
