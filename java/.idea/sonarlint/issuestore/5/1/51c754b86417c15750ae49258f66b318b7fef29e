@@ -1,6 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ş›Ñ8Œƒ—ú–1
-s
-java:S3008"VRename this field "ONE_HUNDRED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃ‰8’ƒ—ú–1
-¶
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ªÓŞ8“ò½ú–1

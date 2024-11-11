@@ -1,6 +1,0 @@
-
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÔ…I8Ì»ÅÜ›1
-\
-java:S1118":Add a private constructor to hide the implicit public one.(ÎÓ¶ÿÿÿÿÿ8‚¼ÅÜ›1
-f
-java:S3358"DExtract this nested ternary operation into an independent statement.(Ç±½‡ÿÿÿÿÿ8ò¥ÔÜ›1
