@@ -222,6 +222,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu8/GravityFlip.java">Gravity Flip</a></li>
         <li><a href="/src/main/java/kyu8/UpAndDownTheStringGrows.java">Up and down, the string grows</a></li>
         <li><a href="/src/main/java/kyu8/Codewarrior.java">Codewarrior</a></li>
+        <li><a href="/src/main/java/kyu8/StringCombiner.java">Grasshopper - Combine strings</a></li>
       </ol>
     </details>
     <details>
