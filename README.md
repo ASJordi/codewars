@@ -224,6 +224,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu8/Codewarrior.java">Codewarrior</a></li>
         <li><a href="/src/main/java/kyu8/StringCombiner.java">Grasshopper - Combine strings</a></li>
         <li><a href="/src/main/java/kyu8/RemoveDuplicatesFromList.java">Remove duplicates from list</a></li>
+        <li><a href="/src/main/java/kyu8/TerminalGameCombatFunction.java">Grasshopper - Terminal game combat function</a></li>
       </ol>
     </details>
     <details>
