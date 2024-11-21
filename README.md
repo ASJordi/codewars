@@ -228,6 +228,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu8/Grader.java">Grader</a></li>
         <li><a href="/src/main/java/kyu8/RemoveAllExclamationMarksFromSentence.java">Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string</a></li>
         <li><a href="/src/main/java/kyu8/MultiplyTheNumber.java">Multiply the number</a></li>
+        <li><a href="/src/main/java/kyu8/StringCleaning.java">String cleaning</a></li>
       </ol>
     </details>
     <details>
