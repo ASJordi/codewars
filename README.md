@@ -235,6 +235,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu8/ShortLongShort.java">Short Long Short</a></li>
         <li><a href="/src/main/java/kyu8/TheIfFunction.java">The If Function</a></li>
         <li><a href="/src/main/java/kyu8/GenerateRangeOfIntegers.java">Generate Range Of Integers</a></li>
+        <li><a href="/src/main/java/kyu8/IsTheStringUppercase.java">Is the String Uppercase</a></li>
       </ol>
     </details>
     <details>
