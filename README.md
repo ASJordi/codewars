@@ -532,6 +532,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu6/MinutesToMidnight.java">Minutes to Midnight</a></li>
         <li><a href="/src/main/java/kyu6/HowManyWorkingDays.java">How many working days</a></li>
         <li><a href="/src/main/java/kyu6/EverybodyHatesMondays.java">Everybody hates Mondays</a></li>
+        <li><a href="/src/main/java/kyu6/PhoneWords.java">Phone Words</a></li>
       </ol>
     </details>
   </ul>
