@@ -238,6 +238,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu8/IsTheStringUppercase.java">Is the String Uppercase</a></li>
         <li><a href="/src/main/java/kyu8/PriceOfMangoes.java">Price Of Mangoes</a></li>
         <li><a href="/src/main/java/kyu8/StudentsFinalGrade.java">Students Final Grade</a></li>
+        <li><a href="/src/main/java/kyu8/FloatingPointComparison.java">Floating point comparison</a></li>
       </ol>
     </details>
     <details>
