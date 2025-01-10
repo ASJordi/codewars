@@ -500,6 +500,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/JavaFunctionalProgrammingClosuredforBusiness.java">Java Functional Programming (Part 3: Closured for Business)</a></li>
         <li><a href="/src/main/java/kyu7/ATM.java">ATM</a></li>
         <li><a href="/src/main/java/kyu7/AAndB.java">Thinking & Testing: A and B?</a></li>
+        <li><a href="/src/main/java/kyu7/AcronymGenerator.java">Acronym Generator</a></li>
       </ol>
     </details>
     <details>
