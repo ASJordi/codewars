@@ -502,6 +502,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/AAndB.java">Thinking & Testing: A and B?</a></li>
         <li><a href="/src/main/java/kyu7/AcronymGenerator.java">Acronym Generator</a></li>
         <li><a href="/src/main/java/kyu7/ALettersBestFriend.java">A Letters Best Friend</a></li>
+        <li><a href="/src/main/java/kyu7/AllUnique.java">All Unique</a></li>
       </ol>
     </details>
     <details>
