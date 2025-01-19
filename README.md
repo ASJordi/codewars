@@ -506,7 +506,8 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/AllUnique.java">All Unique</a></li>
         <li><a href="/src/main/java/kyu7/AlphabetSymmetry.java">Alphabet Symmetry</a></li>
         <li><a href="/src/main/java/kyu7/AreTheNumbersInOrder.java">Are The Numbers In Order</a></li>
-        <li><a href="/src/main/java/kyu7/BetweenExtremes.java">BetweenExtremes</a></li>
+        <li><a href="/src/main/java/kyu7/BetweenExtremes.java">Between Extremes</a></li>
+        <li><a href="/src/main/java/kyu7/BattleOfTheCharacters.java.java">Battle of the characters (Easy)</a></li>
       </ol>
     </details>
     <details>
