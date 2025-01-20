@@ -508,7 +508,8 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/AreTheNumbersInOrder.java">Are The Numbers In Order</a></li>
         <li><a href="/src/main/java/kyu7/BetweenExtremes.java">Between Extremes</a></li>
         <li><a href="/src/main/java/kyu7/BattleOfTheCharacters.java.java">Battle of the characters (Easy)</a></li>
-      </ol>
+        <li><a href="/src/main/java/kyu7/BubbleSortOnce.java">Bubble Sort Once</a></li>  
+    </ol>
     </details>
     <details>
       <summary>6 kyu</summary>
