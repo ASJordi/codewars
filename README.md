@@ -513,6 +513,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/ArrayElementParity.java">Array Element Parity</a></li>  
         <li><a href="/src/main/java/kyu7/AlphabeticalAddition.java">Alphabetical Addition</a></li>  
         <li><a href="/src/main/java/kyu7/BingoOrNot.java">Bingo Or Not</a></li>  
+        <li><a href="/src/main/java/kyu7/CountTheDigit.java">Count The Digit</a></li>  
     </ol>
     </details>
     <details>
