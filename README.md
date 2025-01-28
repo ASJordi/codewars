@@ -515,6 +515,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/BingoOrNot.java">Bingo Or Not</a></li>  
         <li><a href="/src/main/java/kyu7/CountTheDigit.java">Count The Digit</a></li>  
         <li><a href="/src/main/java/kyu7/AveragesOfNumbers.java">Averages Of Numbers</a></li>  
+        <li><a href="/src/main/java/kyu7/AllStarCodeChallenge.java">All Star Code Challenge #22</a></li>  
     </ol>
     </details>
     <details>
