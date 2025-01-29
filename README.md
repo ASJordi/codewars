@@ -507,7 +507,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/AlphabetSymmetry.java">Alphabet Symmetry</a></li>
         <li><a href="/src/main/java/kyu7/AreTheNumbersInOrder.java">Are The Numbers In Order</a></li>
         <li><a href="/src/main/java/kyu7/BetweenExtremes.java">Between Extremes</a></li>
-        <li><a href="/src/main/java/kyu7/BattleOfTheCharacters.java.java">Battle of the characters (Easy)</a></li>
+        <li><a href="/src/main/java/kyu7/BattleOfTheCharacters.java">Battle of the characters (Easy)</a></li>
         <li><a href="/src/main/java/kyu7/BubbleSortOnce.java">Bubble Sort Once</a></li>  
         <li><a href="/src/main/java/kyu7/ConvertALinkedListToAString.java">Convert A LinkedList To A String</a></li>  
         <li><a href="/src/main/java/kyu7/ArrayElementParity.java">Array Element Parity</a></li>  
@@ -516,6 +516,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/CountTheDigit.java">Count The Digit</a></li>  
         <li><a href="/src/main/java/kyu7/AveragesOfNumbers.java">Averages Of Numbers</a></li>  
         <li><a href="/src/main/java/kyu7/AllStarCodeChallenge.java">All Star Code Challenge #22</a></li>  
+        <li><a href="/src/main/java/kyu7/CreditCardMask.java">Credit Card Mask</a></li>  
     </ol>
     </details>
     <details>
