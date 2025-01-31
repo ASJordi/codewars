@@ -518,6 +518,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/AllStarCodeChallenge.java">All Star Code Challenge #22</a></li>  
         <li><a href="/src/main/java/kyu7/CreditCardMask.java">Credit Card Mask</a></li>
         <li><a href="/src/main/java/kyu7/DayOfTheYear.java">Day Of The Year</a></li>
+        <li><a href="/src/main/java/kyu7/DifferenceBetweenTwoCollections.java">Difference Between Two Collections</a></li>
     </ol>
     </details>
     <details>
