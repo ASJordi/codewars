@@ -520,6 +520,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/DayOfTheYear.java">Day Of The Year</a></li>
         <li><a href="/src/main/java/kyu7/DifferenceBetweenTwoCollections.java">Difference Between Two Collections</a></li>
         <li><a href="/src/main/java/kyu7/Digitize.java">Digitize</a></li>
+        <li><a href="/src/main/java/kyu7/DontGiveMeFive.java">Dont Give Me Five</a></li>
     </ol>
     </details>
     <details>
