@@ -522,6 +522,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/Digitize.java">Digitize</a></li>
         <li><a href="/src/main/java/kyu7/DontGiveMeFive.java">Dont Give Me Five</a></li>
         <li><a href="/src/main/java/kyu7/DoubleSort.java">Double Sort</a></li>
+        <li><a href="/src/main/java/kyu7/DoubleTrouble.java">Double Trouble</a></li>
     </ol>
     </details>
     <details>
