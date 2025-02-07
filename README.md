@@ -524,6 +524,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/DoubleSort.java">Double Sort</a></li>
         <li><a href="/src/main/java/kyu7/DoubleTrouble.java">Double Trouble</a></li>
         <li><a href="/src/main/java/kyu7/EmailAddressObfuscator.java">Email Address Obfuscator</a></li>
+        <li><a href="/src/main/java/kyu7/ArrayPacking.java">Simple Fun #9: Array Packing</a></li>
     </ol>
     </details>
     <details>
