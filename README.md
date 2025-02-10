@@ -527,6 +527,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/ArrayPacking.java">Simple Fun #9: Array Packing</a></li>
         <li><a href="/src/main/java/kyu7/ExecuteMeNTimes.java">Execute Me N Times</a></li>
         <li><a href="/src/main/java/kyu7/ExtendedWeekends.java">Extended Weekends</a></li>
+        <li><a href="/src/main/java/kyu7/FigurateNumbersPronicNumber.java">Figurate Numbers #2 - Pronic Number</a></li>
     </ol>
     </details>
     <details>
