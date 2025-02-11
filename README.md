@@ -528,6 +528,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/ExecuteMeNTimes.java">Execute Me N Times</a></li>
         <li><a href="/src/main/java/kyu7/ExtendedWeekends.java">Extended Weekends</a></li>
         <li><a href="/src/main/java/kyu7/FigurateNumbersPronicNumber.java">Figurate Numbers #2 - Pronic Number</a></li>
+        <li><a href="/src/main/java/kyu7/CreditCardIssuerChecking.java">Credit Card Issuer Checking</a></li>
     </ol>
     </details>
     <details>
