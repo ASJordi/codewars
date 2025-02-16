@@ -533,6 +533,7 @@ Cada lenguaje tiene su propia carpeta en el repositorio. Dentro de cada carpeta,
         <li><a href="/src/main/java/kyu7/FindAMeetingRoom.java">Find A Meeting Room</a></li>
         <li><a href="/src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java">Find Count Of Most Frequent Item In An Array</a></li>
         <li><a href="/src/main/java/kyu7/FindTheMissingNumber.java">Find The Missing Number</a></li>
+        <li><a href="/src/main/java/kyu7/FindTheNextPerfectSquare.java">Find The Next Perfect Square</a></li>
     </ol>
     </details>
     <details>
