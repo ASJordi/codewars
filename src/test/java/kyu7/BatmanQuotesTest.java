@@ -6,13 +6,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class BatmanQuotesTest {
 
-    static String[] quotes = { "Quote Hidden in example test",
+    static String[] quotes = {"Quote Hidden in example test",
             "Holy haberdashery, Batman!",
             "Quote Hidden in example test"
     };
 
     @Test
-    public void test1(){
+    public void test1() {
         assertEquals("Robin: Holy haberdashery, Batman!", BatmanQuotes.getQuote(quotes, "Rob1n"), "Fail");
     }
 

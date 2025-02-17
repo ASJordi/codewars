@@ -1,13 +1,14 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class PreviousMultipleOfThreeTest {
 
     @Test
-    public void basicTest(){
+    public void basicTest() {
         assertNull(PreviousMultipleOfThree.prevMultOfThree(1));
         assertNull(PreviousMultipleOfThree.prevMultOfThree(25));
         assertEquals(Integer.valueOf(36), PreviousMultipleOfThree.prevMultOfThree(36));

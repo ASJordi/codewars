@@ -4,16 +4,17 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class IsYourPeriodLateTest {
 
     private static void doTest(LocalDate last, LocalDate today, int cycleLength, boolean expected) {
-        boolean actual = IsYourPeriodLate.periodIsLate(last,today,cycleLength);
+        boolean actual = IsYourPeriodLate.periodIsLate(last, today, cycleLength);
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         String l = last.format(formatter);
         String t = today.format(formatter);
-        String testDescription = "Testing where last = "+l+" and today = "+t;
+        String testDescription = "Testing where last = " + l + " and today = " + t;
         assertEquals(actual, expected);
     }
 

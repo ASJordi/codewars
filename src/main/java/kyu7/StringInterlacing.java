@@ -7,7 +7,7 @@ public class StringInterlacing {
         second = second.replace(" ", "");
         StringBuilder result = new StringBuilder();
 
-        if (first.length() != second.length()){
+        if (first.length() != second.length()) {
             String s1 = first;
             String s2 = second;
             int max = Math.max(s1.length(), s2.length());

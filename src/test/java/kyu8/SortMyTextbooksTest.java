@@ -1,7 +1,10 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import java.util.ArrayList;
+import java.util.Collections;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SortMyTextbooksTest {
@@ -10,10 +13,8 @@ public class SortMyTextbooksTest {
     public void basicTest() {
         ArrayList<String> sorted = new ArrayList<>();
         ArrayList<String> strs = new ArrayList<>();
-        for(String s : new String[] {"Algebra", "History", "Geometry", "English"})
-            strs.add(s);
-        for(String s : new String[] {"Algebra", "English", "Geometry", "History"})
-            sorted.add(s);
+        Collections.addAll(strs, new String[]{"Algebra", "History", "Geometry", "English"});
+        Collections.addAll(sorted, new String[]{"Algebra", "English", "Geometry", "History"});
         assertEquals(sorted, SortMyTextbooks.sort(strs));
     }
 
@@ -21,10 +22,8 @@ public class SortMyTextbooksTest {
     public void capitalizationTest() {
         ArrayList<String> sorted = new ArrayList<>();
         ArrayList<String> strs = new ArrayList<>();
-        for(String s : new String[] {"Algebra", "history", "Geometry", "english"})
-            strs.add(s);
-        for(String s : new String[] {"Algebra", "english", "Geometry", "history"})
-            sorted.add(s);
+        Collections.addAll(strs, new String[]{"Algebra", "history", "Geometry", "english"});
+        Collections.addAll(sorted, new String[]{"Algebra", "english", "Geometry", "history"});
         assertEquals(sorted, SortMyTextbooks.sort(strs));
     }
 
@@ -32,10 +31,8 @@ public class SortMyTextbooksTest {
     public void symbolsTest() {
         ArrayList<String> sorted = new ArrayList<>();
         ArrayList<String> strs = new ArrayList<>();
-        for(String s : new String[] {"Alg#bra", "$istory", "Geom^try", "**English"})
-            strs.add(s);
-        for(String s : new String[] {"$istory", "**English", "Alg#bra", "Geom^try"})
-            sorted.add(s);
+        Collections.addAll(strs, new String[]{"Alg#bra", "$istory", "Geom^try", "**English"});
+        Collections.addAll(sorted, new String[]{"$istory", "**English", "Alg#bra", "Geom^try"});
         assertEquals(sorted, SortMyTextbooks.sort(strs));
     }
 

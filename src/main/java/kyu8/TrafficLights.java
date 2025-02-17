@@ -8,7 +8,7 @@ public class TrafficLights {
 
         return Objects.equals(current, "green") ? "yellow" :
                 Objects.equals(current, "yellow") ? "red" :
-                Objects.equals(current, "red") ? "green" : current;
+                        Objects.equals(current, "red") ? "green" : current;
 
     }
 

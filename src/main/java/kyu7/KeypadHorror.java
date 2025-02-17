@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class KeypadHorror {
 
-    public static String computerToPhone(String number){
+    public static String computerToPhone(String number) {
         StringBuilder res = new StringBuilder();
         HashMap<String, String> keyboard = new HashMap<>();
         keyboard.put("7", "1");
@@ -20,7 +20,7 @@ public class KeypadHorror {
 
         for (int i = 0; i < number.length(); i++) {
             String num = Character.toString(number.charAt(i));
-            if (keyboard.containsKey(num)){
+            if (keyboard.containsKey(num)) {
                 res.append(keyboard.get(num));
             }
         }

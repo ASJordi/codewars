@@ -1,14 +1,16 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class IsThisATriangleTest {
 
     @Test
     public void publicTests() {
-        assertEquals(true, IsThisATriangle.isTriangle(1,2,2));
-        assertEquals(false, IsThisATriangle.isTriangle(7,2,2));
+        assertTrue(IsThisATriangle.isTriangle(1, 2, 2));
+        assertFalse(IsThisATriangle.isTriangle(7, 2, 2));
     }
 
 }

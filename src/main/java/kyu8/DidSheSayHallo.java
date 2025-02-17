@@ -2,7 +2,7 @@ package kyu8;
 
 public class DidSheSayHallo {
 
-    public static boolean validateHello(String greetings){
+    public static boolean validateHello(String greetings) {
 
         String lowerCaseGreetings = greetings.toLowerCase();
         return lowerCaseGreetings.contains("hello") ||

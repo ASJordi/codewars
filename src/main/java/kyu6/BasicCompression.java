@@ -26,7 +26,7 @@ public class BasicCompression {
     public static String decompress(String s) {
         if (!s.contains("[")) return s;
         StringBuilder sb = new StringBuilder();
-        String parts[] = s.substring(2, s.length() - 1).split(",\\[");
+        String[] parts = s.substring(2, s.length() - 1).split(",\\[");
         for (String p : parts) {
             int n = Integer.valueOf(p.substring(0, p.indexOf(",")));
             char c = p.charAt(p.indexOf("\"") + 1);

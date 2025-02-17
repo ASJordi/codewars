@@ -10,10 +10,10 @@ public class LunarMathematicsAddition {
         int n1Len = n1.length();
         int n2Len = n2.length();
 
-        if (n1Len < n2Len){
+        if (n1Len < n2Len) {
             int diff = n2Len - n1Len;
             n1.insert(0, "0".repeat(diff));
-        } else if (n2Len < n1Len){
+        } else if (n2Len < n1Len) {
             int diff = n1Len - n2Len;
             n2.insert(0, "0".repeat(diff));
         }

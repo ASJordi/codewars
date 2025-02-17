@@ -1,23 +1,25 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class TidyNumberTest {
 
     @Test
     public void Check_Small_Values() {
-        assertEquals(true,  TidyNumber.tidyNumber(12));
-        assertEquals(false, TidyNumber.tidyNumber(32));
-        assertEquals(true,  TidyNumber.tidyNumber(39));
+        assertTrue(TidyNumber.tidyNumber(12));
+        assertFalse(TidyNumber.tidyNumber(32));
+        assertTrue(TidyNumber.tidyNumber(39));
     }
 
     @Test
     public void Check_Larger_Values() {
-        assertEquals(false, TidyNumber.tidyNumber(1024));
-        assertEquals(false, TidyNumber.tidyNumber(12576));
-        assertEquals(true,  TidyNumber.tidyNumber(13579));
-        assertEquals(true,  TidyNumber.tidyNumber(2335));
+        assertFalse(TidyNumber.tidyNumber(1024));
+        assertFalse(TidyNumber.tidyNumber(12576));
+        assertTrue(TidyNumber.tidyNumber(13579));
+        assertTrue(TidyNumber.tidyNumber(2335));
     }
 
 }

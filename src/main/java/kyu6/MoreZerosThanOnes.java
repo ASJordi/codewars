@@ -13,7 +13,7 @@ public class MoreZerosThanOnes {
 
         String word = String.join("", uniqueLetters);
 
-        for (char c : word.toCharArray()){
+        for (char c : word.toCharArray()) {
             String bin = Integer.toBinaryString(c);
             if (hasMoreZeros(bin)) result.append(c);
         }
@@ -21,11 +21,11 @@ public class MoreZerosThanOnes {
         return result.toString().toCharArray();
     }
 
-    private static boolean hasMoreZeros(String s){
+    private static boolean hasMoreZeros(String s) {
         int cZeros = 0;
         int cOnes = 0;
 
-        for (char c : s.toCharArray()){
+        for (char c : s.toCharArray()) {
             if (c == '1') cOnes++;
             if (c == '0') cZeros++;
         }

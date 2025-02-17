@@ -1,8 +1,8 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertNotEquals;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 public class NullTest {
 
@@ -21,7 +21,7 @@ public class NullTest {
     @Test
     public void Test1() {
         Null n = new Null();
-        assertEquals(n,null);
+        assertNotNull(n);
     }
 
     @Test

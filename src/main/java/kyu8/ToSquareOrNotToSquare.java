@@ -8,7 +8,7 @@ public class ToSquareOrNotToSquare {
 
         ArrayList<Integer> nums = new ArrayList<>();
 
-        for (int n : array){
+        for (int n : array) {
             double sqrt = Math.sqrt(n);
             if (sqrt == Math.floor(sqrt)) nums.add((int) sqrt);
             else nums.add(n * n);

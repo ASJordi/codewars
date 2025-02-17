@@ -2,7 +2,7 @@ package kyu8;
 
 import org.junit.jupiter.api.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class WolvesAndSheepTest {
 
@@ -18,7 +18,6 @@ public class WolvesAndSheepTest {
     public void wolfIsTheClosestAnimalToFarmer() {
         assertThat(WolvesAndSheep.warnTheSheep(new String[]{"sheep", "sheep", "wolf"})).isEqualTo("Pls go away and stop eating my sheep");
     }
-
 
 
 }

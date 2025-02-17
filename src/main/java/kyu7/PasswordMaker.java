@@ -2,7 +2,7 @@ package kyu7;
 
 public class PasswordMaker {
 
-    public static String makePassword(String phrase){
+    public static String makePassword(String phrase) {
         if (phrase.isBlank()) return "";
         String[] arr = phrase.split(" ");
         StringBuilder password = new StringBuilder();

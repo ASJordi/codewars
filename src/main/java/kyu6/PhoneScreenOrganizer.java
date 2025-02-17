@@ -8,7 +8,7 @@ public class PhoneScreenOrganizer {
 
     public static Object[] moveOver(Object[] a) {
         List<Object> list = new LinkedList<>(Arrays.asList(a));
-        while (list.contains(null)){
+        while (list.contains(null)) {
             int index = list.indexOf(null);
             list.remove(null);
             if (list.isEmpty()) return new Object[0];

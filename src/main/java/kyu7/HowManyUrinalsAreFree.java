@@ -2,7 +2,7 @@ package kyu7;
 
 public class HowManyUrinalsAreFree {
 
-    public static int getFreeUrinals(String urinals){
+    public static int getFreeUrinals(String urinals) {
         return urinals.contains("11") ? -1 : urinals.replaceAll("010|10|01", "1").replace("00", "0").replace("1", "").length();
     }
 

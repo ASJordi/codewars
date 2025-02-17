@@ -16,5 +16,5 @@ public class BasicsGeneratorsOneTest {
         assertEquals(5, g.next());
         assertEquals(10, g.next(10));
     }
-    
+
 }

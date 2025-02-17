@@ -1,10 +1,11 @@
 package kyu7;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
 public class ArrayElementParity {
 
-    public static int solve(int [] arr) {
+    public static int solve(int[] arr) {
         Set<Integer> positive = new HashSet<>();
         Set<Integer> negative = new HashSet<>();
 
@@ -16,7 +17,7 @@ public class ArrayElementParity {
         if (positive.size() > negative.size()) positive.removeAll(negative);
         else negative.removeAll(positive);
 
-        return positive.size() < negative.size() ? positive.iterator().next() : - negative.iterator().next();
+        return positive.size() < negative.size() ? positive.iterator().next() : -negative.iterator().next();
     }
 
 }

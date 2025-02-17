@@ -1,6 +1,7 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class PartialWordSearchingTest {
@@ -12,7 +13,9 @@ public class PartialWordSearchingTest {
         String[] test2results = {"Tin + Oxygen", "lox"};
         String[] test3results = {"Empty"};
         String[] test2 = new String[320];
-        for (int i = 0; i < 320; i++){ test2[i] = "o x"; }
+        for (int i = 0; i < 320; i++) {
+            test2[i] = "o x";
+        }
         test2[303] = "lox";
         test2[70] = "Tin + Oxygen";
         assertArrayEquals(test1results, PartialWordSearching.findWord("ade", test1));

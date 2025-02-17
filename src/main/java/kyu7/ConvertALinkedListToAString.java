@@ -17,8 +17,8 @@ public class ConvertALinkedListToAString {
     }
 
     static class Node {
-        private int data;
-        private Node next;
+        private final int data;
+        private final Node next;
 
         public Node(int data, Node next) {
             this.data = data;

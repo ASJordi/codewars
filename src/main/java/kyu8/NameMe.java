@@ -2,9 +2,9 @@ package kyu8;
 
 public class NameMe {
 
-    private String firstName;
-    private String lastName;
-    private String fullName;
+    private final String firstName;
+    private final String lastName;
+    private final String fullName;
 
     public NameMe(String first, String last) {
         this.firstName = first;

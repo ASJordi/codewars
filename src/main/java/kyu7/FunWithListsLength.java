@@ -3,7 +3,7 @@ package kyu7;
 public class FunWithListsLength {
 
     static int length(Node head) {
-        if(head == null) return 0;
+        if (head == null) return 0;
         return length(head.next) + 1;
     }
 

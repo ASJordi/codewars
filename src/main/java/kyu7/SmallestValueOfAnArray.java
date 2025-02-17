@@ -1,10 +1,12 @@
 package kyu7;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class SmallestValueOfAnArray {
 
-    public static int findSmallest( final int[] numbers, final String toReturn ) {
+    public static int findSmallest(final int[] numbers, final String toReturn) {
         ArrayList<Integer> nums = new ArrayList<>();
         for (int n : numbers) nums.add(n);
         List<Integer> originalNumbers = List.copyOf(nums);

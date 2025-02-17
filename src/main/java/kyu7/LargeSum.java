@@ -7,7 +7,7 @@ public class LargeSum {
     public static String firstTenDigitsOfSum(String[] numbers) {
         BigInteger sum = BigInteger.ZERO;
 
-        for (String num : numbers){
+        for (String num : numbers) {
             sum = sum.add(new BigInteger(num));
         }
 

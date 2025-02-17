@@ -10,7 +10,8 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 public class RemoveDuplicatesFromListTest {
 
     @Test
-    @Order(0) @DisplayName("Empty array")
+    @Order(0)
+    @DisplayName("Empty array")
     public void emptyArray() {
         test(new int[0], new int[0]);
     }
@@ -26,28 +27,28 @@ public class RemoveDuplicatesFromListTest {
     @Order(2)
     @DisplayName("Array of distinct elements")
     public void distinctElements() {
-        test(new int[]{1,2}, new int[]{1,2});
+        test(new int[]{1, 2}, new int[]{1, 2});
     }
 
     @Test
     @Order(3)
     @DisplayName("Basic test case 1")
     public void testBasicOne() {
-        test(new int[]{1,2}, new int[]{1,1,2});
+        test(new int[]{1, 2}, new int[]{1, 1, 2});
     }
 
     @Test
     @Order(4)
     @DisplayName("Basic test case 2")
     public void testBasicTwo() {
-        test(new int[]{1,2,3,4,5}, new int[]{1, 1, 1, 2, 3, 4, 5});
+        test(new int[]{1, 2, 3, 4, 5}, new int[]{1, 1, 1, 2, 3, 4, 5});
     }
 
     @Test
     @Order(5)
     @DisplayName("Basic test case 3")
     public void testBasicThree() {
-        test(new int[]{1,2,3,4,5,6,7}, new int[]{1, 2, 2, 1, 3, 3, 1, 4, 2, 4, 5, 6, 7, 7, 7});
+        test(new int[]{1, 2, 3, 4, 5, 6, 7}, new int[]{1, 2, 2, 1, 3, 3, 1, 4, 2, 4, 5, 6, 7, 7, 7});
     }
 
     private void test(int[] expected, int[] input) {

@@ -3,6 +3,7 @@ package kyu7;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.atomic.AtomicInteger;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ExecuteMeNTimesTest {
@@ -27,7 +28,8 @@ public class ExecuteMeNTimesTest {
         w.execute(action, counter);
 
         int actualCounter = executionCounter.get();
-        if (counter != actualCounter) System.out.println("Action was executed " + actualCounter + " times instead of " + counter + " times");
+        if (counter != actualCounter)
+            System.out.println("Action was executed " + actualCounter + " times instead of " + counter + " times");
         assertEquals(counter, actualCounter);
     }
 

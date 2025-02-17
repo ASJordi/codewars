@@ -2,7 +2,7 @@ package kyu7;
 
 public class ConvertingFromBase10To16 {
 
-    public static String convertToHex(int a){
+    public static String convertToHex(int a) {
         if (a == 0) return "x0" + a;
         StringBuilder hexadecimal = new StringBuilder();
 

@@ -12,7 +12,7 @@ public class AbbreviateATwoWordName {
 //        }
 
 //        return abbreviateName.deleteCharAt(abbreviateName.length() - 1).toString().toUpperCase();
-         return (names[0].charAt(0) + "." + names[1].charAt(0)).toUpperCase();
+        return (names[0].charAt(0) + "." + names[1].charAt(0)).toUpperCase();
     }
 
 }

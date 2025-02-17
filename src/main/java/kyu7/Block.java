@@ -2,7 +2,9 @@ package kyu7;
 
 public class Block {
 
-    private int width, length, height;
+    private final int width;
+    private final int length;
+    private final int height;
 
     public Block(int[] dimensions) {
         this.width = dimensions[0];
@@ -22,11 +24,11 @@ public class Block {
         return height;
     }
 
-    public int getVolume(){
+    public int getVolume() {
         return this.width * this.height * this.length;
     }
 
-    public int getSurfaceArea(){
+    public int getSurfaceArea() {
         return 2 * (this.width * this.length + this.length * this.height + this.width * this.height);
     }
 }

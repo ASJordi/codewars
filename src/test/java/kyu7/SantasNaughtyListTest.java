@@ -1,8 +1,11 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import java.util.ArrayList;
+import java.util.Collections;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SantasNaughtyListTest {
 
@@ -10,15 +13,11 @@ public class SantasNaughtyListTest {
     public void basicTest() {
         ArrayList<String> santasList = new ArrayList<>();
         ArrayList<String> children = new ArrayList<>();
-        for(String s : new String[] {"Jason", "Jackson", "Jordan", "Johnny"})
-            santasList.add(s);
-        for(String s : new String[] {"Jason", "Jordan", "Jennifer"})
-            children.add(s);
+        Collections.addAll(santasList, new String[]{"Jason", "Jackson", "Jordan", "Johnny"});
+        Collections.addAll(children, new String[]{"Jason", "Jordan", "Jennifer"});
         ArrayList<String> goodChildren = new ArrayList<>();
 
-        for(String s : new String[] {"Jason", "Jordan"}) {
-            goodChildren.add(s);
-        }
+        Collections.addAll(goodChildren, new String[]{"Jason", "Jordan"});
         assertEquals(goodChildren, SantasNaughtyList.findChildren(santasList, children));
     }
 
@@ -26,15 +25,11 @@ public class SantasNaughtyListTest {
     public void sortingTest() {
         ArrayList<String> santasList = new ArrayList<>();
         ArrayList<String> children = new ArrayList<>();
-        for(String s : new String[] {"Jason", "Jackson", "Johnson", "JJ"})
-            santasList.add(s);
-        for(String s : new String[] {"Jason", "James", "JJ"})
-            children.add(s);
+        Collections.addAll(santasList, new String[]{"Jason", "Jackson", "Johnson", "JJ"});
+        Collections.addAll(children, new String[]{"Jason", "James", "JJ"});
         ArrayList<String> goodChildren = new ArrayList<>();
 
-        for(String s : new String[] {"JJ", "Jason"}) {
-            goodChildren.add(s);
-        }
+        Collections.addAll(goodChildren, new String[]{"JJ", "Jason"});
         assertEquals(goodChildren, SantasNaughtyList.findChildren(santasList, children));
     }
 
@@ -42,15 +37,11 @@ public class SantasNaughtyListTest {
     public void capitalizationTest() {
         ArrayList<String> santasList = new ArrayList<>();
         ArrayList<String> children = new ArrayList<>();
-        for(String s : new String[] {"jASon", "JAsoN", "JaSON", "jasON"})
-            santasList.add(s);
-        for(String s : new String[] {"JasoN", "jASOn", "JAsoN", "jASon", "JASON"})
-            children.add(s);
+        Collections.addAll(santasList, new String[]{"jASon", "JAsoN", "JaSON", "jasON"});
+        Collections.addAll(children, new String[]{"JasoN", "jASOn", "JAsoN", "jASon", "JASON"});
         ArrayList<String> goodChildren = new ArrayList<>();
 
-        for(String s : new String[] {"JAsoN", "jASon"}) {
-            goodChildren.add(s);
-        }
+        Collections.addAll(goodChildren, new String[]{"JAsoN", "jASon"});
         assertEquals(goodChildren, SantasNaughtyList.findChildren(santasList, children));
     }
 

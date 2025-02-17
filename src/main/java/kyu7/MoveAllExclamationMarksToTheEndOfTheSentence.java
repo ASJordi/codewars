@@ -2,7 +2,7 @@ package kyu7;
 
 public class MoveAllExclamationMarksToTheEndOfTheSentence {
 
-    public static String remove(String s){
+    public static String remove(String s) {
         String[] str = s.split(" ");
         int count = 0;
 

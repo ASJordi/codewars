@@ -10,7 +10,7 @@ public class RemoveAllExclamationMarksFromTheEndOfWordsTest {
     public void testBasic() {
         assertEquals("nothing to do", RemoveAllExclamationMarksFromTheEndOfWords.removeBang("nothing to do"));
         assertEquals("No seriously Seriously Wow", RemoveAllExclamationMarksFromTheEndOfWords.removeBang("No seriously! Seriously!! Wow"));
-        assertEquals( "!!No seriously !Seriously !!Wow", RemoveAllExclamationMarksFromTheEndOfWords.removeBang("!!No! seriously! !Seriously!! !!Wow!"));
+        assertEquals("!!No seriously !Seriously !!Wow", RemoveAllExclamationMarksFromTheEndOfWords.removeBang("!!No! seriously! !Seriously!! !!Wow!"));
     }
 
 }

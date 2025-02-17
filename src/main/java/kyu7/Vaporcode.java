@@ -6,7 +6,7 @@ public class Vaporcode {
         StringBuilder res = new StringBuilder();
         s = s.replace(" ", "").toUpperCase();
 
-        for (char l : s.toCharArray()){
+        for (char l : s.toCharArray()) {
             res.append(l).append("  ");
         }
 

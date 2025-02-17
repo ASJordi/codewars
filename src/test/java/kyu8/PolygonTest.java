@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class PolygonTest {
 
     @Test
-    public void test1(){
+    public void test1() {
         //Square with sides of 5 units
         Polygon poly = new Polygon(4, 5);
         assertEquals("5.000", String.format("%.3f", poly.circleDiameter()));

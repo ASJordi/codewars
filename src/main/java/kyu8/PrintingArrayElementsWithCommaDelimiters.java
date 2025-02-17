@@ -2,7 +2,7 @@ package kyu8;
 
 public class PrintingArrayElementsWithCommaDelimiters {
 
-    public static String printArray(Object array[]) {
+    public static String printArray(Object[] array) {
         StringBuilder res = new StringBuilder();
 
         for (int i = 0; i < array.length; i++) {

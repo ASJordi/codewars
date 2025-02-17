@@ -8,7 +8,8 @@ public class GrasshopperTerminalGame {
     int damage = 5;
     int experience = 0;
 
-    public GrasshopperTerminalGame() {}
+    public GrasshopperTerminalGame() {
+    }
 
     public GrasshopperTerminalGame(String name) {
         this.name = name;

@@ -1,6 +1,7 @@
 package kyu6;
 
 import java.util.stream.Stream;
+
 import static java.util.stream.Collectors.joining;
 
 public class Meeting {

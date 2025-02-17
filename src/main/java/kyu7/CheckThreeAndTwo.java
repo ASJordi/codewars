@@ -7,7 +7,7 @@ public class CheckThreeAndTwo {
         int numB = 0;
         int numC = 0;
 
-        for (char c : chars){
+        for (char c : chars) {
             if (c == 'a') numA++;
             if (c == 'b') numB++;
             if (c == 'c') numC++;

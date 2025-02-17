@@ -12,7 +12,7 @@ public class CountByX {
         }
     }
 
-    public static int[] countBy(int x, int n){
+    public static int[] countBy(int x, int n) {
 
         int[] multiples = new int[n];
 

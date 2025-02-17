@@ -2,17 +2,18 @@ package kyu7;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ConsecutiveLettersTest {
 
     @Test
-    public void basicTests(){
-        assertEquals(true, ConsecutiveLetters.solve("abc"));
-        assertEquals(false, ConsecutiveLetters.solve("abd"));
-        assertEquals(true, ConsecutiveLetters.solve("dabc"));
-        assertEquals(false, ConsecutiveLetters.solve("abbc"));
-        assertEquals(true, ConsecutiveLetters.solve("v"));
+    public void basicTests() {
+        assertTrue(ConsecutiveLetters.solve("abc"));
+        assertFalse(ConsecutiveLetters.solve("abd"));
+        assertTrue(ConsecutiveLetters.solve("dabc"));
+        assertFalse(ConsecutiveLetters.solve("abbc"));
+        assertTrue(ConsecutiveLetters.solve("v"));
     }
 
 }

@@ -9,12 +9,12 @@ public class HerdingCats implements Comparator<HerdingCats.Cat> {
         return Double.compare(cat1.weight, cat2.weight);
     }
 
-    static class Cat implements Comparable<Cat>{
+    static class Cat implements Comparable<Cat> {
 
         public String name;
         public double weight;
 
-        Cat(String name, double weight){
+        Cat(String name, double weight) {
             this.name = name;
             this.weight = weight;
         }

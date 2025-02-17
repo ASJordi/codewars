@@ -14,7 +14,7 @@ public class AllStarCodeChallengeTest {
 
     @Test
     public void stringIsEmpty() {
-        assertEquals(0, AllStarCodeChallenge.strCount("",'z'));
+        assertEquals(0, AllStarCodeChallenge.strCount("", 'z'));
     }
 
 }

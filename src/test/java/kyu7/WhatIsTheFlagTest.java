@@ -3,6 +3,7 @@ package kyu7;
 import org.junit.jupiter.api.Test;
 
 import java.security.MessageDigest;
+
 import static java.nio.charset.StandardCharsets.UTF_8;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -21,7 +22,7 @@ public class WhatIsTheFlagTest {
         var md5 = MessageDigest.getInstance("MD5");
         byte[] digest = md5.digest(input.getBytes(UTF_8));
         StringBuilder sb = new StringBuilder(digest.length * 2);
-        for(byte b : digest) sb.append(String.format("%02x", b));
+        for (byte b : digest) sb.append(String.format("%02x", b));
         return sb.toString();
     }
 

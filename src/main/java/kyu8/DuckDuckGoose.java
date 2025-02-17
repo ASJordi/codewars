@@ -4,7 +4,7 @@ public class DuckDuckGoose {
 
     public static String duckDuckGoose(Player[] players, int goose) {
 
-        while(goose > players.length) {
+        while (goose > players.length) {
             goose = (goose - players.length);
         }
 

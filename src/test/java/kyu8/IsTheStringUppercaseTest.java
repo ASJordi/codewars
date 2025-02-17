@@ -1,6 +1,7 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -15,5 +16,5 @@ public class IsTheStringUppercaseTest {
         assertFalse(IsTheStringUppercase.isUpperCase("ACSKLDFJSgSKLDFJSKLDFJ"), "Input: 'ACSKLDFJSgSKLDFJSKLDFJ'");
         assertTrue(IsTheStringUppercase.isUpperCase("ACSKLDFJSGSKLDFJSKLDFJ"), "Input: 'ACSKLDFJSGSKLDFJSKLDFJ'");
     }
-    
+
 }

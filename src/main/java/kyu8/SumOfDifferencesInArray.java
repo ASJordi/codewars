@@ -12,7 +12,9 @@ public class SumOfDifferencesInArray {
         int sum = 0;
         ArrayList<Integer> list = new ArrayList<>();
 
-        for (int i : arr) { list.add(i); }
+        for (int i : arr) {
+            list.add(i);
+        }
 
         list.sort(Collections.reverseOrder());
 

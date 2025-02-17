@@ -9,12 +9,12 @@ public class MergingSortedIntegerArrays {
         ArrayList<Integer> nums = new ArrayList();
 
         for (int f : first) {
-            if (nums.contains(f)) continue;;
+            if (nums.contains(f)) continue;
             nums.add(f);
         }
 
         for (int s : second) {
-            if (nums.contains(s)) continue;;
+            if (nums.contains(s)) continue;
             nums.add(s);
         }
 

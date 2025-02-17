@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class FromAToZTest {
 
     @Test
-    public void sampleTests(){
+    public void sampleTests() {
         assertEquals("abcdefghijklmnopqrstuvwxyz", FromAToZ.gimmeTheLetters("a-z"));
         assertEquals("hijklmno", FromAToZ.gimmeTheLetters("h-o"));
         assertEquals("QRSTUVWXYZ", FromAToZ.gimmeTheLetters("Q-Z"));

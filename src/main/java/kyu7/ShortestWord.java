@@ -7,7 +7,7 @@ public class ShortestWord {
 
         String shortest = words[0];
 
-        for(String str : words) {
+        for (String str : words) {
             if (str.length() < shortest.length()) {
                 shortest = str;
             }

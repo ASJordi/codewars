@@ -9,7 +9,7 @@ public class UnluckyDays {
         int numOfFridays = 0;
 
         for (int i = 1; i < 13; i++) {
-            LocalDate date = LocalDate.of(year,i,13);
+            LocalDate date = LocalDate.of(year, i, 13);
             if (date.getDayOfWeek().compareTo(DayOfWeek.FRIDAY) == 0) numOfFridays++;
         }
 

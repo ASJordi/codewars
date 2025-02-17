@@ -2,7 +2,7 @@ package kyu8;
 
 public class PowersOfTwo {
 
-    public static long[] powersOfTwo(int n){
+    public static long[] powersOfTwo(int n) {
 
         long[] result = new long[n + 1];
 

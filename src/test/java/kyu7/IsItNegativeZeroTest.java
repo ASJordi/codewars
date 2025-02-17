@@ -2,26 +2,27 @@ package kyu7;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class IsItNegativeZeroTest {
 
-    private IsItNegativeZero solution = new IsItNegativeZero();
+    private final IsItNegativeZero solution = new IsItNegativeZero();
 
     @Test
     public void basic_tests() throws Exception {
-        assertEquals(solution.isNegativeZero(-0f), true, "");
-        assertEquals(solution.isNegativeZero(-5f), false, "");
-        assertEquals(solution.isNegativeZero(-4f), false, "");
-        assertEquals(solution.isNegativeZero(-3f), false, "");
-        assertEquals(solution.isNegativeZero(-2f), false, "");
-        assertEquals(solution.isNegativeZero(-1f), false, "");
-        assertEquals(solution.isNegativeZero(0f), false, "");
-        assertEquals(solution.isNegativeZero(1f), false, "");
-        assertEquals(solution.isNegativeZero(2f), false, "");
-        assertEquals(solution.isNegativeZero(3f), false, "");
-        assertEquals(solution.isNegativeZero(4f), false, "");
-        assertEquals(solution.isNegativeZero(5f), false, "");
+        assertTrue(IsItNegativeZero.isNegativeZero(-0f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(-5f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(-4f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(-3f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(-2f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(-1f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(0f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(1f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(2f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(3f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(4f), "");
+        assertFalse(IsItNegativeZero.isNegativeZero(5f), "");
     }
 
 }

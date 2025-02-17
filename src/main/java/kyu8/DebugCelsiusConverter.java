@@ -11,7 +11,7 @@ public class DebugCelsiusConverter {
     }
 
     public static double convertToCelsius(int temperature) {
-        return (temperature - 32) * 5.0/9.0;
+        return (temperature - 32) * 5.0 / 9.0;
     }
 
 }

@@ -1,6 +1,7 @@
 package kyu6;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class HighestScoringWord {
 
@@ -9,7 +10,7 @@ public class HighestScoringWord {
         String[] arr = s.split(" ");
         ArrayList<Integer> values = new ArrayList<>();
 
-        for (String word : arr){
+        for (String word : arr) {
             int sum = 0;
             for (int i = 0; i < word.length(); i++) {
                 sum += alphabet.indexOf(word.charAt(i)) + 1;

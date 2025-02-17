@@ -6,7 +6,8 @@ public class LombokEncapsulation {
     private String stringValue;
     private Object anObject;
 
-    public LombokEncapsulation(){}
+    public LombokEncapsulation() {
+    }
 
     public LombokEncapsulation(int number, String stringValue, Object anObject) {
         this.number = number;

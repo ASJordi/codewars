@@ -6,7 +6,7 @@ public class TotalPoints {
 
         int points = 0;
 
-        for(String res : games) {
+        for (String res : games) {
             String[] scores = res.split(":");
             int x = Integer.parseInt(scores[0]);
             int y = Integer.parseInt(scores[1]);

@@ -1,10 +1,11 @@
 package kyu7;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class SimpleEviternityNumbers {
 
-    public static int solve(int a, int b){
+    public static int solve(int a, int b) {
         int count = 0;
 
         for (int i = a; i < b; i++) {

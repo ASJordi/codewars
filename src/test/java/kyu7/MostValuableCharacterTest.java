@@ -1,12 +1,13 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MostValuableCharacterTest {
 
     @Test
-    public void basicTests(){
+    public void basicTests() {
         assertEquals('a', MostValuableCharacter.solve("a"));
         assertEquals('a', MostValuableCharacter.solve("aa"));
         assertEquals('b', MostValuableCharacter.solve("bcd"));

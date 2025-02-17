@@ -1,8 +1,11 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
+import java.util.Arrays;
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import java.util.*;
 
 public class UnfinishedLoopTest {
 
@@ -10,11 +13,11 @@ public class UnfinishedLoopTest {
 
     @Test
     public void SampleTests() {
-        assertEquals(Arrays.asList(1), k.CreateList(1));
-        assertEquals(Arrays.asList(1,2), k.CreateList(2));
-        assertEquals(Arrays.asList(1,2,3), k.CreateList(3));
-        assertEquals(Arrays.asList(1,2,3,4), k.CreateList(4));
-        assertEquals(Arrays.asList(1,2,3,4,5), k.CreateList(5));
+        assertEquals(List.of(1), UnfinishedLoop.CreateList(1));
+        assertEquals(Arrays.asList(1, 2), UnfinishedLoop.CreateList(2));
+        assertEquals(Arrays.asList(1, 2, 3), UnfinishedLoop.CreateList(3));
+        assertEquals(Arrays.asList(1, 2, 3, 4), UnfinishedLoop.CreateList(4));
+        assertEquals(Arrays.asList(1, 2, 3, 4, 5), UnfinishedLoop.CreateList(5));
     }
 
 }

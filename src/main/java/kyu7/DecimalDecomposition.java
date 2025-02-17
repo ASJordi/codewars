@@ -2,18 +2,18 @@ package kyu7;
 
 public class DecimalDecomposition {
 
-    public static String decimalDecomposition(int number){
+    public static String decimalDecomposition(int number) {
         int mod = 10;
 
         StringBuilder decomposition = new StringBuilder();
 
-        while(number > 0) {
+        while (number > 0) {
 
-            if(number % mod != 0) {
+            if (number % mod != 0) {
                 decomposition.insert(0, (number % mod));
                 number -= number % mod;
 
-                if(number != 0) {
+                if (number != 0) {
                     decomposition.insert(0, "+");
                 }
             }

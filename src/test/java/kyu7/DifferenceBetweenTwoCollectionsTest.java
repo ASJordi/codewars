@@ -2,8 +2,10 @@ package kyu7;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import java.util.*;
 
 public class DifferenceBetweenTwoCollectionsTest {
 
@@ -24,5 +26,5 @@ public class DifferenceBetweenTwoCollectionsTest {
         }
         return list;
     }
-    
+
 }

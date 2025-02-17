@@ -5,7 +5,7 @@ import java.util.function.ToDoubleFunction;
 public class JavaFunctionalProgrammingMultilineFunctions {
 
     public static final ToDoubleFunction<Triangle> f = (Triangle t) -> {
-        t.setArea((double)1 / 2 * t.base * t.height);
+        t.setArea((double) 1 / 2 * t.base * t.height);
         return t.getArea();
     };
 
@@ -21,10 +21,11 @@ class Triangle {
         this.base = base;
     }
 
-    public void setArea(double a) {
-        area = a;
-    }
     public double getArea() {
         return area;
+    }
+
+    public void setArea(double a) {
+        area = a;
     }
 }

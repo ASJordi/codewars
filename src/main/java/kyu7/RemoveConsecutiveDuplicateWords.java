@@ -2,7 +2,7 @@ package kyu7;
 
 public class RemoveConsecutiveDuplicateWords {
 
-    public static String removeConsecutiveDuplicates(String s){
+    public static String removeConsecutiveDuplicates(String s) {
 
         if (s == null || s.isEmpty()) return "";
 

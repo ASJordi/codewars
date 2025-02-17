@@ -1,8 +1,9 @@
 package kyu7;
 
-import java.util.*;
-import org.apache.commons.lang3.tuple.*;
+import org.apache.commons.lang3.tuple.Pair;
 import org.junit.jupiter.api.Test;
+
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -15,7 +16,7 @@ public class OrderedCountOfCharactersTest {
         test("233312", List.of(Pair.of('2', 2), Pair.of('3', 3), Pair.of('1', 1)));
     }
 
-    private void test(String text, List<Pair<Character,Integer>> expected) {
+    private void test(String text, List<Pair<Character, Integer>> expected) {
         assertEquals(expected, OrderedCountOfCharacters.orderedCount(text), "For input: \"" + text + "\"");
     }
 

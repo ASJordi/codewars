@@ -2,7 +2,7 @@ package kyu7;
 
 public class WithoutTheLetterE {
 
-    public static String findE(String str){
+    public static String findE(String str) {
         if (str == null) return null;
         if (str.isEmpty()) return "";
 

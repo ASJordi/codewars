@@ -1,10 +1,10 @@
 package kyu8;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LocalizeTheBarycenterOfATriangleTest {
 
@@ -12,9 +12,9 @@ public class LocalizeTheBarycenterOfATriangleTest {
     public void test() {
         System.out.println("Fixed Tests");
         assertEquals("[8.6667, 6.6667]", Arrays.toString(LocalizeTheBarycenterOfATriangle.barTriang(
-                new double[]{4,6}, new double[]{12,4}, new double[]{10,10})));
+                new double[]{4, 6}, new double[]{12, 4}, new double[]{10, 10})));
         assertEquals("[7.3333, 4.6667]", Arrays.toString(LocalizeTheBarycenterOfATriangle.barTriang(
-                new double[]{4,2}, new double[]{12,2}, new double[]{6,10})));
+                new double[]{4, 2}, new double[]{12, 2}, new double[]{6, 10})));
 
     }
 

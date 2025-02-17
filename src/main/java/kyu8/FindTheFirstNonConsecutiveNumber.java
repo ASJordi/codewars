@@ -3,10 +3,10 @@ package kyu8;
 public class FindTheFirstNonConsecutiveNumber {
 
     public static void main(String[] args) {
-        int[] array = {1,2,3,4,5,6,7,8};
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8};
 
         for (int i = 0; i < array.length + 1; i++) {
-            if (i  == array.length - 1) System.out.println("null");
+            if (i == array.length - 1) System.out.println("null");
             int current = array[i];
             int next = array[i + 1];
 

@@ -1,7 +1,8 @@
 package kyu8;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 public class GrasshopperSummationTest {
@@ -11,6 +12,7 @@ public class GrasshopperSummationTest {
         assertEquals(1,
                 GrasshopperSummation.summation(1));
     }
+
     @Test
     public void test2() {
         assertEquals(36,

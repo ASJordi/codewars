@@ -1,7 +1,9 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class IsItANumberTest {
 
@@ -9,12 +11,12 @@ public class IsItANumberTest {
 
     @Test
     public void test0() throws Exception {
-        assertEquals(false, myUtil.isDigit("s2324"));
+        assertFalse(myUtil.isDigit("s2324"));
     }
 
     @Test
     public void test1() throws Exception {
-        assertEquals(true, myUtil.isDigit("-234.4"));
+        assertTrue(myUtil.isDigit("-234.4"));
     }
 
 }

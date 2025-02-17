@@ -16,5 +16,5 @@ public class AlphabeticalAdditionTest {
         assertEquals("d", AlphabeticalAddition.addLetters("y", "c", "b"));
         assertEquals("z", AlphabeticalAddition.addLetters());
     }
-    
+
 }

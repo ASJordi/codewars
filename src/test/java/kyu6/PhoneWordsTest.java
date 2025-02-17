@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class PhoneWordsTest {
 
     @Test
-    public void edgeCasesTest(){
+    public void edgeCasesTest() {
         assertEquals("", PhoneWords.phoneWords(""));
         assertEquals("", PhoneWords.phoneWords("111"));
         assertEquals("", PhoneWords.phoneWords(null));

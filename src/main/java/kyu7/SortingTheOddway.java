@@ -9,7 +9,7 @@ public class SortingTheOddway {
         ArrayList<Double> oddNumbers = new ArrayList<>();
         ArrayList<Double> evenNumbers = new ArrayList<>();
 
-        for (double d : array){
+        for (double d : array) {
             if (Math.round(d) % 2 == 0) evenNumbers.add(d);
             else oddNumbers.add(d);
         }

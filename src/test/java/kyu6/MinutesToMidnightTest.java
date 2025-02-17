@@ -2,16 +2,16 @@ package kyu6;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.Calendar;
 import java.util.Date;
+import java.util.GregorianCalendar;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import java.util.Calendar;
-import java.util.GregorianCalendar;
 
 public class MinutesToMidnightTest {
 
     @Test
-    public void exampleTests(){
+    public void exampleTests() {
         MinutesToMidnight m = new MinutesToMidnight();
         Calendar cal = new GregorianCalendar();
         cal.set(Calendar.HOUR_OF_DAY, 12);

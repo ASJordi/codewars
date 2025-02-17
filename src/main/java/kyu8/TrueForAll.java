@@ -5,7 +5,7 @@ import java.util.function.IntPredicate;
 
 public class TrueForAll {
 
-    public static boolean all(int[] list, IntPredicate predicate){
+    public static boolean all(int[] list, IntPredicate predicate) {
 //        for (int l : list) {
 //            if (!predicate.test(l)) return false;
 //        }

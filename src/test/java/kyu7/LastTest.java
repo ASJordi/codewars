@@ -4,13 +4,14 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LastTest {
 
     @Test
     public void testList() {
-        final List<Integer> list = Arrays.asList(1, 2 ,3 ,4 ,5);
+        final List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
         final int last = Last.last(list);
         assertEquals(5, last);
     }
@@ -24,13 +25,13 @@ public class LastTest {
 
     @Test
     public void testArgs() {
-        final int last = Last.last(1, 2 ,3 ,4 ,5);
+        final int last = Last.last(1, 2, 3, 4, 5);
         assertEquals(5, last);
     }
 
     @Test
     public void testArray() {
-        final Integer[] array = {1, 2 ,3 ,4 ,5};
+        final Integer[] array = {1, 2, 3, 4, 5};
         final int last = Last.last(array);
         assertEquals(5, last);
     }

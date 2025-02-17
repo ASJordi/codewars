@@ -7,7 +7,7 @@ public class ReverseANumber {
         reversedNumber.append(number);
         reversedNumber.reverse();
 
-        if (number < 0){
+        if (number < 0) {
             reversedNumber.deleteCharAt(reversedNumber.length() - 1);
             reversedNumber.insert(0, "-");
         }

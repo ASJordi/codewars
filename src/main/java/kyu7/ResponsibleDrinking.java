@@ -2,6 +2,10 @@ package kyu7;
 
 public class ResponsibleDrinking {
 
+    public static boolean isNumeric(String str) {
+        return str.matches("-?\\d+(\\.\\d+)?");
+    }
+
     public String hydrate(String drinkString) {
         int sum = 0;
 
@@ -11,10 +15,6 @@ public class ResponsibleDrinking {
         }
 
         return sum > 1 ? (sum + " glasses of water") : (sum + " glass of water");
-    }
-
-    public static boolean isNumeric(String str) {
-        return str.matches("-?\\d+(\\.\\d+)?");
     }
 
 }

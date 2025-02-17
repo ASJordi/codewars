@@ -14,7 +14,9 @@ public class FakeBinary {
                 continue;
             }
 
-            if (Integer.parseInt(s) >= 5) { res.append("1"); }
+            if (Integer.parseInt(s) >= 5) {
+                res.append("1");
+            }
         }
 
         return res.toString();

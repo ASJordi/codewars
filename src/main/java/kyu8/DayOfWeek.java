@@ -6,7 +6,7 @@ public class DayOfWeek {
 
     public static String getDay(int n) {
 
-        HashMap<Integer, String> days = new HashMap<>(){{
+        HashMap<Integer, String> days = new HashMap<>() {{
             put(1, "Sunday");
             put(2, "Monday");
             put(3, "Tuesday");

@@ -6,7 +6,7 @@ public class FilterTheNumber {
         String res = "";
 
         for (int i = 0; i < value.length(); i++) {
-            if (Character.isDigit(value.charAt(i))){
+            if (Character.isDigit(value.charAt(i))) {
                 res += value.charAt(i);
             }
         }

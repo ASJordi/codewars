@@ -1,12 +1,13 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AgeRangeCompatibilityEquationTest {
 
     @Test
-    public void exampleTests(){
+    public void exampleTests() {
         assertEquals("15-20", AgeRangeCompatibilityEquation.datingRange(17));
         assertEquals("27-66", AgeRangeCompatibilityEquation.datingRange(40));
         assertEquals("14-16", AgeRangeCompatibilityEquation.datingRange(15));

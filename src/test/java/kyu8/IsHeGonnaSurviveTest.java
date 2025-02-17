@@ -1,6 +1,7 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -22,7 +23,7 @@ public class IsHeGonnaSurviveTest {
 
     @Test
     public void isHeAHero() {
-        assertFalse(IsHeGonnaSurvive.hero(1757275535, 1715581957 ));
+        assertFalse(IsHeGonnaSurvive.hero(1757275535, 1715581957));
     }
 
 }

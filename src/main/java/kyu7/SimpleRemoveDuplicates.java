@@ -1,10 +1,10 @@
 package kyu7;
 
-import java.util.*;
+import java.util.LinkedList;
 
 public class SimpleRemoveDuplicates {
 
-    public static int [] solve(int [] arr){
+    public static int[] solve(int[] arr) {
         LinkedList<Integer> uniqueNumbers = new LinkedList<>();
 
         for (int i = arr.length - 1; i >= 0; i--) {

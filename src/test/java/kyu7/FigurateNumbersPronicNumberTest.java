@@ -1,11 +1,12 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class FigurateNumbersPronicNumberTest {
-    
+
     @Test
     public void isPronicTest() {
         assertTrue(FigurateNumbersPronicNumber.isPronic(0), "0 is a Pronic Number");

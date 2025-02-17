@@ -2,7 +2,7 @@ package kyu8;
 
 public class CSVRepresentationOfArray {
 
-    public static String toCsvText(int[][] array){
+    public static String toCsvText(int[][] array) {
         StringBuilder sb = new StringBuilder();
 
         for (int[] row : array) {

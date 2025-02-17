@@ -21,7 +21,7 @@ public class SumOfOddNumbers {
 
     }
 
-    public static int nthOdd(int n){
+    public static int nthOdd(int n) {
         return (2 * n - 1);
     }
 

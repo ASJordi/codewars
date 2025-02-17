@@ -6,7 +6,7 @@ public class CompareStringsBySumOfChars {
         return count(s1) == count(s2);
     }
 
-    public static int count(String s){
+    public static int count(String s) {
         if (s == null || s.isBlank()) return 0;
         s = s.toUpperCase();
         int sum = 0;

@@ -11,7 +11,7 @@ public class Polygon {
         this.sideLength = sideLength;
     }
 
-    public double circleDiameter(){
+    public double circleDiameter() {
         this.diameter = this.sideLength / Math.tan(Math.toRadians(180d / this.sides));
         return this.diameter;
     }

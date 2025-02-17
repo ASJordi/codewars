@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ReversedWords {
 
-    public static String reverseWords(String str){
+    public static String reverseWords(String str) {
 
         List<String> words = Arrays.asList(str.split(" "));
         Collections.reverse(words);

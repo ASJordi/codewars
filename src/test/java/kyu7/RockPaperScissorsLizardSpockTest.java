@@ -1,6 +1,7 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RockPaperScissorsLizardSpockTest {
@@ -16,11 +17,11 @@ public class RockPaperScissorsLizardSpockTest {
 
     @Test
     public void player2Wins() {
-        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("lizard","scissors"));
-        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("spock","lizard"));
-        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("paper","lizard"));
-        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("scissors","spock"));
-        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("rock","spock"));
+        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("lizard", "scissors"));
+        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("spock", "lizard"));
+        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("paper", "lizard"));
+        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("scissors", "spock"));
+        assertEquals("Player 2 Won!", RockPaperScissorsLizardSpock.rpsls("rock", "spock"));
     }
 
     @Test

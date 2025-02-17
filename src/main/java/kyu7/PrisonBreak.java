@@ -7,7 +7,7 @@ public class PrisonBreak {
         int count = 0;
 
         for (int i = 0; i < prison.length; i++) {
-            if (prison[i]){
+            if (prison[i]) {
                 count++;
                 prison = updatePrison(prison);
             }
@@ -16,7 +16,7 @@ public class PrisonBreak {
         return count;
     }
 
-    public static Boolean[] updatePrison(Boolean[] prison){
+    public static Boolean[] updatePrison(Boolean[] prison) {
         Boolean[] result = new Boolean[prison.length];
         for (int i = 0; i < prison.length; i++) result[i] = !prison[i];
         return result;

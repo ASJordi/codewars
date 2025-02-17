@@ -2,7 +2,7 @@ package kyu7;
 
 public class SimpleStringReversal {
 
-    public static String solve(String s){
+    public static String solve(String s) {
         char[] inputArray = s.toCharArray();
         char[] result = new char[inputArray.length];
 

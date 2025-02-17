@@ -7,7 +7,7 @@ public class FixStringCase {
         int numOfLowerCase = 0;
 
         for (int i = 0; i < str.length(); i++) {
-            if (Character.isUpperCase(str.charAt(i))) numOfUpperCase ++;
+            if (Character.isUpperCase(str.charAt(i))) numOfUpperCase++;
             else numOfLowerCase++;
         }
         return numOfUpperCase == numOfLowerCase ? str.toLowerCase() :

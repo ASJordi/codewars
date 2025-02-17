@@ -8,7 +8,7 @@ public class FindNumbersWhichAreDivisibleByGivenNumber {
 
         ArrayList<Integer> nums = new ArrayList<>();
 
-        for (int num : numbers){
+        for (int num : numbers) {
             if (num % divider == 0) nums.add(num);
         }
 

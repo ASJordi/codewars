@@ -5,7 +5,7 @@ import java.math.RoundingMode;
 
 public class AreaOfASquare {
 
-    public static double squareArea(double A){
+    public static double squareArea(double A) {
 
         double l = (A * 4) / (2 * Math.PI);
 

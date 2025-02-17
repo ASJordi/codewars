@@ -1,6 +1,8 @@
 package kyu7;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Isograms {
 

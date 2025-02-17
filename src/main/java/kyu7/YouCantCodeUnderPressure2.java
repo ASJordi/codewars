@@ -4,11 +4,11 @@ public class YouCantCodeUnderPressure2 {
 
     private int number;
 
-    public int check(){
+    public int check() {
         return this.number;
     }
 
-    public void increment(){
+    public void increment() {
         this.number++;
     }
 }

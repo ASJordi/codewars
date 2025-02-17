@@ -26,5 +26,5 @@ public class HowManyUrinalsAreFreeTest {
         assertEquals(-1, HowManyUrinalsAreFree.getFreeUrinals("101100001"));
         assertEquals(-1, HowManyUrinalsAreFree.getFreeUrinals("0000100000101010011"));
     }
-    
+
 }

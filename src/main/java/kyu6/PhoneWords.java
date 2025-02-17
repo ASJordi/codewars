@@ -1,6 +1,8 @@
 package kyu6;
 
-import java.util.*;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
 
 public class PhoneWords {
 
@@ -29,8 +31,7 @@ public class PhoneWords {
             if (c == prev) {
                 sequence.append(c);
                 if (i == str.length() - 1) list.add(sequence.toString());
-            }
-            else {
+            } else {
                 list.add(sequence.toString());
                 sequence = new StringBuilder();
                 sequence.append(c);

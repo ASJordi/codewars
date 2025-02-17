@@ -15,7 +15,7 @@ public class MultiplicationGeneratorsTwo {
 
     public String next() {
         this.num++;
-        return new StringBuilder().append(this.a).append(" x ").append(this.num).append(" = ").append(this.num * this.a).toString();
+        return this.a + " x " + this.num + " = " + this.num * this.a;
     }
 
 }

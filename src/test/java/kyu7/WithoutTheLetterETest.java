@@ -3,6 +3,7 @@ package kyu7;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class WithoutTheLetterETest {
 
@@ -13,7 +14,7 @@ public class WithoutTheLetterETest {
         assertEquals("1", WithoutTheLetterE.findE("English"), "Should return \"1\"");
         assertEquals("4", WithoutTheLetterE.findE("English exercise"), "Should return \"4\"");
         assertEquals("", WithoutTheLetterE.findE(""), "Should return \"\"");
-        assertEquals(null, WithoutTheLetterE.findE(null), "Should return null");
+        assertNull(WithoutTheLetterE.findE(null), "Should return null");
     }
 
 }

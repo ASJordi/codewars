@@ -8,7 +8,7 @@ public class FoldingYourWayToTheMoon {
         double thickness = 0.0001D;
         long times = 0L;
 
-        while (thickness < distance){
+        while (thickness < distance) {
             times++;
             thickness *= 2;
         }

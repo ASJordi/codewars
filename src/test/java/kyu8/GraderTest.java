@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class GraderTest {
 
     @Test
-    public void sampleTests(){
+    public void sampleTests() {
         assertEquals("C", Grader.grader(0.7));
         assertEquals("A", Grader.grader(0.9));
         assertEquals("D", Grader.grader(0.6));

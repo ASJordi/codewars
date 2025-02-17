@@ -10,7 +10,7 @@ public class Pandemia {
         if (!input.contains("0")) return 100.0;
         if (!input.contains("1")) return 0.0;
 
-        for (String c : input.split("X")){
+        for (String c : input.split("X")) {
             if (c.contains("1")) infected += c.length();
         }
 

@@ -1,6 +1,7 @@
 package kyu8;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -15,7 +16,7 @@ public class SmallestUnusedID {
         int[] nums = IntStream.rangeClosed(0, max).toArray();
 
         for (int i = 0; i < orderedIds.size(); i++) {
-            if (!orderedIds.contains(nums[i])){
+            if (!orderedIds.contains(nums[i])) {
                 return nums[i];
             }
         }

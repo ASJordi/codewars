@@ -31,7 +31,7 @@ public class EverybodyHatesMondaysTest {
     @Test
     public void countTestPostRetirement() {
         assertEquals(2922, EverybodyHatesMondays.count(LocalDate.of(1995, 4, 2), LocalDate.of(2097, 12, 3)));
-        assertEquals(2921, EverybodyHatesMondays.count(LocalDate.of(2025,1,1), LocalDate.of(3100, 1, 1)));
+        assertEquals(2921, EverybodyHatesMondays.count(LocalDate.of(2025, 1, 1), LocalDate.of(3100, 1, 1)));
         assertEquals(2922, EverybodyHatesMondays.count(LocalDate.of(13456, 4, 1), LocalDate.of(19490, 4, 3)));
         assertEquals(2922, EverybodyHatesMondays.count(LocalDate.MIN, LocalDate.MAX));
     }

@@ -6,7 +6,7 @@ public class BreakCamelCase {
         StringBuilder word = new StringBuilder();
 
         for (int i = 0; i < input.length(); i++) {
-            if (Character.isUpperCase(input.charAt(i))){
+            if (Character.isUpperCase(input.charAt(i))) {
                 word.append(" ");
                 word.append(input.charAt(i));
             } else {

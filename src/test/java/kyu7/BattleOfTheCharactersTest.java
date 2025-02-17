@@ -8,9 +8,9 @@ public class BattleOfTheCharactersTest {
 
     @Test
     public void basicTests() {
-        doTest("AAA",  "Z",    "Z");
-        doTest("ONE",  "TWO",  "TWO");
-        doTest("ONE",  "NEO",  "Tie!");
+        doTest("AAA", "Z", "Z");
+        doTest("ONE", "TWO", "TWO");
+        doTest("ONE", "NEO", "Tie!");
         doTest("FOUR", "FIVE", "FOUR");
     }
 

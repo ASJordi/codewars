@@ -11,8 +11,8 @@ public class SumOfMultiplesTest {
     public void basicTests() {
         assertEquals(20, SumOfMultiples.sumMul(2, 9));
         assertEquals(30, SumOfMultiples.sumMul(5, 20));
-        assertEquals(1860, SumOfMultiples.sumMul(4,123));
-        assertEquals(86469, SumOfMultiples.sumMul(123,4567));
+        assertEquals(1860, SumOfMultiples.sumMul(4, 123));
+        assertEquals(86469, SumOfMultiples.sumMul(123, 4567));
     }
 
     @Test

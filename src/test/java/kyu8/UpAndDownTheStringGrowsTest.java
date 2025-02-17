@@ -11,9 +11,9 @@ public class UpAndDownTheStringGrowsTest {
         String upDown = UpAndDownTheStringGrows.STRANGE_STRING.toUpperCase().toLowerCase();
         int length = UpAndDownTheStringGrows.STRANGE_STRING.length();
         int upDownLength = upDown.length();
-        assertTrue(upDownLength > length, "your string: \"" + UpAndDownTheStringGrows.STRANGE_STRING + "\".length() = " + length       + "\n" +
-                "after .toUpperCase().toLowerCase():\n"                                                   +
-                "result     : \"" + upDown                       + "\".length() = " + upDownLength + "\n" +
+        assertTrue(upDownLength > length, "your string: \"" + UpAndDownTheStringGrows.STRANGE_STRING + "\".length() = " + length + "\n" +
+                "after .toUpperCase().toLowerCase():\n" +
+                "result     : \"" + upDown + "\".length() = " + upDownLength + "\n" +
                 length + " >= " + upDownLength + "\n"
         );
     }

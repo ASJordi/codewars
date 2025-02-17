@@ -2,7 +2,7 @@ package kyu8;
 
 public class God {
 
-    public static Human[] create(){
+    public static Human[] create() {
         return new Human[]{new Man(), new Woman()};
     }
 
@@ -11,8 +11,8 @@ public class God {
 class Human {
 }
 
-class Man extends Human{
+class Man extends Human {
 }
 
-class Woman extends Human{
+class Woman extends Human {
 }

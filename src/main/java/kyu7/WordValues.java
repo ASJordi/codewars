@@ -2,7 +2,7 @@ package kyu7;
 
 public class WordValues {
 
-    public static int [] nameValue(String [] arr){
+    public static int[] nameValue(String[] arr) {
         int[] values = new int[arr.length];
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
 

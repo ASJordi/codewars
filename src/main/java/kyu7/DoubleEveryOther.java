@@ -2,7 +2,7 @@ package kyu7;
 
 public class DoubleEveryOther {
 
-    public static int[] doubleEveryOther(int[] a){
+    public static int[] doubleEveryOther(int[] a) {
         int[] numbers = new int[a.length];
 
         for (int i = 0; i < a.length; i++) {

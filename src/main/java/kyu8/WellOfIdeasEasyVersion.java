@@ -10,7 +10,7 @@ public class WellOfIdeasEasyVersion {
             if (idea.equals("good")) countGoodIdeas++;
         }
 
-        return countGoodIdeas >=1 && countGoodIdeas <= 2 ? "Publish!" : countGoodIdeas > 2 ? "I smell a series!" : "Fail!";
+        return countGoodIdeas >= 1 && countGoodIdeas <= 2 ? "Publish!" : countGoodIdeas > 2 ? "I smell a series!" : "Fail!";
     }
 
 }

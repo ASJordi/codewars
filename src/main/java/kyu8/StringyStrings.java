@@ -7,9 +7,9 @@ public class StringyStrings {
         StringBuilder res = new StringBuilder();
 
         for (int i = 0; i < size; i++) {
-            if (i % 2 == 0){
+            if (i % 2 == 0) {
                 res.append("1");
-            } else{
+            } else {
                 res.append("0");
             }
         }

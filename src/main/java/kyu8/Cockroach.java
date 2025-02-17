@@ -2,7 +2,7 @@ package kyu8;
 
 public class Cockroach {
 
-    public int cockroachSpeed(double x){
+    public int cockroachSpeed(double x) {
 
         return (int) (x * 27.778);
 

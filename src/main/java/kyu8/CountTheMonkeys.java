@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 public class CountTheMonkeys {
 
-    public static int[] monkeyCount(final int n){
+    public static int[] monkeyCount(final int n) {
 
 //        int[] arr = new int[n];
 //

@@ -2,7 +2,7 @@ package kyu8;
 
 public class SumOfPositive {
 
-    public static int sum(int[] arr){
+    public static int sum(int[] arr) {
 
         int sum = 0;
 

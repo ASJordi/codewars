@@ -2,16 +2,16 @@ package kyu8;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class CheckForFactorTest {
 
     @Test
     public void basicTests() {
-        assertEquals(true, CheckForFactor.checkForFactor(10, 2));
-        assertEquals(true, CheckForFactor.checkForFactor(63, 7));
-        assertEquals(true, CheckForFactor.checkForFactor(2450, 5));
-        assertEquals(true, CheckForFactor.checkForFactor(24612, 3));
+        assertTrue(CheckForFactor.checkForFactor(10, 2));
+        assertTrue(CheckForFactor.checkForFactor(63, 7));
+        assertTrue(CheckForFactor.checkForFactor(2450, 5));
+        assertTrue(CheckForFactor.checkForFactor(24612, 3));
     }
 
 }

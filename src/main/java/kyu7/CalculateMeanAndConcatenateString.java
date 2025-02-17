@@ -6,7 +6,7 @@ public class CalculateMeanAndConcatenateString {
         double sum = 0;
         StringBuilder word = new StringBuilder();
 
-        for (char c : lst){
+        for (char c : lst) {
             if (Character.isDigit(c)) sum += Double.parseDouble(Character.toString(c));
             else word.append(c);
         }

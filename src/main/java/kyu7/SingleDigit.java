@@ -7,17 +7,17 @@ public class SingleDigit {
         int newNum = convert(n);
         boolean isDigit = false;
 
-        while (!isDigit){
-            if (newNum < 10){
+        while (!isDigit) {
+            if (newNum < 10) {
                 isDigit = true;
-            } else{
+            } else {
                 newNum = convert(newNum);
             }
         }
         return newNum;
     }
 
-    public static int convert(int n){
+    public static int convert(int n) {
         int nSum = 0;
 
         String[] binaryNum = Integer.toBinaryString(n).replace("0", "").split("");

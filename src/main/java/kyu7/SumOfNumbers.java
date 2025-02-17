@@ -6,7 +6,7 @@ public class SumOfNumbers {
         if (b == a) return a;
         int sum = 0;
 
-        for (int i = Math.min(a, b); i <= Math.max(a, b) ; i++) {
+        for (int i = Math.min(a, b); i <= Math.max(a, b); i++) {
             sum += i;
         }
 

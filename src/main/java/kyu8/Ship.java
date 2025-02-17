@@ -10,7 +10,7 @@ public class Ship {
         this.crew = crew;
     }
 
-    public boolean isWorthIt(){
+    public boolean isWorthIt() {
         double weightOfTheCrew = this.crew * 1.5;
         return draft - weightOfTheCrew > 20;
     }

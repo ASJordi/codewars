@@ -1,6 +1,7 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -8,17 +9,17 @@ public class PillarsTest {
 
     @Test
     public void thereIsOnlyOnePillar() {
-        assertEquals(0, Pillars.pillars(1,10,10));
+        assertEquals(0, Pillars.pillars(1, 10, 10));
     }
 
     @Test
     public void thereAreTwoPillarsOnTheRoad() {
-        assertEquals(2000, Pillars.pillars(2,20,25));
+        assertEquals(2000, Pillars.pillars(2, 20, 25));
     }
 
     @Test
     public void thereAreManyPillarsAlongTheRoad() {
-        assertEquals(15270, Pillars.pillars(11,15,30));
+        assertEquals(15270, Pillars.pillars(11, 15, 30));
     }
 
     @Test

@@ -2,7 +2,7 @@ package kyu7;
 
 public class CompleteThePatternOne {
 
-    public static String pattern(int n){
+    public static String pattern(int n) {
         if (n <= 0) return "";
         StringBuilder res = new StringBuilder();
 

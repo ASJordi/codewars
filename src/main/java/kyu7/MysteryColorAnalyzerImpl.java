@@ -4,16 +4,8 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
-public class MysteryColorAnalyzerImpl implements MysteryColorAnalyzer {
-    @Override
-    public int numberOfDistinctColors(List<Color> mysteryColors) {
-        return new HashSet<>(mysteryColors).size();
-    }
-
-    @Override
-    public int colorOccurrence(List<Color> mysteryColors, Color color) {
-        return Collections.frequency(mysteryColors, color);
-    }
+enum Color {
+    RED, GREEN, BLUE, YELLOW, ORANGE, PURPLE, WHITE, BLACK
 }
 
 interface MysteryColorAnalyzer {
@@ -37,12 +29,20 @@ interface MysteryColorAnalyzer {
      * </p>
      *
      * @param mysteryColors list of colors from which to determine the count of a specific color
-     * @param color color to count
+     * @param color         color to count
      * @return number of occurrence of the color in the list
      */
     int colorOccurrence(List<Color> mysteryColors, Color color);
 }
 
-enum Color {
-    RED, GREEN, BLUE, YELLOW, ORANGE, PURPLE, WHITE, BLACK
+public class MysteryColorAnalyzerImpl implements MysteryColorAnalyzer {
+    @Override
+    public int numberOfDistinctColors(List<Color> mysteryColors) {
+        return new HashSet<>(mysteryColors).size();
+    }
+
+    @Override
+    public int colorOccurrence(List<Color> mysteryColors, Color color) {
+        return Collections.frequency(mysteryColors, color);
+    }
 }

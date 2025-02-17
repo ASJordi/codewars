@@ -2,7 +2,7 @@ package kyu7;
 
 public class RowWeights {
 
-    public static int[] rowWeights (final int[] weights) {
+    public static int[] rowWeights(final int[] weights) {
         int first = 0;
         int second = 0;
 

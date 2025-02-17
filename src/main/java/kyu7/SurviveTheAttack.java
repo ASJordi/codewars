@@ -4,7 +4,7 @@ import static java.util.stream.IntStream.of;
 
 public class SurviveTheAttack {
 
-    public static boolean block(int[] attackers, int[] defenders){
+    public static boolean block(int[] attackers, int[] defenders) {
 
         int survived = defenders.length - attackers.length;
 

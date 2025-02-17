@@ -1,13 +1,14 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TheOfficeOneOutedTest {
 
     @Test
     public void basic1() {
-        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[] {
+        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[]{
                 new TheOfficeOneOuted.Person("tim", 0),
                 new TheOfficeOneOuted.Person("jim", 2),
                 new TheOfficeOneOuted.Person("randy", 0),
@@ -25,7 +26,7 @@ public class TheOfficeOneOutedTest {
 
     @Test
     public void basic2() {
-        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[] {
+        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[]{
                 new TheOfficeOneOuted.Person("tim", 1),
                 new TheOfficeOneOuted.Person("jim", 3),
                 new TheOfficeOneOuted.Person("randy", 9),
@@ -43,7 +44,7 @@ public class TheOfficeOneOutedTest {
 
     @Test
     public void basic3() {
-        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[] {
+        TheOfficeOneOuted.Person[] meet = new TheOfficeOneOuted.Person[]{
                 new TheOfficeOneOuted.Person("tim", 2),
                 new TheOfficeOneOuted.Person("jim", 4),
                 new TheOfficeOneOuted.Person("randy", 0),

@@ -8,14 +8,14 @@ import java.util.List;
 
 public class ExtendedWeekends {
 
-    public static String [] solve(int a, int b){
+    public static String[] solve(int a, int b) {
         int n = b - a;
         int year = a;
         List<String> months = new LinkedList<>();
 
         for (int i = 0; i <= n; i++) {
 
-            for (int j = 1; j <= 12 ; j++) {
+            for (int j = 1; j <= 12; j++) {
                 var date = LocalDate.of(year, j, 1);
 
                 if (DayOfWeek.FRIDAY.equals(date.getDayOfWeek()) && ChronoUnit.DAYS.between(date, date.plusMonths(1)) == 31) {

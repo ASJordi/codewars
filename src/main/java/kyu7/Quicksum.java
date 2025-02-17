@@ -2,7 +2,7 @@ package kyu7;
 
 public class Quicksum {
 
-    public int quicksum(String packet){
+    public int quicksum(String packet) {
         if (!packet.matches("[A-Z ]+")) return 0;
 
         String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

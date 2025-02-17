@@ -2,13 +2,14 @@ package kyu7;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.math.BigInteger;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MathPowTest {
 
-    private static final BigInteger two=new BigInteger("2");
-    private static final BigInteger no=new BigInteger("-1");
+    private static final BigInteger two = new BigInteger("2");
+    private static final BigInteger no = new BigInteger("-1");
 
     @Test
     public void FixedTest1() {
@@ -28,7 +29,7 @@ public class MathPowTest {
 
     @Test
     public void FixedTest4() {
-        final BigInteger three=new BigInteger("3");
+        final BigInteger three = new BigInteger("3");
         assertEquals(new BigInteger("81"), MathPow.pow(three, three));
     }
 

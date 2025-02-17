@@ -1,6 +1,8 @@
 package kyu7;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class CharacterCounter {
 
@@ -9,12 +11,12 @@ public class CharacterCounter {
         word = word.toLowerCase();
         char[] wordArray = word.toCharArray();
 
-        for (char c : wordArray){
-                if (countCharMap.containsKey(c)){
-                    countCharMap.put(c, countCharMap.get(c) + 1);
-                } else {
-                    countCharMap.put(c, 1);
-                }
+        for (char c : wordArray) {
+            if (countCharMap.containsKey(c)) {
+                countCharMap.put(c, countCharMap.get(c) + 1);
+            } else {
+                countCharMap.put(c, 1);
+            }
         }
 
         Set<Integer> values = new HashSet<>(countCharMap.values());

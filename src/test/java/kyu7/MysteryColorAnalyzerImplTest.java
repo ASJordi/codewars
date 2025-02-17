@@ -1,8 +1,10 @@
 package kyu7;
 
-import java.util.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import java.util.*;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MysteryColorAnalyzerImplTest {
@@ -13,7 +15,7 @@ public class MysteryColorAnalyzerImplTest {
     Random random = new Random();
 
     @BeforeEach
-    public  void setUp() {
+    public void setUp() {
         mysteryColorAnalyzer = new MysteryColorAnalyzerImpl();
     }
 
@@ -111,7 +113,7 @@ public class MysteryColorAnalyzerImplTest {
 
     private List<Color> getRandomMysteryColors(int colorCount) {
         List<Color> randomMysteryColors = new ArrayList<>();
-        for (int i =0; i < colorCount; i++) {
+        for (int i = 0; i < colorCount; i++) {
             randomMysteryColors.add(getRandomColor());
         }
         return randomMysteryColors;

@@ -1,22 +1,24 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SimpleValidationOfAUsernameWithRegexTest {
 
     @Test
     public void basicTests() {
-        assertEquals(true, SimpleValidationOfAUsernameWithRegex.validateUsr("regex"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr("a"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr("Hass"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr("Hasd_12assssssasasasasasaasasasasas"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr(""));
-        assertEquals(true, SimpleValidationOfAUsernameWithRegex.validateUsr("____"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr("012"));
-        assertEquals(true, SimpleValidationOfAUsernameWithRegex.validateUsr("p1pp1"));
-        assertEquals(false, SimpleValidationOfAUsernameWithRegex.validateUsr("asd43 34"));
-        assertEquals(true, SimpleValidationOfAUsernameWithRegex.validateUsr("asd43_34"));
+        assertTrue(SimpleValidationOfAUsernameWithRegex.validateUsr("regex"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr("a"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr("Hass"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr("Hasd_12assssssasasasasasaasasasasas"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr(""));
+        assertTrue(SimpleValidationOfAUsernameWithRegex.validateUsr("____"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr("012"));
+        assertTrue(SimpleValidationOfAUsernameWithRegex.validateUsr("p1pp1"));
+        assertFalse(SimpleValidationOfAUsernameWithRegex.validateUsr("asd43 34"));
+        assertTrue(SimpleValidationOfAUsernameWithRegex.validateUsr("asd43_34"));
     }
 
 }

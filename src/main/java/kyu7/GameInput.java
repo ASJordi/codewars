@@ -11,7 +11,7 @@ public class GameInput {
         if (wasd[2]) positionY--;
         if (wasd[1]) positionX--;
 
-        return positionX != 0 && positionY != 0 ? new float[] {positionX * .70710677f, positionY * .70710677f} : new float[] {positionX, positionY};
+        return positionX != 0 && positionY != 0 ? new float[]{positionX * .70710677f, positionY * .70710677f} : new float[]{positionX, positionY};
     }
 
 }

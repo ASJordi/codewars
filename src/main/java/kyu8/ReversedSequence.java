@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 
 public class ReversedSequence {
 
-    public static int[] reverse(int n){
+    public static int[] reverse(int n) {
 
         List<Integer> list = IntStream.rangeClosed(1, n)
                 .boxed()

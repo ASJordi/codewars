@@ -10,7 +10,7 @@ public class CountOfPositivesSumOfNegatives {
         int sumOfNegatives = 0;
 
         for (int num : input) {
-            if (num > 0) countOfPositives ++;
+            if (num > 0) countOfPositives++;
             if (num < 0) sumOfNegatives += num;
         }
 

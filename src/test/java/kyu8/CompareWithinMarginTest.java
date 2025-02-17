@@ -58,7 +58,7 @@ public class CompareWithinMarginTest {
     }
 
     public double rnd(double a, double b) {
-        return a + random.nextDouble()*b;
+        return a + random.nextDouble() * b;
     }
 
 }

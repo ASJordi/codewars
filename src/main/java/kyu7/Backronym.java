@@ -5,14 +5,14 @@ import java.util.Map;
 
 public class Backronym {
 
-    private static Map<String, String> dictionary = getDictionary();
+    private static final Map<String, String> dictionary = getDictionary();
 
     public static String makeBackronym(String acronym) {
         StringBuilder res = new StringBuilder();
 
         for (int i = 0; i < acronym.length(); i++) {
             String c = Character.toString(acronym.charAt(i)).toUpperCase();
-            if (dictionary.containsKey(c)){
+            if (dictionary.containsKey(c)) {
                 res.append(dictionary.get(c)).append(" ");
             }
         }
@@ -21,7 +21,7 @@ public class Backronym {
 //        return acronym.toUpperCase().chars().mapToObj(i -> dictionary.get("" + (char)i)).collect(Collectors.joining(" "));
     }
 
-    private static Map<String, String> getDictionary(){
+    private static Map<String, String> getDictionary() {
         Map<String, String> dictionary = new HashMap<>();
         dictionary.put("A", "awesome");
         dictionary.put("D", "disturbing");

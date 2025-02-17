@@ -1,7 +1,5 @@
 package kyu7;
 
-import java.math.BigDecimal;
-
 public class AreaOfACircle {
 
     public static double area(double radius) {

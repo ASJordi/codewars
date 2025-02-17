@@ -12,7 +12,7 @@ public class RemoveConsecutiveDuplicateWordsTest {
     String ans2 = "cyqje a";
 
     @Test
-    public void basicTest(){
+    public void basicTest() {
         assertEquals(ans1, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s1));
         assertEquals(ans2, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s2));
         assertEquals("", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(""));

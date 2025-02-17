@@ -1,12 +1,13 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class StrongNumberTest {
 
-    private static String STRONG = "STRONG!!!!";
-    private static String NOT_STRONG = "Not Strong !!";
+    private static final String STRONG = "STRONG!!!!";
+    private static final String NOT_STRONG = "Not Strong !!";
 
     @Test
     public void testSomething() {

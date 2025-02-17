@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class FormTheMinimum {
 
-    public static int minValue(int[] values){
+    public static int minValue(int[] values) {
         HashSet<Integer> nums = new HashSet<>();
         StringBuilder res = new StringBuilder();
 

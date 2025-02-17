@@ -8,7 +8,7 @@ public class DuckDuckGooseTest {
 
     @Test
     public void tests() {
-        Player[] players = makePlayerArr(new String[] {"a", "b", "c", "d", "c", "e", "f", "g", "h", "z"});
+        Player[] players = makePlayerArr(new String[]{"a", "b", "c", "d", "c", "e", "f", "g", "h", "z"});
         assertEquals("a", DuckDuckGoose.duckDuckGoose(players, 1));
         assertEquals("c", DuckDuckGoose.duckDuckGoose(players, 3));
         assertEquals("z", DuckDuckGoose.duckDuckGoose(players, 10));

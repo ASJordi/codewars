@@ -8,7 +8,7 @@ public class CompleteThePattern4 {
         if (n < 1) return "";
         StringBuilder pattern = new StringBuilder();
 
-        for (int i = 1; i <= n ; i++) {
+        for (int i = 1; i <= n; i++) {
             int[] numbers = IntStream.rangeClosed(i, n).toArray();
             for (int num : numbers) pattern.append(num);
             pattern.append("\n");

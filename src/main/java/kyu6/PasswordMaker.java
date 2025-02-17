@@ -1,7 +1,7 @@
 package kyu6;
 
-import java.util.Random;
 import java.util.List;
+import java.util.Random;
 
 public class PasswordMaker {
 

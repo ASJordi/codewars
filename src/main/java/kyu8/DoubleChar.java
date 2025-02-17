@@ -2,7 +2,7 @@ package kyu8;
 
 public class DoubleChar {
 
-    public static String doubleChar(String s){
+    public static String doubleChar(String s) {
 
         StringBuilder doubleWord = new StringBuilder();
 

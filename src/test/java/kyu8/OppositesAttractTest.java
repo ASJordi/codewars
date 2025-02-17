@@ -2,28 +2,29 @@ package kyu8;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class OppositesAttractTest {
 
     @Test
     public void testOddAndEven() {
-        assertEquals(true, OppositesAttract.isLove(1, 4));
+        assertTrue(OppositesAttract.isLove(1, 4));
     }
 
     @Test
     public void testEvenAndEven() {
-        assertEquals(false, OppositesAttract.isLove(2, 2));
+        assertFalse(OppositesAttract.isLove(2, 2));
     }
 
     @Test
     public void testOddAndOdd() {
-        assertEquals(false, OppositesAttract.isLove(1, 1));
+        assertFalse(OppositesAttract.isLove(1, 1));
     }
 
     @Test
     public void testEvenAndOdd() {
-        assertEquals(true, OppositesAttract.isLove(0, 1));
+        assertTrue(OppositesAttract.isLove(0, 1));
     }
 
 }

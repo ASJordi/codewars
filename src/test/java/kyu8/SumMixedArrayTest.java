@@ -1,7 +1,9 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
 import java.util.Arrays;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SumMixedArrayTest {
@@ -10,7 +12,7 @@ public class SumMixedArrayTest {
 
     @Test
     public void test_1() {
-        assertEquals(10, mixedSum.sum(Arrays.asList(5,"5")));
+        assertEquals(10, mixedSum.sum(Arrays.asList(5, "5")));
     }
 
     @Test

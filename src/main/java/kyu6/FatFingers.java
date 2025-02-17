@@ -7,8 +7,8 @@ public class FatFingers {
         boolean isTyped = false;
         StringBuilder result = new StringBuilder();
 
-        for (char c : str.toCharArray()){
-            if (c == 'a' || c == 'A'){
+        for (char c : str.toCharArray()) {
+            if (c == 'a' || c == 'A') {
                 isTyped = !isTyped;
                 continue;
             }

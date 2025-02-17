@@ -2,7 +2,7 @@ package kyu7;
 
 public class SumOfNumbersFrom0ToN {
 
-    public static String showSequence(int value){
+    public static String showSequence(int value) {
 
         if (value < 0) return (value + "<0");
 

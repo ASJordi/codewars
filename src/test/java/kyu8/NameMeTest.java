@@ -11,7 +11,7 @@ public class NameMeTest {
         assertEquals("John",
                 nameMe.getFirstName(),
                 "Verifying First name. Object returned should contain the firstname: John"
-                );
+        );
 
         assertEquals("Doe",
                 nameMe.getLastName(),

@@ -2,7 +2,7 @@ package kyu7;
 
 public class CWars {
 
-    public static String initials(String name){
+    public static String initials(String name) {
         String[] names = name.split(" ");
         StringBuilder fullName = new StringBuilder();
 

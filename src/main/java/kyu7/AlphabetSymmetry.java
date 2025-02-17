@@ -4,7 +4,7 @@ public class AlphabetSymmetry {
 
     private final static String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
 
-    public static int[] solve(String[] arr){
+    public static int[] solve(String[] arr) {
         int[] positions = new int[arr.length];
 
         for (int i = 0; i < arr.length; i++) {

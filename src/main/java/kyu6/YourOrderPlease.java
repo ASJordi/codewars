@@ -1,16 +1,14 @@
 package kyu6;
 
-import java.util.*;
-
 public class YourOrderPlease {
 
     public static String order(String words) {
 
         String[] wordsArr = words.split(" ");
-        StringBuilder res = new StringBuilder("");
+        StringBuilder res = new StringBuilder();
 
         for (int i = 0; i < 10; i++) {
-            for (String word : wordsArr){
+            for (String word : wordsArr) {
                 if (word.contains(String.valueOf(i))) res.append(word).append(" ");
             }
         }

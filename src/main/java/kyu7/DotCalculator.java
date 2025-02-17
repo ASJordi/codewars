@@ -2,7 +2,7 @@ package kyu7;
 
 public class DotCalculator {
 
-    public static String calc(String txt){
+    public static String calc(String txt) {
 
         String dot = ".";
         int res = 0;

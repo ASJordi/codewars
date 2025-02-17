@@ -2,7 +2,7 @@ package kyu7;
 
 public class CaffeineScript {
 
-    public static String caffeineBuzz(int n){
+    public static String caffeineBuzz(int n) {
         if (n % 3 == 0 && n % 4 == 0) {
             if (n % 2 == 0) return "CoffeeScript";
             return "Coffee";

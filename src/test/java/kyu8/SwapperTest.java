@@ -8,9 +8,9 @@ public class SwapperTest {
 
     @Test
     public void testSomething() {
-        Integer[] args = new Integer[]{1,2};
+        Integer[] args = new Integer[]{1, 2};
 
-        Swapper r= new Swapper(args);
+        Swapper r = new Swapper(args);
         r.swapValues();
         assertEquals(2, r.arguments[0], "Failed swapping numbers");
         assertEquals(1, r.arguments[1], "Failed swapping numbers");

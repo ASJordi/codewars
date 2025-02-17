@@ -12,7 +12,7 @@ public class DigitsExplosionTest {
     public void sampleTest() {
         String[][] testArray = new String[][]{
                 {"312", "333122"},
-                {"102269","12222666666999999999"},
+                {"102269", "12222666666999999999"},
                 {"0", ""},
                 {"000", ""},
                 {"123", "122333"}};

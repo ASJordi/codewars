@@ -8,7 +8,7 @@ public class JadenCasingStrings {
         String[] words = phrase.split(" ");
         StringBuilder newPhrase = new StringBuilder();
 
-        for (String word : words){
+        for (String word : words) {
             String first = Character.toString(word.charAt(0)).toUpperCase();
             String rest = word.substring(1).toLowerCase();
             newPhrase.append(first).append(rest).append(" ");

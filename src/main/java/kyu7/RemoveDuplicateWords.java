@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 
 public class RemoveDuplicateWords {
 
-    public static String removeDuplicateWords(String s){
+    public static String removeDuplicateWords(String s) {
         LinkedHashSet<String> onlyWords = new LinkedHashSet<>();
         String[] words = s.split(" ");
         Collections.addAll(onlyWords, words);

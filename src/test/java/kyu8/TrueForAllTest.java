@@ -1,9 +1,11 @@
 package kyu8;
 
 import org.junit.jupiter.api.Test;
+
+import java.util.function.IntPredicate;
+
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import java.util.function.IntPredicate;
 
 public class TrueForAllTest {
 
@@ -16,7 +18,7 @@ public class TrueForAllTest {
     private static final IntPredicate greaterThan10 = n -> n > 10;
 
     @Test
-    public void fixedTests(){
+    public void fixedTests() {
         assertTrue(TrueForAll.all(new int[]{2, 4, 6, 10}, evenNumber));
         assertFalse(TrueForAll.all(new int[]{1, 3, 5, 10}, oddNumber));
         assertFalse(TrueForAll.all(new int[]{2, 4, 6, 19}, lessThan10));

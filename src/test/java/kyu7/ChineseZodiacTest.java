@@ -1,12 +1,13 @@
 package kyu7;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ChineseZodiacTest {
 
     @Test
-    public void exampleTests(){
+    public void exampleTests() {
         assertEquals("Wood Snake", "Wood Snake", ChineseZodiac.chineseZodiac(1965));
         assertEquals("Earth Tiger", "Earth Tiger", ChineseZodiac.chineseZodiac(1938));
         assertEquals("Wood Rat", "Wood Rat", ChineseZodiac.chineseZodiac(1924));
