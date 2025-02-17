@@ -1,12 +1,14 @@
 package kyu8;
 
-import org.junit.*;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class YouCannotCodeUnderPressureTest {
 
     @Test
     public final void test_all() {
-        Assert.assertEquals( "Nope!" , 4, YouCannotCodeUnderPressure.doubleInteger(2)); // Test cases here!
+        assertEquals(4, YouCannotCodeUnderPressure.doubleInteger(2), "Nope!"); // Test cases here!
     }
 
 }

@@ -1,15 +1,16 @@
 package kyu7;
 
-import org.junit.Test;
-import org.junit.Before;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
 import java.util.Random;
-import static org.junit.Assert.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class TheHighestProfitWinsTest {
 
     Random rand;
 
-    @Before
+    @BeforeEach
     public void initTest() {
         rand = new Random();
     }

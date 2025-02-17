@@ -1,8 +1,9 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 import java.math.BigInteger;
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class BinaryScoreTest {
 

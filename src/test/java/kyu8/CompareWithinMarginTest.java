@@ -1,10 +1,10 @@
 package kyu8;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Random;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CompareWithinMarginTest {
 
@@ -28,9 +28,9 @@ public class CompareWithinMarginTest {
         assertEquals(0, CompareWithinMargin.closeCompare(5, 5));
         assertEquals(1, CompareWithinMargin.closeCompare(6, 5));
 
-        assertEquals("a & b may be < 0", -1, CompareWithinMargin.closeCompare(-4, -3));
-        assertEquals("a & b may be < 0", 0, CompareWithinMargin.closeCompare(-5, -5));
-        assertEquals("a & b may be < 0", 1, CompareWithinMargin.closeCompare(-5, -6));
+        assertEquals(-1, CompareWithinMargin.closeCompare(-4, -3), "a & b may be < 0");
+        assertEquals(0, CompareWithinMargin.closeCompare(-5, -5), "a & b may be < 0");
+        assertEquals(1, CompareWithinMargin.closeCompare(-5, -6), "a & b may be < 0");
     }
 
     @Test
@@ -49,7 +49,7 @@ public class CompareWithinMarginTest {
             double b = rnd(-1e4, 2e4);
             double m = rnd(0, 1e4);
             int sol = sol(a, b, m);
-            assertEquals(String.format("compare : %f & %f, margin : %f", a, b, m), sol, CompareWithinMargin.closeCompare(a, b, m));
+            assertEquals(sol, CompareWithinMargin.closeCompare(a, b, m), String.format("compare : %f & %f, margin : %f", a, b, m));
         }
     }
 

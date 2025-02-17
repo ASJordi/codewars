@@ -1,18 +1,18 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ValidSpacingTest {
 
     @Test
     public void fixedTests() {
-        assertTrue ("'Hello world'", ValidSpacing.validSpacing("Hello world"));
-        assertFalse("' Hello world'", ValidSpacing.validSpacing(" Hello world"));
-        assertFalse("'Hello  world '", ValidSpacing.validSpacing("Hello  world "));
-        assertTrue ("'Hello'", ValidSpacing.validSpacing("Hello"));
-        assertTrue ("'Helloworld'", ValidSpacing.validSpacing("Helloworld"));
+        assertTrue(ValidSpacing.validSpacing("Hello world"), "'Hello world'");
+        assertFalse(ValidSpacing.validSpacing(" Hello world"), "' Hello world'");
+        assertFalse(ValidSpacing.validSpacing("Hello  world "), "'Hello  world '");
+        assertTrue(ValidSpacing.validSpacing("Hello"), "'Hello'");
+        assertTrue(ValidSpacing.validSpacing("Helloworld"), "'Helloworld'");
     }
 
 }

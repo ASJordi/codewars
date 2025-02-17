@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FunWithListsLengthTest {
 
@@ -21,9 +21,9 @@ public class FunWithListsLengthTest {
 //            assertEquals(expected, FunWithListsLength.length(head));
 //        }
 //    }
-//
-//    private static int lengthSol(FunWithListsLength.Node head) {
-//        return head == null ? 0 : 1 + lengthSol(head.next);
-//    }
+
+    private static int lengthSol(FunWithListsLength.Node head) {
+        return head == null ? 0 : 1 + lengthSol(head.next);
+    }
 
 }

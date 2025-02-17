@@ -1,9 +1,10 @@
 package kyu8;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import static junit.framework.TestCase.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class IsYourPeriodLateTest {
 

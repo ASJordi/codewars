@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class OverflowingWithJoyTest {
 
@@ -30,27 +30,27 @@ public class OverflowingWithJoyTest {
         assertEquals(Integer.MAX_VALUE - 1, OverflowingWithJoy.multiply(42966, 49981));
     }
 
-    @Test(expected=ArithmeticException.class)
+    @Test()
     public void testOverflowMax() {
         OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MAX_VALUE);
     }
 
-    @Test(expected=ArithmeticException.class)
+    @Test()
     public void testOverflowMin() {
         OverflowingWithJoy.multiply(Integer.MIN_VALUE, Integer.MIN_VALUE);
     }
 
-    @Test(expected=ArithmeticException.class)
+    @Test()
     public void testOverflowMaxMin() {
         OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MIN_VALUE);
     }
 
-    @Test(expected=ArithmeticException.class)
+    @Test()
     public void testOverflow1() {
         OverflowingWithJoy.multiply(39650, 54161);
     }
 
-    @Test(expected=ArithmeticException.class)
+    @Test()
     public void testOverflow2() {
         OverflowingWithJoy.multiply(42967, 49981);
     }

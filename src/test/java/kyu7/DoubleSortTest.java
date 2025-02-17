@@ -1,12 +1,9 @@
 package kyu7;
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.Parameterized;
+import org.junit.jupiter.api.Test;
 import java.util.Arrays;
-import static org.junit.Assert.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-@RunWith(Parameterized.class)
 public class DoubleSortTest {
 
     private Object[] a;
@@ -17,7 +14,6 @@ public class DoubleSortTest {
         this.expResult = expResult;
     }
 
-    @Parameterized.Parameters
     public static Iterable<Object[]> data() throws Throwable {
         return Arrays.asList(new Object[][]{
                 {new Integer[]{6, 2, 3, 4, 5}, new Integer[]{2, 3, 4, 5, 6}},

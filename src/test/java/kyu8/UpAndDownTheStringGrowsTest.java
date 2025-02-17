@@ -1,7 +1,8 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class UpAndDownTheStringGrowsTest {
 
@@ -10,10 +11,10 @@ public class UpAndDownTheStringGrowsTest {
         String upDown = UpAndDownTheStringGrows.STRANGE_STRING.toUpperCase().toLowerCase();
         int length = UpAndDownTheStringGrows.STRANGE_STRING.length();
         int upDownLength = upDown.length();
-        assertTrue("your string: \"" + UpAndDownTheStringGrows.STRANGE_STRING + "\".length() = " + length       + "\n" +
+        assertTrue(upDownLength > length, "your string: \"" + UpAndDownTheStringGrows.STRANGE_STRING + "\".length() = " + length       + "\n" +
                 "after .toUpperCase().toLowerCase():\n"                                                   +
                 "result     : \"" + upDown                       + "\".length() = " + upDownLength + "\n" +
-                length + " >= " + upDownLength + "\n", upDownLength > length
+                length + " >= " + upDownLength + "\n"
         );
     }
 

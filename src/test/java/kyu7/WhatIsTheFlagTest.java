@@ -1,16 +1,16 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.security.MessageDigest;
 import static java.nio.charset.StandardCharsets.UTF_8;
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class WhatIsTheFlagTest {
 
     @Test
     public void theOnlyTest() throws Exception {
-        assertTrue("That's not the flag", isFlag(WhatIsTheFlag.FLAG));
+        assertTrue(isFlag(WhatIsTheFlag.FLAG), "That's not the flag");
     }
 
     private boolean isFlag(String input) throws Exception {

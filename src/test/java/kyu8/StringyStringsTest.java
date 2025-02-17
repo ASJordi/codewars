@@ -1,16 +1,16 @@
 package kyu8;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Random;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class StringyStringsTest {
 
     @Test
     public void startTest() {
-        assertEquals("Your string should start with a 1", '1', StringyStrings.stringy(3).charAt(0));
+        assertEquals('1', StringyStrings.stringy(3).charAt(0), "Your string should start with a 1");
     }
 
     @Test
@@ -18,7 +18,7 @@ public class StringyStringsTest {
         Random randGen = new Random();
         for (int i = 0; i < 10; i++) {
             int size = randGen.nextInt(50);
-            assertEquals("Wrong length using size " + size, size, StringyStrings.stringy(size).length());
+            assertEquals(size, StringyStrings.stringy(size).length(), "Wrong length using size " + size);
         }
     }
 

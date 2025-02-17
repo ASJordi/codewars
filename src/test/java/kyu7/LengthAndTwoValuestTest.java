@@ -1,8 +1,8 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import java.util.Arrays;
-import static org.junit.Assert.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class LengthAndTwoValuestTest {
 
@@ -25,7 +25,7 @@ public class LengthAndTwoValuestTest {
 
     private void assertEquals(String[] expected, int n, String firstValue, String secondValue) {
         String[] actual = LengthAndTwoValues.alternate(n, firstValue, secondValue);
-        assertArrayEquals(String.format("For input (%d, \"%s\", \"%s\")%nExpected: %s%nActual: %s%n", n, firstValue, secondValue, Arrays.toString(expected), Arrays.toString(actual)), expected, actual);
+        assertArrayEquals(expected, actual, String.format("For input (%d, \"%s\", \"%s\")%nExpected: %s%nActual: %s%n", n, firstValue, secondValue, Arrays.toString(expected), Arrays.toString(actual)));
     }
 
 }

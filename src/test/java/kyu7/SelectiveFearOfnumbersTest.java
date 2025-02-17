@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SelectiveFearOfnumbersTest {
 
@@ -15,8 +15,7 @@ public class SelectiveFearOfnumbersTest {
     }
 
     private void doTest(final String day, final int num, final boolean expected) {
-        assertEquals("Should return "+ Boolean.toString(expected),
-                expected, SelectiveFearOfnumbers.AmIAfraid(day, num));
+        assertEquals(expected, SelectiveFearOfnumbers.AmIAfraid(day, num), "Should return "+ Boolean.toString(expected));
     }
 
 }

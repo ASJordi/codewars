@@ -1,7 +1,8 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CountingSheepTest {
 
@@ -14,7 +15,7 @@ public class CountingSheepTest {
 
     @Test
     public void test() {
-        assertEquals("There are 17 sheeps in total", 17, new CountingSheep().countSheeps(array1));
+        assertEquals(17, new CountingSheep().countSheeps(array1), "There are 17 sheeps in total");
     }
 
 }

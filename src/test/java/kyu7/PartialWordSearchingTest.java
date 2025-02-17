@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import org.junit.Assert;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class PartialWordSearchingTest {
 
@@ -15,9 +15,9 @@ public class PartialWordSearchingTest {
         for (int i = 0; i < 320; i++){ test2[i] = "o x"; }
         test2[303] = "lox";
         test2[70] = "Tin + Oxygen";
-        Assert.assertArrayEquals(test1results, PartialWordSearching.findWord("ade", test1));
-        Assert.assertArrayEquals(test2results, PartialWordSearching.findWord("ox", test2));
-        Assert.assertArrayEquals(test3results, PartialWordSearching.findWord("   ", test1));
+        assertArrayEquals(test1results, PartialWordSearching.findWord("ade", test1));
+        assertArrayEquals(test2results, PartialWordSearching.findWord("ox", test2));
+        assertArrayEquals(test3results, PartialWordSearching.findWord("   ", test1));
     }
 
 }

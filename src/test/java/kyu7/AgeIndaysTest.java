@@ -1,8 +1,8 @@
 package kyu7;
 
 import java.time.LocalDate;
-import org.junit.Test;
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AgeIndaysTest {
 

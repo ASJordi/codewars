@@ -1,8 +1,8 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class NumberStarLadderTest {
 
@@ -12,11 +12,11 @@ public class NumberStarLadderTest {
 
     @Test
     public void basicTest(){
-        assertEquals("For input \"1\"", "1", NumberStarLadder.pattern(1));
-        assertEquals("For input \"2\"", "1\n1*2", NumberStarLadder.pattern(2));
-        assertEquals("For input \"3\"", a1, NumberStarLadder.pattern(3));
-        assertEquals("For input \"7\"", a2, NumberStarLadder.pattern(7));
-        assertEquals("For input \"20\"", a3, NumberStarLadder.pattern(20));
+        assertEquals("1", NumberStarLadder.pattern(1));
+        assertEquals("1\n1*2", NumberStarLadder.pattern(2));
+        assertEquals(a1, NumberStarLadder.pattern(3));
+        assertEquals(a2, NumberStarLadder.pattern(7));
+        assertEquals(a3, NumberStarLadder.pattern(20));
     }
 
 }

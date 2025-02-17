@@ -1,20 +1,21 @@
 package kyu8;
 
-import org.junit.Test;
-import org.junit.Before;
-import org.junit.After;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class IsItEvenTest {
 
     private IsItEven num;
 
-    @Before
+    @BeforeEach
     public void setUp() throws Exception {
         num = new IsItEven();
     }
 
-    @After
+    @AfterEach
     public void setDown() throws Exception {
         num = null;
     }

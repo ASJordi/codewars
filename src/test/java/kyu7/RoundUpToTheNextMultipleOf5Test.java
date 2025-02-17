@@ -1,8 +1,9 @@
 package kyu7;
 
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import java.util.Arrays;
-import org.junit.Test;
 
 public class RoundUpToTheNextMultipleOf5Test {
 
@@ -20,9 +21,10 @@ public class RoundUpToTheNextMultipleOf5Test {
                 .forEach(
                         (testCase) -> {
                             assertEquals(
-                                    "Input: " + testCase[0],
                                     testCase[1],
-                                    RoundUpToTheNextMultipleOf5.roundToNext5(testCase[0]));
+                                    RoundUpToTheNextMultipleOf5.roundToNext5(testCase[0]),
+                                    "Input: " + testCase[0]
+                            );
                         });
     }
 

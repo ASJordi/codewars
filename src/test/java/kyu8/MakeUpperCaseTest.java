@@ -1,7 +1,7 @@
 package kyu8;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MakeUpperCaseTest {
 
@@ -9,7 +9,7 @@ public class MakeUpperCaseTest {
 
     @Test
     public void testSomething() {
-        Assert.assertEquals("HELLO",u.MakeUpperCase("hello"));
+        assertEquals("HELLO",u.MakeUpperCase("hello"));
     }
 
 }

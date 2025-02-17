@@ -1,12 +1,15 @@
 package kyu8;
 
-import org.junit.Test;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Order;
+import org.junit.jupiter.api.Test;
 import java.util.concurrent.atomic.AtomicReference;
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TheIfFunctionTest {
 
-//    @DisplayName("Test true") @Order(1)
+    @DisplayName("Test true")
+    @Order(1)
     @Test
     public void testTrue() {
         AtomicReference<String> actual = new AtomicReference<>("no function");
@@ -14,7 +17,8 @@ public class TheIfFunctionTest {
         assertEquals("true function", actual.get());
     }
 
-//    @DisplayName("Test false") @Order(2)
+    @DisplayName("Test false")
+    @Order(2)
     @Test
     public void testFalse() {
         AtomicReference<String> actual = new AtomicReference<>("no function");
@@ -22,7 +26,8 @@ public class TheIfFunctionTest {
         assertEquals("false function", actual.get());
     }
 
-//    @DisplayName("Test falsy value (null)") @Order(3)
+    @DisplayName("Test falsy value (null)")
+    @Order(3)
     @Test
     public void testFalsy() {
         AtomicReference<String> actual = new AtomicReference<>("no function");

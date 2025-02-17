@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class StringEndsWithTest {
 
@@ -26,7 +26,7 @@ public class StringEndsWithTest {
 
     private static void check(String str, String ending, boolean expected) {
         boolean result = StringEndsWith.solution(str, ending);
-        assertEquals("Expected solution(\"" + str + "\", \"" + ending + "\") to return " + expected, expected, result);
+        assertEquals(expected, result, "Expected solution(\"" + str + "\", \"" + ending + "\") to return " + expected);
     }
 
 }

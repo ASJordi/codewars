@@ -1,9 +1,10 @@
 package kyu8;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 import java.util.Arrays;
 import java.util.List;
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CodewarriorTest {
 
@@ -17,7 +18,7 @@ public class CodewarriorTest {
     public void shouldHoldCorrectValues() {
         var arrayOfLists = Codewarrior.arrayOfLists;
         String msg = "the array must have a length of " + listOfLists.size();
-        assertEquals(msg, listOfLists.size(), arrayOfLists.length);
+        assertEquals(listOfLists.size(), arrayOfLists.length, msg);
 
         for (int i = 0; i < listOfLists.size(); i++)
             assertEquals(listOfLists.get(i), arrayOfLists[i]);

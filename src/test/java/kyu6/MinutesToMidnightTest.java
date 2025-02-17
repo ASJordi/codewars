@@ -1,8 +1,10 @@
 package kyu6;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.Date;
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 

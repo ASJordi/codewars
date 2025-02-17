@@ -1,19 +1,20 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.*;
 
 public class DifferenceBetweenTwoCollectionsTest {
 
     @Test
     public void exampleTests() {
-        assertEquals("should return empty for the same content", list(), DifferenceBetweenTwoCollections.diff(list('a', 'b'), list('a', 'b')));
-        assertEquals("should return A if B is empty", list('a', 'b'), DifferenceBetweenTwoCollections.diff(list('a', 'b'), list()));
-        assertEquals("should return B if A is empty", list('a', 'b'), DifferenceBetweenTwoCollections.diff(list(), list('a', 'b')));
-        assertEquals("should return empty for the empty content", list(), DifferenceBetweenTwoCollections.diff(list(), list()));
-        assertEquals("should return the last character", list('z'), DifferenceBetweenTwoCollections.diff(list('a', 'b', 'z'), list('a', 'b')));
-        assertEquals("should return the sorted characters", list('d', 'e', 'j', 'z'), DifferenceBetweenTwoCollections.diff(list('a', 'b', 'z', 'd', 'e', 'd'), list('a', 'b', 'j', 'j')));
+        assertEquals(list(), DifferenceBetweenTwoCollections.diff(list('a', 'b'), list('a', 'b')), "should return empty for the same content");
+        assertEquals(list('a', 'b'), DifferenceBetweenTwoCollections.diff(list('a', 'b'), list()), "should return A if B is empty");
+        assertEquals(list('a', 'b'), DifferenceBetweenTwoCollections.diff(list(), list('a', 'b')), "should return B if A is empty");
+        assertEquals(list(), DifferenceBetweenTwoCollections.diff(list(), list()), "should return empty for the empty content");
+        assertEquals(list('z'), DifferenceBetweenTwoCollections.diff(list('a', 'b', 'z'), list('a', 'b')), "should return the last character");
+        assertEquals(list('d', 'e', 'j', 'z'), DifferenceBetweenTwoCollections.diff(list('a', 'b', 'z', 'd', 'e', 'd'), list('a', 'b', 'j', 'j')), "should return the sorted characters");
     }
 
     public List<Character> list(char... elements) {

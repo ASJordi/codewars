@@ -1,7 +1,7 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class GetCharacterFromASCIIValueTest {
 
@@ -18,7 +18,7 @@ public class GetCharacterFromASCIIValueTest {
         assertEquals('?', GetCharacterFromASCIIValue.getChar(63));
         assertEquals('@', GetCharacterFromASCIIValue.getChar(64));
         assertEquals('A', GetCharacterFromASCIIValue.getChar(65));
-        assertEquals("getChar should return a `char`", 0, Character.compare('!', GetCharacterFromASCIIValue.getChar(33)));
+        assertEquals(0, Character.compare('!', GetCharacterFromASCIIValue.getChar(33)), "getChar should return a `char`");
     }
 
 }

@@ -1,9 +1,9 @@
 package kyu7;
 
 import java.util.*;
-import org.junit.Before;
-import org.junit.Test;
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MysteryColorAnalyzerImplTest {
 
@@ -12,7 +12,7 @@ public class MysteryColorAnalyzerImplTest {
     MysteryColorAnalyzer mysteryColorAnalyzer;
     Random random = new Random();
 
-    @Before
+    @BeforeEach
     public  void setUp() {
         mysteryColorAnalyzer = new MysteryColorAnalyzerImpl();
     }

@@ -1,9 +1,9 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SongTest {
 
@@ -17,7 +17,7 @@ public class SongTest {
 
     @Test
     public void TestForDataEncapsulation() {
-        assertEquals("Make sure that your attributes are private!", 0, song.getClass().getFields().length);
+        assertEquals(0, song.getClass().getFields().length, "Make sure that your attributes are private!\"");
     }
 
     @Test

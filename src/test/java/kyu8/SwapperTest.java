@@ -1,7 +1,8 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SwapperTest {
 
@@ -11,8 +12,8 @@ public class SwapperTest {
 
         Swapper r= new Swapper(args);
         r.swapValues();
-        assertEquals("Failed swapping numbers",2,r.arguments[0] );
-        assertEquals("Failed swapping numbers",1,r.arguments[1] );
+        assertEquals(2, r.arguments[0], "Failed swapping numbers");
+        assertEquals(1, r.arguments[1], "Failed swapping numbers");
     }
 
 }

@@ -1,11 +1,11 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ScoringTestsTest {
 
@@ -32,7 +32,7 @@ public class ScoringTestsTest {
         };
         for(int i = 0; i < 7; i++) {
             String wsad = "For input [" + Arrays.stream(base[i]).mapToObj(x -> "" + x).collect(Collectors.joining(", ")) + "]";
-            assertEquals(String.format("%s r=%d o=%d w=%d", wsad, ele[i][0], ele[i][1], ele[i][2]), result[i], ScoringTests.sol(base[i], ele[i][0], ele[i][1], ele[i][2]));
+            assertEquals(result[i], ScoringTests.sol(base[i], ele[i][0], ele[i][1], ele[i][2]), String.format("%s r=%d o=%d w=%d", wsad, ele[i][0], ele[i][1], ele[i][2]));
         }
     }
 

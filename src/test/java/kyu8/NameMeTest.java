@@ -1,28 +1,32 @@
 package kyu8;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class NameMeTest {
 
     public void testNameMeOne() throws Exception {
         NameMe nameMe = new NameMe("John", "Doe");
 
-        assertEquals("Verifying First name. Object returned should contain the firstname: John",
-                "John",
-                nameMe.getFirstName());
+        assertEquals("John",
+                nameMe.getFirstName(),
+                "Verifying First name. Object returned should contain the firstname: John"
+                );
 
-        assertEquals("Verifying Last name. Object returned should contain the lastname: Doe",
-                "Doe",
-                nameMe.getLastName());
+        assertEquals("Doe",
+                nameMe.getLastName(),
+                "Verifying Last name. Object returned should contain the lastname: Doe"
+        );
 
-        assertNotEquals("Verifying full name. Object returned should contain full name: John Doe",
-                "JohnDoe",
-                nameMe.getFullName());
+        assertNotEquals("JohnDoe",
+                nameMe.getFullName(),
+                "Verifying full name. Object returned should contain full name: John Doe"
+        );
 
-        assertEquals("Verifying full name. Object returned should contain full name: John Doe",
-                "John Doe",
-                nameMe.getFullName());
+        assertEquals("John Doe",
+                nameMe.getFullName(),
+                "Verifying full name. Object returned should contain full name: John Doe"
+        );
     }
 
 }

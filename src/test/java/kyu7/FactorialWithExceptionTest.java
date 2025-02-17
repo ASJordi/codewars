@@ -1,20 +1,20 @@
 package kyu7;
 
-import static org.junit.Assert.assertEquals;
-import org.junit.Test;
-import org.junit.Before;
-import org.junit.After;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 
 public class FactorialWithExceptionTest {
 
     private FactorialWithException fact;
 
-    @Before
+    @BeforeEach
     public void initFactorial() {
         fact = new FactorialWithException();
     }
 
-    @After
+    @AfterEach
     public void afterFactorial() {
         fact = null;
     }

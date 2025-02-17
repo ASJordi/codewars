@@ -1,16 +1,17 @@
 package kyu7;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 import java.util.Arrays;
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SumAListButIgnoreAnyDuplicatesTest {
 
     @Test
     public void sampleTests() {
-        assertEquals("Incorrect answer for arr = "+ Arrays.toString(new int[]{1, 1, 2, 3}), 5 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 1, 2, 3}));
-        assertEquals("Incorrect answer for arr = "+ Arrays.toString(new int[]{1,2,3}), 6 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 2, 3}));
-        assertEquals("Incorrect answer for arr = "+ Arrays.toString(new int[]{1, 1, 2, 2, 3}), 3 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 1, 2, 2, 3}));
+        assertEquals(5 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 1, 2, 3}));
+        assertEquals(6 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 2, 3}));
+        assertEquals(3 , SumAListButIgnoreAnyDuplicates.sumNoDuplicates(new int[]{1, 1, 2, 2, 3}));
     }
 
 }

@@ -1,9 +1,10 @@
 package kyu7;
 
-import org.junit.Test;
 import java.util.*;
 import org.apache.commons.lang3.tuple.*;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class OrderedCountOfCharactersTest {
 
@@ -15,7 +16,7 @@ public class OrderedCountOfCharactersTest {
     }
 
     private void test(String text, List<Pair<Character,Integer>> expected) {
-        assertEquals("For input: \"" + text + "\"", expected, OrderedCountOfCharacters.orderedCount(text));
+        assertEquals(expected, OrderedCountOfCharacters.orderedCount(text), "For input: \"" + text + "\"");
     }
 
 }

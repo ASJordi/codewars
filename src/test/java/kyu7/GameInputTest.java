@@ -1,11 +1,13 @@
 package kyu7;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import org.junit.Test;
-import static org.junit.Assert.assertTrue;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class GameInputTest {
 
@@ -33,7 +35,7 @@ public class GameInputTest {
         for(Combination eachCombination : combinations)
         {
             float[] actual = gameInput.getVector(eachCombination.wasd);
-            assertTrue("Input " + eachCombination.name + " Expected " + Arrays.toString(eachCombination.vector) + " Actual " + Arrays.toString(actual), Arrays.equals(actual, eachCombination.vector));
+            assertTrue(Arrays.equals(actual, eachCombination.vector), "Input " + eachCombination.name + " Expected " + Arrays.toString(eachCombination.vector) + " Actual " + Arrays.toString(actual));
         }
 
     }

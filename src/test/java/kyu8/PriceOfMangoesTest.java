@@ -1,12 +1,12 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class PriceOfMangoesTest {
 
     private static void doTest(int q, int p, int expected) {
-        assertEquals(String.format("Incorrect answer for quantity = %d, price = %d", q, p), expected, PriceOfMangoes.mango(q, p));
+        assertEquals(expected, PriceOfMangoes.mango(q, p), String.format("Incorrect answer for quantity = %d, price = %d", q, p));
     }
 
     @Test

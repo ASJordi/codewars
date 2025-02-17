@@ -1,7 +1,8 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FloatingPointComparisonTest {
 
@@ -21,7 +22,7 @@ public class FloatingPointComparisonTest {
             double a = (double) testCase[0];
             double b = (double) testCase[1];
             boolean expected = (boolean) testCase[2];
-            assertEquals(String.format("Failed for inputs: a=%.4f, b=%.7f", a, b), expected, FloatingPointComparison.approxEquals(a, b));
+            assertEquals(expected, FloatingPointComparison.approxEquals(a, b), String.format("Failed for inputs: a=%.4f, b=%.7f", a, b));
         }
     }
 

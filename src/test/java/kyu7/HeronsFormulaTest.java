@@ -1,7 +1,7 @@
 package kyu7;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HeronsFormulaTest {
 
@@ -13,10 +13,10 @@ public class HeronsFormulaTest {
 
     private void assertion(double expected, double a, double b, double c) {
         assertEquals(
-                String.format("Inputs: (%f, %f, %f)\n", a, b, c),
                 expected,
                 HeronsFormula.heron(a, b, c),
-                0.01
+                0.01,
+                String.format("Inputs: (%f, %f, %f)\n", a, b, c)
         );
     }
 

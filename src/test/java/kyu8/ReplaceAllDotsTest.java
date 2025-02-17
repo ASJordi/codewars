@@ -1,13 +1,13 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class ReplaceAllDotsTest {
 
     @Test
     public void testSomeDots() {
-        assertTrue("Sorry, try again :-(", "one-two-three".equals(ReplaceAllDots.replaceDots("one.two.three")));
+        assertTrue("one-two-three".equals(ReplaceAllDots.replaceDots("one.two.three")), "Sorry, try again :-(");
     }
 
 }

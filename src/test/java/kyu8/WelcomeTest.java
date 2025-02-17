@@ -1,15 +1,16 @@
 package kyu8;
 
-import org.junit.Test;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class WelcomeTest {
 
     @Test
     public void exampleTest() {
-        assertEquals("Your function should have returned 'Welcome'. Try again.","Welcome", Welcome.greet("english"));
-        assertEquals("Your function should have returned 'Welkom'. Try again.", "Welkom", Welcome.greet("dutch"));
-        assertEquals("Your function should have returned 'Welcome'. Try again.", "Welcome", Welcome.greet("IP_ADDRESS_INVALID"));
+        assertEquals("Welcome", Welcome.greet("english"), "Your function should have returned 'Welcome'. Try again.");
+        assertEquals("Welkom", Welcome.greet("dutch"), "Your function should have returned 'Welkom'. Try again.");
+        assertEquals("Welcome", Welcome.greet("IP_ADDRESS_INVALID"), "Your function should have returned 'Welcome'. Try again.");
     }
 
 }

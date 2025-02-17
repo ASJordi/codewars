@@ -1,16 +1,18 @@
 package kyu6;
 
-import org.junit.Test;
-import static org.junit.Assert.assertArrayEquals;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class PhoneScreenOrganizerTest {
 
-    @Test public void FixedTest1() {
+    @Test
+    public void FixedTest1() {
         Object[] a = new Object[]{"a"};
         assertArrayEquals(a, PhoneScreenOrganizer.moveOver(a));
     }
 
-    @Test public void FixedTest2() {
+    @Test
+    public void FixedTest2() {
         Object[] a = new Object[]{null};
         assertArrayEquals(new Object[0], PhoneScreenOrganizer.moveOver(a));
     }
