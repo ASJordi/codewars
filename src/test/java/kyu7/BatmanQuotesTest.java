@@ -13,7 +13,7 @@ public class BatmanQuotesTest {
 
     @Test
     public void test1(){
-        assertEquals("Fail", "Robin: Holy haberdashery, Batman!", BatmanQuotes.getQuote(quotes, "Rob1n"));
+        assertEquals("Robin: Holy haberdashery, Batman!", BatmanQuotes.getQuote(quotes, "Rob1n"), "Fail");
     }
 
 }

@@ -8,7 +8,7 @@ public class GhostCodeTest {
     @Test
     public void exampleTests() {
         String result = GhostCode.helloName("Javatlacati");
-        assertEquals("Hello my name is Javatlacati is not " + result,"Hello my name is Javatlacati", result);
+        assertEquals("Hello my name is Javatlacati", result, "Hello my name is Javatlacati is not " + result);
     }
 
 }

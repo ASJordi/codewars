@@ -13,11 +13,11 @@ public class RemoveConsecutiveDuplicateWordsTest {
 
     @Test
     public void basicTest(){
-        assertEquals("For input \"" + s1 + "\"", ans1, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s1));
-        assertEquals("For input \"" + s2 + "\"", ans2, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s2));
-        assertEquals("For input \"" + "" + "\"", "", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(""));
-        assertEquals("For input \"" + "word" + "\"", "word", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates("word"));
-        assertEquals("For input \"" + "a a ab" + "\"", "a ab", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates("a a ab"));
+        assertEquals(ans1, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s1));
+        assertEquals(ans2, RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(s2));
+        assertEquals("", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates(""));
+        assertEquals("word", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates("word"));
+        assertEquals("a ab", RemoveConsecutiveDuplicateWords.removeConsecutiveDuplicates("a a ab"));
     }
 
 }

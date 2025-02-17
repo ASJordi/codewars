@@ -11,8 +11,8 @@ public class SongTest {
 
     @Test
     public void TestForTitleAndArtist() {
-        assertEquals("Wrong title!", "Mount Moose", song.getTitle());
-        assertEquals("Wrong artist!", "The Snazzy Moose", song.getArtist());
+        assertEquals("Mount Moose", song.getTitle(), "Wrong title!");
+        assertEquals("The Snazzy Moose", song.getArtist(), "Wrong artist!");
     }
 
     @Test

@@ -18,7 +18,7 @@ public class YourOrderPleaseTest {
 
     @Test
     public void test3() {
-        assertEquals("Empty input should return empty string","", YourOrderPlease.order(""));
+        assertEquals("", YourOrderPlease.order(""), "Empty input should return empty string");
     }
 
 }

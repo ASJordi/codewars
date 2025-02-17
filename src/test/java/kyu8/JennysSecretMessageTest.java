@@ -7,10 +7,10 @@ public class JennysSecretMessageTest {
 
     @Test
     public void Test() {
-        assertEquals("should greet some people normally", "Hello, Jim!", JennysSecretMessage.greet("Jim"));
-        assertEquals("should greet some people normally", "Hello, Jane!", JennysSecretMessage.greet("Jane"));
-        assertEquals("should greet some people normally", "Hello, Simon!", JennysSecretMessage.greet("Simon"));
-        assertEquals("should greet Johnny a little bit more special", "Hello, my love!", JennysSecretMessage.greet("Johnny"));
+        assertEquals("Hello, Jim!", JennysSecretMessage.greet("Jim"));
+        assertEquals("Hello, Jane!", JennysSecretMessage.greet("Jane"));
+        assertEquals("Hello, Simon!", JennysSecretMessage.greet("Simon"));
+        assertEquals("Hello, my love!", JennysSecretMessage.greet("Johnny"));
     }
 
 }

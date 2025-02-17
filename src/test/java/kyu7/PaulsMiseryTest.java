@@ -20,10 +20,10 @@ public class PaulsMiseryTest {
         String[] a4 = new String[]{"Petes kata", "Petes kata","Petes kata","Petes kata","Petes kata","Petes kata","Petes kata","Petes kata","Petes kata","kata", "eating", "eating", "eating", "eating"};
         String a4s = Arrays.stream(a4).collect(Collectors.joining(", "));
 
-        assertEquals("For input \"" + a1s + "\"", "Super happy!", PaulsMisery.paul(a1));
-        assertEquals("For input \"" + a2s + "\"", "Super happy!", PaulsMisery.paul(a2));
-        assertEquals("For input \"" + a3s + "\"", "Happy!", PaulsMisery.paul(a3));
-        assertEquals("For input \"" + a4s + "\"", "Sad!", PaulsMisery.paul(a4));
+        assertEquals("Super happy!", PaulsMisery.paul(a1), "For input \"" + a1s + "\"");
+        assertEquals("Super happy!", PaulsMisery.paul(a2), "For input \"" + a2s + "\"");
+        assertEquals("Happy!", PaulsMisery.paul(a3), "For input \"" + a3s + "\"");
+        assertEquals("Sad!", PaulsMisery.paul(a4), "For input \"" + a4s + "\"");
 
     }
 

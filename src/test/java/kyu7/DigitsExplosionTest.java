@@ -17,7 +17,7 @@ public class DigitsExplosionTest {
                 {"000", ""},
                 {"123", "122333"}};
         Arrays.stream(testArray).forEach(x ->
-                assertEquals("value " + x[0] + " is incorrect", x[1], DigitsExplosion.explode(x[0]))
+                assertEquals(x[1], DigitsExplosion.explode(x[0]), "value " + x[0] + " is incorrect")
         );
     }
 

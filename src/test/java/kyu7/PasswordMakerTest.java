@@ -10,9 +10,9 @@ public class PasswordMakerTest {
     public void basicTest() {
         String a1 = "Give me liberty or give me death";
         String a2 = "Keep Calm and Carry On";
-        assertEquals(String.format("For input \"%s\"", a1), "Gml0gmd", PasswordMaker.makePassword(a1));
-        assertEquals(String.format("For input \"%s\"", a2), "KCaC0", PasswordMaker.makePassword(a2));
-        assertEquals(String.format("For input \"%s\"", ""), "", PasswordMaker.makePassword(""));
+        assertEquals("Gml0gmd", PasswordMaker.makePassword(a1), String.format("For input \"%s\"", a1));
+        assertEquals("KCaC0", PasswordMaker.makePassword(a2), String.format("For input \"%s\"", a2));
+        assertEquals("", PasswordMaker.makePassword(""), String.format("For input \"%s\"", ""));
     }
 
 }

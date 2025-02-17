@@ -15,7 +15,7 @@ public class GrasshopperTerminalGameTest {
         assertEquals(5, hero.damage, "Testing for damage to equal 5");
 
         GrasshopperTerminalGame bjornTheViking = new GrasshopperTerminalGame("Björn Øhrling");
-        assertEquals("Testing for name, to equal \"Björn Øhrling\"", "Björn Øhrling", bjornTheViking.name);
+        assertEquals("Björn Øhrling", bjornTheViking.name, "Testing for name, to equal \"Björn Øhrling\"");
     }
 
 }

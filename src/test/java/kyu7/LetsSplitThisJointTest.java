@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class LetsSplitThisJointTest {
@@ -15,7 +16,7 @@ public class LetsSplitThisJointTest {
 
     @Test
     public void example() {
-        assertEquals(new String[]{"a","b","c"}, show(LetsSplitThisJoint.split("a.b.c")));
+        assertArrayEquals(new String[]{"a","b","c"}, show(LetsSplitThisJoint.split("a.b.c")));
     }
 
 }

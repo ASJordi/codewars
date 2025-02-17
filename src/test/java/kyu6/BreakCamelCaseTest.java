@@ -7,9 +7,9 @@ public class BreakCamelCaseTest {
 
     @Test
     public void tests() {
-        assertEquals( "Incorrect", "camel Casing", BreakCamelCase.camelCase("camelCasing"));
-        assertEquals( "Incorrect", "camel Casing Test", BreakCamelCase.camelCase("camelCasingTest"));
-        assertEquals( "Incorrect", "camelcasingtest", BreakCamelCase.camelCase("camelcasingtest"));
+        assertEquals("camel Casing", BreakCamelCase.camelCase("camelCasing"), "Incorrect");
+        assertEquals("camel Casing Test", BreakCamelCase.camelCase("camelCasingTest"), "Incorrect");
+        assertEquals("camelcasingtest", BreakCamelCase.camelCase("camelcasingtest"), "Incorrect");
     }
 
 }

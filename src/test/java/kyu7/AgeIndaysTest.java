@@ -20,7 +20,7 @@ public class AgeIndaysTest {
             assertEquals("You are 366 days old",
                     AgeIndays.ageInDays(birthday.getYear(), birthday.getMonthValue(), birthday.getDayOfMonth()));
         } else {
-            assertEquals("You are 365 days old",
+            assertEquals("You are 366 days old",
                     AgeIndays.ageInDays(birthday.getYear(), birthday.getMonthValue(), birthday.getDayOfMonth()));
         }
     }

@@ -2,6 +2,7 @@ package kyu7;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class OverflowingWithJoyTest {
 
@@ -30,29 +31,39 @@ public class OverflowingWithJoyTest {
         assertEquals(Integer.MAX_VALUE - 1, OverflowingWithJoy.multiply(42966, 49981));
     }
 
-    @Test()
+    @Test
     public void testOverflowMax() {
-        OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MAX_VALUE);
+        assertThrows(ArithmeticException.class, () -> {
+            OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MAX_VALUE);
+        });
     }
 
-    @Test()
+    @Test
     public void testOverflowMin() {
-        OverflowingWithJoy.multiply(Integer.MIN_VALUE, Integer.MIN_VALUE);
+        assertThrows(ArithmeticException.class, () -> {
+            OverflowingWithJoy.multiply(Integer.MIN_VALUE, Integer.MIN_VALUE);
+        });
     }
 
-    @Test()
+    @Test
     public void testOverflowMaxMin() {
-        OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MIN_VALUE);
+        assertThrows(ArithmeticException.class, () -> {
+            OverflowingWithJoy.multiply(Integer.MAX_VALUE, Integer.MIN_VALUE);
+        });
     }
 
-    @Test()
+    @Test
     public void testOverflow1() {
-        OverflowingWithJoy.multiply(39650, 54161);
+        assertThrows(ArithmeticException.class, () -> {
+            OverflowingWithJoy.multiply(39650, 54161);
+        });
     }
 
-    @Test()
+    @Test
     public void testOverflow2() {
-        OverflowingWithJoy.multiply(42967, 49981);
+        assertThrows(ArithmeticException.class, () -> {
+            OverflowingWithJoy.multiply(42967, 49981);
+        });
     }
 
 }
