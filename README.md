@@ -539,6 +539,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/FindCountOfMostFrequentItemInAnArray.java">Find Count Of Most Frequent Item In An Array</a></li>
         <li><a href="/src/main/java/kyu7/FindTheMissingNumber.java">Find The Missing Number</a></li>
         <li><a href="/src/main/java/kyu7/FindTheNextPerfectSquare.java">Find The Next Perfect Square</a></li>
+        <li><a href="/src/main/java/kyu7/FindTheNthOccurrenceOfAWordInAString.java">Find The Nth Occurrence Of A Word In A String</a></li>
     </ol>
     </details>
     <details>
