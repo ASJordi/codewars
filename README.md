@@ -542,6 +542,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/FindTheNthOccurrenceOfAWordInAString.java">Find The Nth Occurrence Of A Word In A String</a></li>
         <li><a href="/src/main/java/kyu7/ArraySquareUpB.java">Array - squareUp b!</a></li>
         <li><a href="/src/main/java/kyu7/BinaryCalculator.java">Binary Calculator</a></li>
+        <li><a href="/src/main/java/kyu7/AllNines.java">All Nines</a></li>
     </ol>
     </details>
     <details>
