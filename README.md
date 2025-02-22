@@ -543,6 +543,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ArraySquareUpB.java">Array - squareUp b!</a></li>
         <li><a href="/src/main/java/kyu7/BinaryCalculator.java">Binary Calculator</a></li>
         <li><a href="/src/main/java/kyu7/AllNines.java">All Nines</a></li>
+        <li><a href="/src/main/java/kyu7/BalancedNumber.java">Balanced Number (Special Numbers Series #1 )</a></li>
     </ol>
     </details>
     <details>
