@@ -545,6 +545,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/AllNines.java">All Nines</a></li>
         <li><a href="/src/main/java/kyu7/BalancedNumber.java">Balanced Number (Special Numbers Series #1)</a></li>
         <li><a href="/src/main/java/kyu7/ExtraPerfectNumbers.java">Extra Perfect Numbers (Special Numbers Series #7)</a></li>
+        <li><a href="/src/main/java/kyu7/FireOnTheBoat.java">Fire On The Boat</a></li>
     </ol>
     </details>
     <details>
