@@ -547,6 +547,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ExtraPerfectNumbers.java">Extra Perfect Numbers (Special Numbers Series #7)</a></li>
         <li><a href="/src/main/java/kyu7/FireOnTheBoat.java">Fire On The Boat</a></li>
         <li><a href="/src/main/java/kyu7/FizzBuzz.java">FizzBuzz</a></li>
+        <li><a href="/src/main/java/kyu7/FizzBuzzCuckooClock.java">FizzBuzz Cuckoo Clock</a></li>
     </ol>
     </details>
     <details>
