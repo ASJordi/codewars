@@ -246,6 +246,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu8/FloatingPointComparison.java">Floating point comparison</a></li>
         <li><a href="/src/main/java/kyu8/FindOutWhetherTheShapeIsACube.java">Find Out Whether The Shape Is A Cube</a></li>
         <li><a href="/src/main/java/kyu8/PlayingWithCubesII.java">Playing With Cubes II</a></li>
+        <li><a href="/src/main/java/kyu8/ClosestElevator.java">ClosestElevator</a></li>
       </ol>
     </details>
     <details>
