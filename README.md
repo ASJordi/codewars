@@ -551,6 +551,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/FireOnTheBoat.java">Fire On The Boat</a></li>
         <li><a href="/src/main/java/kyu7/FizzBuzz.java">FizzBuzz</a></li>
         <li><a href="/src/main/java/kyu7/FizzBuzzCuckooClock.java">FizzBuzz Cuckoo Clock</a></li>
+        <li><a href="/src/main/java/kyu7/FizzOrBuzz.java">Fizz Or Buzz</a></li>
     </ol>
     </details>
     <details>
