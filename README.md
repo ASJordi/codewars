@@ -554,6 +554,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/FizzOrBuzz.java">Fizz Or Buzz</a></li>
         <li><a href="/src/main/java/kyu7/FlattenAndSortAnArray.java">Flatten And Sort An Array</a></li>
         <li><a href="/src/main/java/kyu7/AllInclusive.java">All Inclusive?</a></li>
+        <li><a href="/src/main/java/kyu7/GenericInheritance.java">Generic Inheritance</a></li>
     </ol>
     </details>
     <details>
