@@ -558,6 +558,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/EvenNumbersInAnArray.java">Even Numbers In An Array</a></li>
         <li><a href="/src/main/java/kyu7/FindTheCapitals.java">Find The Capitals</a></li>
         <li><a href="/src/main/java/kyu7/FriendOrFoe.java">Friend Or Foe</a></li>
+        <li><a href="/src/main/java/kyu7/BoiledEggs.java">Boiled Eggs</a></li>
     </ol>
     </details>
     <details>
