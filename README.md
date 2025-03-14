@@ -561,6 +561,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/BoiledEggs.java">Boiled Eggs</a></li>
         <li><a href="/src/main/java/kyu7/CharCodeCalculation.java">Char Code Calculation</a></li>
         <li><a href="/src/main/java/kyu7/GhostbustersWhitespaceRemoval.java">Ghostbusters Whitespace Removal</a></li>
+        <li><a href="/src/main/java/kyu7/CatAndMouse.java">Cat and Mouse - Easy Version</a></li>
     </ol>
     </details>
     <details>
