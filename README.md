@@ -565,6 +565,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/DroneFlyBy.java">Drone Fly-By</a></li>
         <li><a href="/src/main/java/kyu7/EvensTimesLast.java">Evens Times Last</a></li>
         <li><a href="/src/main/java/kyu7/EvenOrOddWhichIsGreater.java">Even or Odd - Which is Greater?</a></li>
+        <li><a href="/src/main/java/kyu7/FindTheVowels.java">Find The Vowels</a></li>
     </ol>
     </details>
     <details>
