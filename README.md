@@ -252,6 +252,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu8/AddLength.java">Add Length</a></li>
         <li><a href="/src/main/java/kyu8/IfElseSyntaxDebug.java">Grasshopper - If/else syntax debug</a></li>
         <li><a href="/src/main/java/kyu8/DrawStairs.java">Draw Stairs</a></li>
+        <li><a href="/src/main/java/kyu8/DrinkAbout.java">Drink About</a></li>
       </ol>
     </details>
     <details>
