@@ -254,6 +254,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu8/DrawStairs.java">Draw Stairs</a></li>
         <li><a href="/src/main/java/kyu8/DrinkAbout.java">Drink About</a></li>
         <li><a href="/src/main/java/kyu8/MakingSixToast.java">BASIC: Making Six Toast</a></li>
+        <li><a href="/src/main/java/kyu8/SumTheStrings.java">Sum The Strings</a></li>
       </ol>
     </details>
     <details>
