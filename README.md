@@ -574,6 +574,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/EvenOrOddWhichIsGreater.java">Even or Odd - Which is Greater?</a></li>
         <li><a href="/src/main/java/kyu7/FindTheVowels.java">Find The Vowels</a></li>
         <li><a href="/src/main/java/kyu7/AreaOfAnArrow.java">Area Of An Arrow</a></li>
+        <li><a href="/src/main/java/kyu7/DifferenceOfSquares.java">Difference Of Squares</a></li>
     </ol>
     </details>
     <details>
