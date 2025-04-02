@@ -578,6 +578,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/DrivingLicence.java">Driving Licence</a></li>
         <li><a href="/src/main/java/kyu7/ElectionsWinners.java">Simple Fun #41: Elections Winners</a></li>
         <li><a href="/src/main/java/kyu7/BinarysXORe.java">Binary sXORe</a></li>
+        <li><a href="/src/main/java/kyu7/ElevatorDistance.java">Elevator Distance</a></li>
     </ol>
     </details>
     <details>
