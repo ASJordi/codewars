@@ -582,6 +582,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ElevatorDistance.java">Elevator Distance</a></li>
         <li><a href="/src/main/java/kyu7/GoStoneScoring.java">Go Stone Scoring</a></li>
         <li><a href="/src/main/java/kyu7/GreenGlassDoor.java">Green Glass Door</a></li>
+        <li><a href="/src/main/java/kyu7/GrowingPlant.java">Simple Fun #74: Growing Plant</a></li>
     </ol>
     </details>
     <details>
