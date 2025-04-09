@@ -584,6 +584,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/GreenGlassDoor.java">Green Glass Door</a></li>
         <li><a href="/src/main/java/kyu7/GrowingPlant.java">Simple Fun #74: Growing Plant</a></li>
         <li><a href="/src/main/java/kyu7/DotProductIn3D.java">Geometry Basics: Dot Product in 3D</a></li>
+        <li><a href="/src/main/java/kyu7/GuessTheSequence.java">Guess The Sequence</a></li>
     </ol>
     </details>
     <details>
