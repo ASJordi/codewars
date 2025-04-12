@@ -587,6 +587,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/GuessTheSequence.java">Guess The Sequence</a></li>
         <li><a href="/src/main/java/kyu7/CIsForCodewars.java">C Is For Codewars</a></li>
         <li><a href="/src/main/java/kyu7/ClosingInSum.java">Closing In Sum</a></li>
+        <li><a href="/src/main/java/kyu7/ArrayLeaders.java">Array Leaders (Array Series #3)</a></li>
     </ol>
     </details>
     <details>
