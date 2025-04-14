@@ -589,6 +589,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ClosingInSum.java">Closing In Sum</a></li>
         <li><a href="/src/main/java/kyu7/ArrayLeaders.java">Array Leaders (Array Series #3)</a></li>
         <li><a href="/src/main/java/kyu7/ConsecutiveDigitsToFormSum.java">Consecutive Digits To Form Sum</a></li>
+        <li><a href="/src/main/java/kyu7/CyrillicLetters.java">Cyrillic Letters</a></li>
     </ol>
     </details>
     <details>
