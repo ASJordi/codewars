@@ -591,6 +591,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ConsecutiveDigitsToFormSum.java">Consecutive Digits To Form Sum</a></li>
         <li><a href="/src/main/java/kyu7/CyrillicLetters.java">Cyrillic Letters</a></li>
         <li><a href="/src/main/java/kyu7/HalvingSum.java">Halving Sum</a></li>
+        <li><a href="/src/main/java/kyu7/HeavyMetalUmlauts.java">Heavy Metal Umlauts</a></li>
     </ol>
     </details>
     <details>
