@@ -593,6 +593,8 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/HalvingSum.java">Halving Sum</a></li>
         <li><a href="/src/main/java/kyu7/HeavyMetalUmlauts.java">Heavy Metal Umlauts</a></li>
         <li><a href="/src/main/java/kyu7/HelloWorldWithoutStrings.java">Hello World - Without Strings</a></li>
+        <li><a href="/src/main/java/kyu7/HelpBobCountLettersAndDigits.java">Help Bob Count Letters And Digits</a></li>
+        <li><a href="/src/main/java/kyu7/HelpSuzukiRakeHisGarden.java">Help Suzuki Rake His Garden</a></li>
     </ol>
     </details>
     <details>
