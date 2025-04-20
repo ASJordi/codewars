@@ -595,6 +595,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/HelloWorldWithoutStrings.java">Hello World - Without Strings</a></li>
         <li><a href="/src/main/java/kyu7/HelpBobCountLettersAndDigits.java">Help Bob Count Letters And Digits</a></li>
         <li><a href="/src/main/java/kyu7/HelpSuzukiRakeHisGarden.java">Help Suzuki Rake His Garden</a></li>
+        <li><a href="/src/main/java/kyu7/HouseNumbersSum.java">Simple Fun #37: House Numbers Sum</a></li>
     </ol>
     </details>
     <details>
