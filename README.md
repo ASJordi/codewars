@@ -598,6 +598,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/HouseNumbersSum.java">Simple Fun #37: House Numbers Sum</a></li>
         <li><a href="/src/main/java/kyu7/HowFarWillIGo.java">How far will I go?</a></li>
         <li><a href="/src/main/java/kyu7/HowGreenIsMyValley.java">How Green Is My Valley?</a></li>
+        <li><a href="/src/main/java/kyu7/HowManyDaysAreWeRepresentedInAForeignCountry.java">How Many Days Are We Represented In A Foreign Country</a></li>
     </ol>
     </details>
     <details>
