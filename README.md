@@ -601,6 +601,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/HowManyDaysAreWeRepresentedInAForeignCountry.java">How Many Days Are We Represented In A Foreign Country</a></li>
         <li><a href="/src/main/java/kyu7/IncompleteString.java">Thinking & Testing : Incomplete string</a></li>
         <li><a href="/src/main/java/kyu7/InvisibleCubes.java">Invisible Cubes</a></li>
+        <li><a href="/src/main/java/kyu7/InviteMoreWomen.java">Simple Fun #152: Invite More Women?</a></li>
     </ol>
     </details>
     <details>
