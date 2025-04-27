@@ -257,6 +257,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu8/SumTheStrings.java">Sum The Strings</a></li>
         <li><a href="/src/main/java/kyu8/UsdCny.java">USD CNY</a></li>
         <li><a href="/src/main/java/kyu8/ClassyExtentions.java">Classy Extentions</a></li>
+        <li><a href="/src/main/java/kyu8/SimpleCalculator.java">Simple Calculator</a></li>
       </ol>
     </details>
     <details>
