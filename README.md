@@ -605,6 +605,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/InviteMoreWomen.java">Simple Fun #152: Invite More Women?</a></li>
         <li><a href="/src/main/java/kyu7/IsItAEightBitUnsignedNumber.java">Regexp Basics - is it a eight bit unsigned number?</a></li>
         <li><a href="/src/main/java/kyu7/GreatestCommonDivisorBitCount.java">Greatest Common Divisor Bit Count</a></li>
+        <li><a href="/src/main/java/kyu7/IsItASixBitUnsignedNumber.java">Regexp Basics - is it a six bit unsigned number?</a></li>
     </ol>
     </details>
     <details>
