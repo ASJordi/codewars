@@ -610,6 +610,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/CheckWhetherANumberIsValidInAGivenNumeralSystem.java">Check Whether A Number Is Valid In A Given Numeral System</a></li>
         <li><a href="/src/main/java/kyu7/JumbledPlanets.java">The Solar System - Jumbled Planets</a></li>
         <li><a href="/src/main/java/kyu7/Largest5DigitNumberInASeries.java">Largest 5 Digit Number In A Series</a></li>
+        <li><a href="/src/main/java/kyu7/LatinSquares.java">Latin Squares</a></li>
     </ol>
     </details>
     <details>
