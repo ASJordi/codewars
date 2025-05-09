@@ -614,6 +614,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/LikesVsDislikes.java">Likes Vs Dislikes</a></li>
         <li><a href="/src/main/java/kyu7/LinkedListsAppend.java">Linked Lists Append</a></li>
         <li><a href="/src/main/java/kyu7/LinkedListsGetNthNode.java">Linked Lists Get Nth Node</a></li>
+        <li><a href="/src/main/java/kyu7/LombokBuilder.java">Lombok Builder</a></li>
     </ol>
     </details>
     <details>
