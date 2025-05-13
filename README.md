@@ -618,6 +618,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/LookingForABenefactor.java">Looking For A Benefactor</a></li>
         <li><a href="/src/main/java/kyu7/LoveVsFriendship.java">Love Vs Friendship</a></li>
         <li><a href="/src/main/java/kyu7/MakeMeSlow.java">Make Me Slow</a></li>
+        <li><a href="/src/main/java/kyu7/MapOverAListOfLists.java">Map Over A List Of Lists</a></li>
     </ol>
     </details>
     <details>
