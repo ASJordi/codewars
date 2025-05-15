@@ -620,6 +620,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/MakeMeSlow.java">Make Me Slow</a></li>
         <li><a href="/src/main/java/kyu7/MapOverAListOfLists.java">Map Over A List Of Lists</a></li>
         <li><a href="/src/main/java/kyu7/MaximumGap.java">Maximum Gap</a></li>
+        <li><a href="/src/main/java/kyu7/MaximumMultiple.java">Maximum Multiple</a></li>
     </ol>
     </details>
     <details>
