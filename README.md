@@ -624,6 +624,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/MaximumProduct.java">Maximum Product</a></li>
         <li><a href="/src/main/java/kyu7/MaximumTripletSum.java">Maximum Triplet Sum</a></li>
         <li><a href="/src/main/java/kyu7/MinimizeSumOfArray.java">Minimize Sum Of Array</a></li>
+        <li><a href="/src/main/java/kyu7/MinimumSteps.java">Minimum Steps</a></li>
     </ol>
     </details>
     <details>
