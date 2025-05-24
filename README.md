@@ -629,6 +629,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/MultiplyAllElementsInAnArray.java">Multiply All Elements In An Array</a></li>
         <li><a href="/src/main/java/kyu7/MyLanguageSkills.java">My Language Skills</a></li>
         <li><a href="/src/main/java/kyu7/NDimensionalVectorMagnitude.java">N-Dimensional Vector Magnitude</a></li>
+        <li><a href="/src/main/java/kyu7/NiceArray.java">Nice Array</a></li>
     </ol>
     </details>
     <details>
