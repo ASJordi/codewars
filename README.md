@@ -631,6 +631,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NDimensionalVectorMagnitude.java">N-Dimensional Vector Magnitude</a></li>
         <li><a href="/src/main/java/kyu7/NiceArray.java">Nice Array</a></li>
         <li><a href="/src/main/java/kyu7/NoIfsNoButs.java">No Ifs No Buts</a></li>
+        <li><a href="/src/main/java/kyu7/NthPowerRulesThemAll.java">Nth Power Rules Them All</a></li>
     </ol>
     </details>
     <details>
