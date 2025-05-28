@@ -633,6 +633,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NoIfsNoButs.java">No Ifs No Buts</a></li>
         <li><a href="/src/main/java/kyu7/NthPowerRulesThemAll.java">Nth Power Rules Them All</a></li>
         <li><a href="/src/main/java/kyu7/NthSmallestElement.java">Nth Smallest Element</a></li>
+        <li><a href="/src/main/java/kyu7/NumberOfPeopleInTheBus.java">Number Of People In The Bus</a></li>
     </ol>
     </details>
     <details>
