@@ -635,6 +635,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NthSmallestElement.java">Nth Smallest Element</a></li>
         <li><a href="/src/main/java/kyu7/NumberOfPeopleInTheBus.java">Number Of People In The Bus</a></li>
         <li><a href="/src/main/java/kyu7/NumbersInStrings.java">Numbers In Strings</a></li>
+        <li><a href="/src/main/java/kyu7/NumbersToLetters.java">Numbers To Letters</a></li>
     </ol>
     </details>
     <details>
