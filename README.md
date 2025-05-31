@@ -636,6 +636,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NumberOfPeopleInTheBus.java">Number Of People In The Bus</a></li>
         <li><a href="/src/main/java/kyu7/NumbersInStrings.java">Numbers In Strings</a></li>
         <li><a href="/src/main/java/kyu7/NumbersToLetters.java">Numbers To Letters</a></li>
+        <li><a href="/src/main/java/kyu7/NumbersWithDOccurrencesOfDigitD.java">Numbers With D Occurrences Of Digit D</a></li>
     </ol>
     </details>
     <details>
