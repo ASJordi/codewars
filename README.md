@@ -638,6 +638,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NumbersToLetters.java">Numbers To Letters</a></li>
         <li><a href="/src/main/java/kyu7/NumbersWithDOccurrencesOfDigitD.java">Numbers With D Occurrences Of Digit D</a></li>
         <li><a href="/src/main/java/kyu7/NumbersWithThisDigitInside.java">Numbers With This Digit Inside</a></li>
+        <li><a href="/src/main/java/kyu7/NumberToDigitTiers.java">Number To Digit Tiers</a></li>
     </ol>
     </details>
     <details>
