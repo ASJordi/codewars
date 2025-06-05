@@ -640,6 +640,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/NumbersWithThisDigitInside.java">Numbers With This Digit Inside</a></li>
         <li><a href="/src/main/java/kyu7/NumberToDigitTiers.java">Number To Digit Tiers</a></li>
         <li><a href="/src/main/java/kyu7/OdderThanTheRest.java">Odder Than The Rest</a></li>
+        <li><a href="/src/main/java/kyu7/PaddedNumbers.java">Substituting Variables Into Strings: Padded Numbers</a></li>
     </ol>
     </details>
     <details>
