@@ -644,6 +644,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/PalindromeChainLength.java">Palindrome Chain Length</a></li>
         <li><a href="/src/main/java/kyu7/ParallelResistors.java">Parallel Resistors</a></li>
         <li><a href="/src/main/java/kyu7/PasswordSystem.java">Password System</a></li>
+        <li><a href="/src/main/java/kyu7/ProductArray.java">Product Array (Array Series #5)</a></li>
     </ol>
     </details>
     <details>
