@@ -645,6 +645,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ParallelResistors.java">Parallel Resistors</a></li>
         <li><a href="/src/main/java/kyu7/PasswordSystem.java">Password System</a></li>
         <li><a href="/src/main/java/kyu7/ProductArray.java">Product Array (Array Series #5)</a></li>
+        <li><a href="/src/main/java/kyu7/ProductOfMaximumsOfArray.java">Product Of Maximums Of Array</a></li>
     </ol>
     </details>
     <details>
