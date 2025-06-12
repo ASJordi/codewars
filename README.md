@@ -648,6 +648,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ProductOfMaximumsOfArray.java">Product Of Maximums Of Array</a></li>
         <li><a href="/src/main/java/kyu7/PushAndBuildOneTwoThree.java">Linked Lists - Push & Build One Two Three</a></li>
         <li><a href="/src/main/java/kyu7/Quotable.java">Thinkful - String Drills: Quotable</a></li>
+        <li><a href="/src/main/java/kyu7/Redacted.java">Redacted</a></li>
     </ol>
     </details>
     <details>
