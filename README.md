@@ -650,6 +650,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/Quotable.java">Thinkful - String Drills: Quotable</a></li>
         <li><a href="/src/main/java/kyu7/Redacted.java">Redacted</a></li>
         <li><a href="/src/main/java/kyu7/ReduceMyFraction.java">Reduce My Fraction</a></li>
+        <li><a href="/src/main/java/kyu7/RegexValidationOf24HoursTime.java">Regex Validation Of 24 Hours Time</a></li>
     </ol>
     </details>
     <details>
