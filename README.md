@@ -652,6 +652,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ReduceMyFraction.java">Reduce My Fraction</a></li>
         <li><a href="/src/main/java/kyu7/RegexValidationOf24HoursTime.java">Regex Validation Of 24 Hours Time</a></li>
         <li><a href="/src/main/java/kyu7/RemoveAnchorFromURL.java">Remove Anchor From URL</a></li>
+        <li><a href="/src/main/java/kyu7/RemoveTheMinimum.java">Remove The Minimum</a></li>
     </ol>
     </details>
     <details>
