@@ -655,6 +655,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/RemoveTheMinimum.java">Remove The Minimum</a></li>
         <li><a href="/src/main/java/kyu7/ReplaceEveryNth.java">Replace Every Nth</a></li>
         <li><a href="/src/main/java/kyu7/ReturnSubstringInstanceCount.java">Return Substring Instance Count</a></li>
+        <li><a href="/src/main/java/kyu7/ReversingFun.java">Reversing Fun</a></li>
     </ol>
     </details>
     <details>
