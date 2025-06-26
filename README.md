@@ -661,6 +661,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ScalingSquaredStrings.java">Scaling Squared Strings</a></li>
         <li><a href="/src/main/java/kyu7/ScrollingText.java">Scrolling Text</a></li>
         <li><a href="/src/main/java/kyu7/SearchForLetters.java">Search For Letters</a></li>
+        <li><a href="/src/main/java/kyu7/SillyAddition.java">Silly Addition</a></li>
     </ol>
     </details>
     <details>
