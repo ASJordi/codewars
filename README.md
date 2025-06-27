@@ -663,6 +663,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SearchForLetters.java">Search For Letters</a></li>
         <li><a href="/src/main/java/kyu7/SillyAddition.java">Silly Addition</a></li>
         <li><a href="/src/main/java/kyu7/SortByLastChar.java">Sort By Last Char</a></li>
+        <li><a href="/src/main/java/kyu7/SimpleArrayProduct.java">Simple Array Product</a></li>
     </ol>
     </details>
     <details>
