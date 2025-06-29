@@ -665,6 +665,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SortByLastChar.java">Sort By Last Char</a></li>
         <li><a href="/src/main/java/kyu7/SimpleArrayProduct.java">Simple Array Product</a></li>
         <li><a href="/src/main/java/kyu7/CountTheOnes.java">Count The Ones</a></li>
+        <li><a href="/src/main/java/kyu7/StatusArrays.java">Status Arrays</a></li>
     </ol>
     </details>
     <details>
