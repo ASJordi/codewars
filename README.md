@@ -668,6 +668,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/StatusArrays.java">Status Arrays</a></li>
         <li><a href="/src/main/java/kyu7/SimpleConsecutivePairs.java">Simple Consecutive Pairs</a></li>
         <li><a href="/src/main/java/kyu7/SubstringFun.java">Substring Fun</a></li>
+        <li><a href="/src/main/java/kyu7/TimedReading.java">Simple Fun #40: Timed Reading</a></li>
     </ol>
     </details>
     <details>
