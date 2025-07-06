@@ -671,6 +671,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/TimedReading.java">Simple Fun #40: Timed Reading</a></li>
         <li><a href="/src/main/java/kyu7/SumOfMinimums.java">Sum Of Minimums</a></li>
         <li><a href="/src/main/java/kyu7/SomethingCapitalized.java">Thinking & Testing : Something capitalized</a></li>
+        <li><a href="/src/main/java/kyu7/ShowMultiplesOf2NumbersWithinARange.java">Show Multiples Of 2 Numbers Within A Range</a></li>
     </ol>
     </details>
     <details>
