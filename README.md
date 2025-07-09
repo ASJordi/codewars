@@ -674,6 +674,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/ShowMultiplesOf2NumbersWithinARange.java">Show Multiples Of 2 Numbers Within A Range</a></li>
         <li><a href="/src/main/java/kyu7/SortAnArrayByValueAndIndex.java">Sort An Array By Value And Index</a></li>
         <li><a href="/src/main/java/kyu7/SortOutTheMenFromBoys.java">Sort Out The Men From Boys</a></li>
+        <li><a href="/src/main/java/kyu7/SumArrayWithDifferentBases.java">Sum Array With Different Bases</a></li>
     </ol>
     </details>
     <details>
