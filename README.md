@@ -675,6 +675,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SortAnArrayByValueAndIndex.java">Sort An Array By Value And Index</a></li>
         <li><a href="/src/main/java/kyu7/SortOutTheMenFromBoys.java">Sort Out The Men From Boys</a></li>
         <li><a href="/src/main/java/kyu7/SumArrayWithDifferentBases.java">Sum Array With Different Bases</a></li>
+        <li><a href="/src/main/java/kyu7/OrthogonalVectors.java">Orthogonal Vectors</a></li>
     </ol>
     </details>
     <details>
