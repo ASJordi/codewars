@@ -677,6 +677,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SumArrayWithDifferentBases.java">Sum Array With Different Bases</a></li>
         <li><a href="/src/main/java/kyu7/OrthogonalVectors.java">Orthogonal Vectors</a></li>
         <li><a href="/src/main/java/kyu7/BasicMathAddOrSubtract.java">Basic Math (Add or Subtract)</a></li>
+        <li><a href="/src/main/java/kyu7/SummingANumbersDigits.java">Summing A Numbers Digits</a></li>
     </ol>
     </details>
     <details>
