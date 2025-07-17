@@ -681,6 +681,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SumOfAngles.java">Sum Of Angles</a></li>
         <li><a href="/src/main/java/kyu7/SumOfArraySingles.java">Sum Of Array Singles</a></li>
         <li><a href="/src/main/java/kyu7/SumOfASequence.java">Sum Of A Sequence</a></li>
+        <li><a href="/src/main/java/kyu7/SumOfOddCubedNumbers.java">Sum Of Odd Cubed Numbers</a></li>
     </ol>
     </details>
     <details>
