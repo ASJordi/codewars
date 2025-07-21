@@ -684,6 +684,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SumOfOddCubedNumbers.java">Sum Of Odd Cubed Numbers</a></li>
         <li><a href="/src/main/java/kyu7/SumOfPowersOfItsDigits.java">Numbers Which Sum of Powers of Its Digits Is The Same Number</a></li>
         <li><a href="/src/main/java/kyu7/SumOfTriangularNumbers.java">Sum Of Triangular Numbers</a></li>
+        <li><a href="/src/main/java/kyu7/TargetDate.java">Target Date</a></li>
     </ol>
     </details>
     <details>
