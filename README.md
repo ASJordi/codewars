@@ -688,6 +688,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SwapPairsInArray.java">Swap Pairs In Array</a></li>
         <li><a href="/src/main/java/kyu7/ThePonyExpress.java">The Pony Express</a></li>
         <li><a href="/src/main/java/kyu7/SumOfTwoLowestPositiveIntegers.java">Sum Of Two Lowest Positive Integers</a></li>
+        <li><a href="/src/main/java/kyu7/SuzukiNeedsHelpLiningUpHisStudents.java"></a>Suzuki Needs Help Lining Up His Students</li>
     </ol>
     </details>
     <details>
