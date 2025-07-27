@@ -690,6 +690,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SumOfTwoLowestPositiveIntegers.java">Sum Of Two Lowest Positive Integers</a></li>
         <li><a href="/src/main/java/kyu7/SuzukiNeedsHelpLiningUpHisStudents.java"></a>Suzuki Needs Help Lining Up His Students</li>
         <li><a href="/src/main/java/kyu7/The12DaysOfChristmas.java"></a>The 12 Days Of Christmas</li>
+        <li><a href="/src/main/java/kyu7/TheFirstNonRepeatedCharacterInAString.java"></a>The First Non Repeated Character In A String</li>
     </ol>
     </details>
     <details>
