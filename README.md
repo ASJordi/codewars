@@ -691,6 +691,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/SuzukiNeedsHelpLiningUpHisStudents.java"></a>Suzuki Needs Help Lining Up His Students</li>
         <li><a href="/src/main/java/kyu7/The12DaysOfChristmas.java"></a>The 12 Days Of Christmas</li>
         <li><a href="/src/main/java/kyu7/TheFirstNonRepeatedCharacterInAString.java"></a>The First Non Repeated Character In A String</li>
+        <li><a href="/src/main/java/kyu7/TheOfficeIIBoredomScore.java"></a>The Office II Boredom Score</li>
     </ol>
     </details>
     <details>
