@@ -696,6 +696,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/TheOldSwitcheroo.java"></a>The Old Switcheroo</li>
         <li><a href="/src/main/java/kyu7/TrianglePerimeterIn2D.java"></a>Geometry Basics: Triangle Perimeter in 2D</li>
         <li><a href="/src/main/java/kyu7/TrueOrFalse.java"></a>Thinking & Testing : True or False</li>
+        <li><a href="/src/main/java/kyu7/TwoFightersOneWinner.java"></a>Two Fighters One Winner</li>
     </ol>
     </details>
     <details>
