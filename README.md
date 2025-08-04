@@ -698,6 +698,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/TrueOrFalse.java"></a>Thinking & Testing : True or False</li>
         <li><a href="/src/main/java/kyu7/TwoFightersOneWinner.java"></a>Two Fighters One Winner</li>
         <li><a href="/src/main/java/kyu7/TwoOldestAges.java"></a>Two Oldest Ages</li>
+        <li><a href="/src/main/java/kyu7/UglifyWord.java"></a>Uglify Word</li>
     </ol>
     </details>
     <details>
