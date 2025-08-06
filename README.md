@@ -700,6 +700,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/TwoOldestAges.java"></a>Two Oldest Ages</li>
         <li><a href="/src/main/java/kyu7/UglifyWord.java"></a>Uglify Word</li>
         <li><a href="/src/main/java/kyu7/UltimateArrayReverser.java"></a>Ultimate Array Reverser</li>
+        <li><a href="/src/main/java/kyu7/UnflattenAList.java"></a>Unflatten a list (Easy)</li>
     </ol>
     </details>
     <details>
