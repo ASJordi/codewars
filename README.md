@@ -699,6 +699,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/TwoFightersOneWinner.java"></a>Two Fighters One Winner</li>
         <li><a href="/src/main/java/kyu7/TwoOldestAges.java"></a>Two Oldest Ages</li>
         <li><a href="/src/main/java/kyu7/UglifyWord.java"></a>Uglify Word</li>
+        <li><a href="/src/main/java/kyu7/UltimateArrayReverser.java"></a>Ultimate Array Reverser</li>
     </ol>
     </details>
     <details>
