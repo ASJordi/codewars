@@ -703,6 +703,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/UnflattenAList.java"></a>Unflatten a list (Easy)</li>
         <li><a href="/src/main/java/kyu7/UniqOrNotUniq.java"></a>Thinking & Testing : Uniq or not Uniq</li>
         <li><a href="/src/main/java/kyu7/URLTimestamps.java"></a>URL Timestamps</li>
+        <li><a href="/src/main/java/kyu7/ValidParentheses.java"></a>Valid Parentheses</li>
     </ol>
     </details>
     <details>
