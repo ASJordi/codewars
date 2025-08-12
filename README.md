@@ -705,6 +705,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu7/URLTimestamps.java"></a>URL Timestamps</li>
         <li><a href="/src/main/java/kyu7/ValidParentheses.java"></a>Valid Parentheses</li>
         <li><a href="/src/main/java/kyu7/ValidTeamsAndNames.java"></a>Valid Teams And Names</li>
+        <li><a href="/src/main/java/kyu7/WillYouSurviveTheZombieOnslaught.java"></a>Will You Survive The Zombie On slaught</li>
     </ol>
     </details>
     <details>
