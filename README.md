@@ -258,6 +258,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu8/UsdCny.java">USD CNY</a></li>
         <li><a href="/src/main/java/kyu8/ClassyExtentions.java">Classy Extentions</a></li>
         <li><a href="/src/main/java/kyu8/SimpleCalculator.java">Simple Calculator</a></li>
+        <li><a href="/src/main/java/kyu8/IsThereAVowelInThere.java">Is there a vowel in there?</a></li>
       </ol>
     </details>
     <details>
