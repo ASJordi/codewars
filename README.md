@@ -744,6 +744,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/HowManyWorkingDays.java">How many working days</a></li>
         <li><a href="/src/main/java/kyu6/EverybodyHatesMondays.java">Everybody hates Mondays</a></li>
         <li><a href="/src/main/java/kyu6/PhoneWords.java">Phone Words</a></li>
+        <li><a href="/src/main/java/kyu6/AggregateOperations1.java">Some Fun with Aggregate Operations (Part 1)</a></li>
       </ol>
     </details>
   </ul>
