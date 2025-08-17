@@ -746,6 +746,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/PhoneWords.java">Phone Words</a></li>
         <li><a href="/src/main/java/kyu6/AggregateOperations1.java">Some Fun with Aggregate Operations (Part 1)</a></li>
         <li><a href="/src/main/java/kyu6/AggregateOperations2.java">Some Fun with Aggregate Operations (Part 2)</a></li>
+        <li><a href="/src/main/java/kyu6/AggregateOperations3.java">Some Fun with Aggregate Operations (Part 3)</a></li>
       </ol>
     </details>
   </ul>
