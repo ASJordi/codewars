@@ -749,6 +749,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/AggregateOperations3.java">Some Fun with Aggregate Operations (Part 3)</a></li>
         <li><a href="/src/main/java/kyu6/AggregateOperations4.java">Some Fun with Aggregate Operations (Part 4)</a></li>
         <li><a href="/src/main/java/kyu6/AlternatingSplit.java">Simple Encryption #1 - Alternating Split</a></li>
+        <li><a href="/src/main/java/kyu6/AreTheyTheSame.java">Are they the "same"?</a></li>
       </ol>
     </details>
   </ul>
