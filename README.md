@@ -751,6 +751,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/AlternatingSplit.java">Simple Encryption #1 - Alternating Split</a></li>
         <li><a href="/src/main/java/kyu6/AreTheyTheSame.java">Are they the "same"?</a></li>
         <li><a href="/src/main/java/kyu6/Array.java">+1 Array</a></li>
+        <li><a href="/src/main/java/kyu6/ArrayDiff.java">Array Diff</a></li>
       </ol>
     </details>
   </ul>
