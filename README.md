@@ -753,6 +753,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/Array.java">+1 Array</a></li>
         <li><a href="/src/main/java/kyu6/ArrayDiff.java">Array Diff</a></li>
         <li><a href="/src/main/java/kyu6/ArrhGrabscrab.java">Arrh, grabscrab!</a></li>
+        <li><a href="/src/main/java/kyu6/BackspacesInString.java">Backspaces In String</a></li>
       </ol>
     </details>
   </ul>
