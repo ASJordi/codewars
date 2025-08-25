@@ -754,6 +754,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/ArrayDiff.java">Array Diff</a></li>
         <li><a href="/src/main/java/kyu6/ArrhGrabscrab.java">Arrh, grabscrab!</a></li>
         <li><a href="/src/main/java/kyu6/BackspacesInString.java">Backspaces In String</a></li>
+        <li><a href="/src/main/java/kyu6/BasicEncryption.java">Basic Encryption</a></li>
       </ol>
     </details>
   </ul>
