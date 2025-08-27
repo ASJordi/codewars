@@ -756,6 +756,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/BackspacesInString.java">Backspaces In String</a></li>
         <li><a href="/src/main/java/kyu6/BasicEncryption.java">Basic Encryption</a></li>
         <li><a href="/src/main/java/kyu6/BeginYourDayWithAChallengeButAnEasyOne.java">Begin your day with a challenge, but an easy one.</a></li>
+        <li><a href="/src/main/java/kyu6/BinaryToTextASCIIConversion.java">Binary To Text ASCII Conversion</a></li>
       </ol>
     </details>
   </ul>
