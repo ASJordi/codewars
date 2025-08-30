@@ -759,6 +759,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/BinaryToTextASCIIConversion.java">Binary To Text ASCII Conversion</a></li>
         <li><a href="/src/main/java/kyu6/BitCounting.java">Bit Counting</a></li>
         <li><a href="/src/main/java/kyu6/CalendarWeek.java">Calendar Week</a></li>
+        <li><a href="/src/main/java/kyu6/CamelCaseMethod.java">Camel Case Method</a></li>
       </ol>
     </details>
   </ul>
