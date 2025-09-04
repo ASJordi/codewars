@@ -763,6 +763,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/Collatz.java">Collatz</a></li>
         <li><a href="/src/main/java/kyu6/CharacterWithLongestConsecutiveRepetition.java">Character With Longest Consecutive Repetition</a></li>
         <li><a href="/src/main/java/kyu6/ConsecutiveStrings.java">Consecutive Strings</a></li>
+        <li><a href="/src/main/java/kyu6/ConvertStringToCamelCase.java">Convert String To CamelCase</a></li>
       </ol>
     </details>
   </ul>
