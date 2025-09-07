@@ -766,6 +766,7 @@ cualquier recurso necesario para completar el ejercicio.
         <li><a href="/src/main/java/kyu6/ConvertStringToCamelCase.java">Convert String To CamelCase</a></li>
         <li><a href="/src/main/java/kyu6/CountTheDivisibleNumbers.java">Count The Divisible Numbers</a></li>
         <li><a href="/src/main/java/kyu6/CountTheSmileyFaces.java">Count The Smiley Faces</a></li>
+        <li><a href="/src/main/java/kyu6/CreatePhoneNumber.java">Create Phone Number</a></li>
       </ol>
     </details>
   </ul>
